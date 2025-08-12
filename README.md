@@ -32,8 +32,10 @@ code/
 ├── video_qa_evaluation_multi_round.py  # Multi-round video QA evaluation
 ├── video_qa_evaluation.py        # Main video QA evaluation script
 ├── video_qa_generator.py         # Video QA generation utilities
-└── data/
-    └── VideoSimpleQA.json        # Main dataset file
+├── download.py                   # Video downloader from Wikimedia Commons
+data/
+├── VideoSimpleQA.json        		# Main dataset file
+README.md
 ```
 
 ## 🚀 Quick Start
@@ -41,8 +43,29 @@ code/
 ### Prerequisites
 
 ```bash
-pip install openai asyncio tqdm multiprocessing
+pip install openai asyncio tqdm multiprocessing requests beautifulsoup4
 ```
+
+**For video downloading, also install FFmpeg:**
+
+- **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html)
+- **macOS**: `brew install ffmpeg`
+- **Linux**: `sudo apt-get install ffmpeg`
+
+## 📥 Video Download Setup
+
+### Download Videos from Wikimedia Commons
+
+The videos for VideoSimpleQA can be downloaded using the provided download script:
+
+```bash
+python download.py
+```
+
+**Output:**
+
+- Downloaded MP4 videos will be saved in `videos/` directory
+- Videos are named using the date format: `YYYY-MM-DD.mp4`
 
 ## 📋 Execution Examples
 
@@ -227,3 +250,11 @@ python bestofn_evaluation.py
 - `intermediate_results.json`: Intermediate candidate answers
 - `error_log_BoN.txt`: Error log
 
+## License <a name="license"></a>
+
+The project is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). They are available strictly for non-commercial research. More guidelines of dataset can be found in [here](./DATA.md#license).
+
+
+## Opt-Out Approach <a name="opt-out-approach"></a>
+
+We uphold the rights of individuals and copyright holders. If you are featured in any of our video annotations or hold copyright to a video and wish to have its annotation removed from our dataset, please reach out to us. Send an email to mengcaopku@gmail.com with the subject line beginning with *VideoSimpleQA-optout*, or raise an issue with the same title format. We commit to reviewing your request promptly and taking suitable action.
