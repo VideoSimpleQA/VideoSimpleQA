@@ -8,18 +8,18 @@
     "QA_Pair_3_Question": "What is the capital of North Korea?",
     "QA_Pair_3_Answer": "Pyongyang",
     "QA_Pair_4_Question": "In which year did Pyongyang hold Kim Il Sung's funeral?",
-    "QA_Pair_4_Answer": 1994,
+    "QA_Pair_4_Answer": "1994",
     "Multi_hop_Question": "In which year did the capital of the country that conducted the event shown in the video in 2017 hold Kim Il Sung's funeral?",
-    "Multi_hop_Answer": 1994
+    "Multi_hop_Answer": "1994"
   },
   {
     "date": "2009-06-13",
     "QA_Pair_1_Question": "What is the name of the space station shown in the video?",
     "QA_Pair_1_Answer": "Skylab",
     "QA_Pair_2_Question": "In which year was Skylab launched into orbit?",
-    "QA_Pair_2_Answer": 1973,
+    "QA_Pair_2_Answer": "1973",
     "Multi_hop_Question": "In which year was the space station shown in the video launched into orbit?",
-    "Multi_hop_Answer": 1973
+    "Multi_hop_Answer": "1973"
   },
   {
     "date": "2009-06-15",
@@ -30,9 +30,9 @@
     "QA_Pair_3_Question": "Which country is the Republican Party from? ",
     "QA_Pair_3_Answer": "The United States",
     "QA_Pair_4_Question": "How many states are there in the United States?",
-    "QA_Pair_4_Answer": 50,
+    "QA_Pair_4_Answer": "50",
     "Multi_hop_Question": "How many states are there in the country that the political party of the person receiving the degree in the video is from?",
-    "Multi_hop_Answer": 50
+    "Multi_hop_Answer": "50"
   },
   {
     "date": "2009-06-18",
@@ -41,7 +41,7 @@
     "QA_Pair_2_Question": "Who was the chief designer of the first artificial satellite?",
     "QA_Pair_2_Answer": "Sergei Korolev",
     "QA_Pair_3_Question": "In which year was Sergei Korolev born?",
-    "QA_Pair_3_Answer": 1907,
+    "QA_Pair_3_Answer": "1907",
     "QA_Pair_4_Question": "What is the name of the treaty signed in 1907 that transferred the Korean government and military control to Japan?",
     "QA_Pair_4_Answer": "Japan–Korea Treaty of 1907",
     "Multi_hop_Question": "What is the name of the treaty signed in the year the chief designer of the first object that is continuously circling was born that transferred the Korean government and military control to Japan?",
@@ -56,9 +56,9 @@
     "QA_Pair_3_Question": "In which US state is Fort Worth located?",
     "QA_Pair_3_Answer": "Texas",
     "QA_Pair_4_Question": "In which year did Texas gain independence from Mexico?",
-    "QA_Pair_4_Answer": 1836,
+    "QA_Pair_4_Answer": "1836",
     "Multi_hop_Question": "In which year did the state where the city in the US that had the main assembly plant for the aircraft mentioned in the video gain independence from Mexico?",
-    "Multi_hop_Answer": 1836
+    "Multi_hop_Answer": "1836"
   },
   {
     "date": "2009-07-10",
@@ -74,9 +74,9 @@
     "QA_Pair_1_Question": "What is the first aircraft that appears in the video?",
     "QA_Pair_1_Answer": "The Wright Flyer",
     "QA_Pair_2_Question": "On which date did the Wright Flyer achieve its first successful powered flight?",
-    "QA_Pair_2_Answer": 1447,
+    "QA_Pair_2_Answer": "1447",
     "Multi_hop_Question": "On which date did the first aircraft that appeared in the video achieve its first successful powered flight?",
-    "Multi_hop_Answer": 1447
+    "Multi_hop_Answer": "1447"
   },
   {
     "date": "2009-08-02",
@@ -94,9 +94,9 @@
     "QA_Pair_1_Question": "What type of ship is shown in the video?",
     "QA_Pair_1_Answer": "Cornish pilot gig",
     "QA_Pair_2_Question": "Which year was the Cornish Pilot Gig Association founded as the governing body for Cornish pilot gig rowing?",
-    "QA_Pair_2_Answer": 1986,
+    "QA_Pair_2_Answer": "1986",
     "Multi_hop_Question": "Which year was the governing association for the type of ship shown in the video founded?",
-    "Multi_hop_Answer": 1986
+    "Multi_hop_Answer": "1986"
   },
   {
     "date": "2009-08-10",
@@ -114,9 +114,9 @@
     "QA_Pair_1_Question": "What is the model of the carrier aircraft shown in the video?",
     "QA_Pair_1_Answer": "Boeing 747",
     "QA_Pair_2_Question": "Which year did the Boeing 747 have its maiden flight?",
-    "QA_Pair_2_Answer": 1969,
+    "QA_Pair_2_Answer": "1969",
     "Multi_hop_Question": "Which year did the carrier aircraft shown in the video have its maiden flight?",
-    "Multi_hop_Answer": 1969
+    "Multi_hop_Answer": "1969"
   },
   {
     "date": "2009-08-22",
@@ -134,18 +134,18 @@
     "QA_Pair_1_Question": "What is the model of the aircraft being refueled in the video?",
     "QA_Pair_1_Answer": "F/A-18 Hornet",
     "QA_Pair_2_Question": "In which year did the F/A-18 Hornet have its first flight?",
-    "QA_Pair_2_Answer": 1978,
+    "QA_Pair_2_Answer": "1978",
     "Multi_hop_Question": "In which specific year did the aircraft receiving fueling in the video make its first flight?",
-    "Multi_hop_Answer": 1978
+    "Multi_hop_Answer": "1978"
   },
   {
     "date": "2009-09-04",
     "QA_Pair_1_Question": "What film is the video excerpt taken from?",
     "QA_Pair_1_Answer": "Life of the Party",
     "QA_Pair_2_Question": "Which year was the Fatty Arbuckle film Life of the Party released?",
-    "QA_Pair_2_Answer": 1920,
+    "QA_Pair_2_Answer": "1920",
     "Multi_hop_Question": "In which year was the film shown in the video excerpt released?",
-    "Multi_hop_Answer": 1920
+    "Multi_hop_Answer": "1920"
   },
   {
     "date": "2009-09-10",
@@ -199,11 +199,11 @@
     "QA_Pair_1_Question": "What is the celestial event shown in the video?",
     "QA_Pair_1_Answer": "The transit of Venus",
     "QA_Pair_2_Question": "In which year have people seen the most recent observable transit of Venus from Earth by the year of 2025?",
-    "QA_Pair_2_Answer": 2012,
+    "QA_Pair_2_Answer": "2012",
     "QA_Pair_3_Question": "In which year will occur the nearest observable transit of Venus from Earth after the year of 2012?",
-    "QA_Pair_3_Answer": 2117,
+    "QA_Pair_3_Answer": "2117",
     "Multi_hop_Question": "In which year will occur the nearest observable celestial event shown in the video from Earth after the most recent observable celestial event shown in the video from Earth by the year of 2025?",
-    "Multi_hop_Answer": 2117
+    "Multi_hop_Answer": "2117"
   },
   {
     "date": "2009-09-28",
@@ -219,11 +219,11 @@
     "QA_Pair_1_Question": "Which company produced the aircraft in the video?",
     "QA_Pair_1_Answer": "NASA",
     "QA_Pair_2_Question": "Which year was NASA established?",
-    "QA_Pair_2_Answer": 1958,
+    "QA_Pair_2_Answer": "1958",
     "QA_Pair_3_Question": "How many main research laboratories did NASA have in 1958?",
-    "QA_Pair_3_Answer": 3,
+    "QA_Pair_3_Answer": "3",
     "Multi_hop_Question": "How many main research laboratories did the company that produce the aircraft in the video have in the year it was founded?",
-    "Multi_hop_Answer": 3
+    "Multi_hop_Answer": "3"
   },
   {
     "date": "2009-10-07",
@@ -250,27 +250,27 @@
     "QA_Pair_2_Question": "Which treaty formally ended the First Sino-Japanese War?",
     "QA_Pair_2_Answer": "Treaty of Shimonoseki",
     "QA_Pair_3_Question": "In which year was the Treaty of Shimonoseki signed?",
-    "QA_Pair_3_Answer": 1895,
+    "QA_Pair_3_Answer": "1895",
     "Multi_hop_Question": "In which year was the treaty that ended the naval battles in the video signed?",
-    "Multi_hop_Answer": 1895
+    "Multi_hop_Answer": "1895"
   },
   {
     "date": "2009-10-12",
     "QA_Pair_1_Question": "What is the scientific name of the animal in the video?",
     "QA_Pair_1_Answer": "Pelecanus onocrotalus",
     "QA_Pair_2_Question": "In which year was the Pelecanus onocrotalus consistently listed as the least watched species on the IUCN Red List of Threatened Species?",
-    "QA_Pair_2_Answer": 1998,
+    "QA_Pair_2_Answer": "1998",
     "Multi_hop_Question": "In which year has the animal in the video been consistently listed as the least watched species on the IUCN Red List of Threatened Species?",
-    "Multi_hop_Answer": 1998
+    "Multi_hop_Answer": "1998"
   },
   {
     "date": "2009-10-28",
     "QA_Pair_1_Question": "What is the model of the airplane in the video?",
     "QA_Pair_1_Answer": "Messerschmitt Bf 109",
     "QA_Pair_2_Question": "Which year did the Messerschmitt Bf 109 make its maiden flight?",
-    "QA_Pair_2_Answer": 1935,
+    "QA_Pair_2_Answer": "1935",
     "Multi_hop_Question": "Which year did the airplane model shown in the video make its maiden flight?",
-    "Multi_hop_Answer": 1935
+    "Multi_hop_Answer": "1935"
   },
   {
     "date": "2009-10-28",
@@ -317,9 +317,9 @@
     "QA_Pair_2_Question": "Which experimental designation did the United States assign to the Active Aeroelastic Wing research aircraft?",
     "QA_Pair_2_Answer": "X-53",
     "QA_Pair_3_Question": "In which year did the X-53 make its first flight?",
-    "QA_Pair_3_Answer": 2002,
+    "QA_Pair_3_Answer": "2002",
     "Multi_hop_Question": "In which year did the aircraft, which was assigned the experimental designation by the United States in the video, make its first flight?",
-    "Multi_hop_Answer": 2002
+    "Multi_hop_Answer": "2002"
   },
   {
     "date": "2009-11-15",
@@ -355,9 +355,9 @@
     "QA_Pair_1_Question": "What type of aircraft is shown in the video?",
     "QA_Pair_1_Answer": "Messerschmitt M17",
     "QA_Pair_2_Question": "In which year did the Messerschmitt M17 aircraft first fly?",
-    "QA_Pair_2_Answer": 1925,
+    "QA_Pair_2_Answer": "1925",
     "Multi_hop_Question": "In which year did the aircraft shown in the video first fly?",
-    "Multi_hop_Answer": 1925
+    "Multi_hop_Answer": "1925"
   },
   {
     "date": "2009-12-08",
@@ -402,9 +402,9 @@
     "QA_Pair_1_Question": "What kind of natural disasters occur in the video?",
     "QA_Pair_1_Answer": "Earthquake",
     "QA_Pair_2_Question": "In which year did the deadliest earthquake of the 20th century occur?",
-    "QA_Pair_2_Answer": 1976,
+    "QA_Pair_2_Answer": "1976",
     "Multi_hop_Question": "In which year of the 20th century did the deadliest natural disaster in the video occur?",
-    "Multi_hop_Answer": 1976
+    "Multi_hop_Answer": "1976"
   },
   {
     "date": "2010-01-13",
@@ -420,18 +420,18 @@
     "QA_Pair_1_Question": "What martial art is the person performing in the video?",
     "QA_Pair_1_Answer": "Karate kata",
     "QA_Pair_2_Question": "In which year did karate first appear as an official medal sport at the Summer Olympic Games?",
-    "QA_Pair_2_Answer": 2020,
+    "QA_Pair_2_Answer": "2020",
     "Multi_hop_Question": "In which year did the martial art being performed in the video first appear as an official medal sport at the Summer Olympic Games?",
-    "Multi_hop_Answer": 2020
+    "Multi_hop_Answer": "2020"
   },
   {
     "date": "2010-01-14",
     "QA_Pair_1_Question": "What martial art is displayed in the video?",
     "QA_Pair_1_Answer": "Karate",
     "QA_Pair_2_Question": "Which year marked the debut of Karate as an official Olympic medal sport?",
-    "QA_Pair_2_Answer": 2020,
+    "QA_Pair_2_Answer": "2020",
     "Multi_hop_Question": "Which year marked the debut of the martial art shown in the video as an official Olympic medal sport?",
-    "Multi_hop_Answer": 2020
+    "Multi_hop_Answer": "2020"
   },
   {
     "date": "2010-01-24",
@@ -505,9 +505,9 @@
     "QA_Pair_1_Question": "What is the airplane in the video?",
     "QA_Pair_1_Answer": "Grumman X-29",
     "QA_Pair_2_Question": "In which year did the Grumman X-29 make its maiden flight?",
-    "QA_Pair_2_Answer": 1984,
+    "QA_Pair_2_Answer": "1984",
     "Multi_hop_Question": "In which year did the airplane in the video make its maiden flight?",
-    "Multi_hop_Answer": 1984
+    "Multi_hop_Answer": "1984"
   },
   {
     "date": "2010-03-07",
@@ -516,27 +516,27 @@
     "QA_Pair_2_Question": "Which company is the manufacturer of the Grumman X-29 experimental aircraft?",
     "QA_Pair_2_Answer": "Grumman Aerospace Corporation",
     "QA_Pair_3_Question": "In which year was the Grumman Aerospace Corporation founded?",
-    "QA_Pair_3_Answer": 1929,
+    "QA_Pair_3_Answer": "1929",
     "Multi_hop_Question": "In which year was the manufacturer of the experimental aircraft shown in the video founded?",
-    "Multi_hop_Answer": 1929
+    "Multi_hop_Answer": "1929"
   },
   {
     "date": "2010-03-10",
     "QA_Pair_1_Question": "What is the spacecraft in the video?",
     "QA_Pair_1_Answer": "Apollo 17",
     "QA_Pair_2_Question": "In which year was Apollo 17 launched from Earth?",
-    "QA_Pair_2_Answer": 1972,
+    "QA_Pair_2_Answer": "1972",
     "Multi_hop_Question": "In which year was the spacecraft in the video launched from Earth?",
-    "Multi_hop_Answer": 1972
+    "Multi_hop_Answer": "1972"
   },
   {
     "date": "2010-03-10",
     "QA_Pair_1_Question": "What is the spacecraft in the video?",
     "QA_Pair_1_Answer": "Apollo 17",
     "QA_Pair_2_Question": "Which year did Apollo 17 launch from Earth?",
-    "QA_Pair_2_Answer": 1972,
+    "QA_Pair_2_Answer": "1972",
     "Multi_hop_Question": "Which year was the spaceship in the video launched from Earth?",
-    "Multi_hop_Answer": 1972
+    "Multi_hop_Answer": "1972"
   },
   {
     "date": "2010-03-13",
@@ -545,9 +545,9 @@
     "QA_Pair_2_Question": "Who made the first in-flight film?",
     "QA_Pair_2_Answer": "Wilbur Wright",
     "QA_Pair_3_Question": "Which year was Wilbur Wright born?",
-    "QA_Pair_3_Answer": 1867,
+    "QA_Pair_3_Answer": "1867",
     "Multi_hop_Question": "Which year was the person who made the movie in the video born?",
-    "Multi_hop_Answer": 1867
+    "Multi_hop_Answer": "1867"
   },
   {
     "date": "2010-03-18",
@@ -563,18 +563,18 @@
     "QA_Pair_1_Question": "Which type of aircraft is flying through the air in the video?",
     "QA_Pair_1_Answer": "F-14D Tomcat",
     "QA_Pair_2_Question": "In which year did the F-14D Tomcat first fly?",
-    "QA_Pair_2_Answer": 1970,
+    "QA_Pair_2_Answer": "1970",
     "Multi_hop_Question": "In which year did the aircraft shown flying through the sky in the video make its first flight?",
-    "Multi_hop_Answer": 1970
+    "Multi_hop_Answer": "1970"
   },
   {
     "date": "2010-04-07",
     "QA_Pair_1_Question": "What is the name of the aircraft shown in the video?",
     "QA_Pair_1_Answer": "Helios Prototype.",
     "QA_Pair_2_Question": "In which year did the Helios Prototype first fly?",
-    "QA_Pair_2_Answer": 1999,
+    "QA_Pair_2_Answer": "1999",
     "Multi_hop_Question": "In which year did the aircraft shown in the video first fly?",
-    "Multi_hop_Answer": 1999
+    "Multi_hop_Answer": "1999"
   },
   {
     "date": "2010-04-13",
@@ -603,9 +603,9 @@
     "QA_Pair_1_Question": "Which celestial body is being simulated in the video?",
     "QA_Pair_1_Answer": "Comet",
     "QA_Pair_2_Question": "How many comets are known as of November 2021?",
-    "QA_Pair_2_Answer": 4584,
+    "QA_Pair_2_Answer": "4584",
     "Multi_hop_Question": "How many celestial bodies are simulated in the video known as of November 2021?",
-    "Multi_hop_Answer": 4584
+    "Multi_hop_Answer": "4584"
   },
   {
     "date": "2010-04-21",
@@ -632,18 +632,18 @@
     "QA_Pair_2_Question": "Who led the expansion of Munich's New Town Hall in 1898?",
     "QA_Pair_2_Answer": "Georg von Hauberrisser",
     "QA_Pair_3_Question": "What year was Georg von Hauberrisser born?",
-    "QA_Pair_3_Answer": 1841,
+    "QA_Pair_3_Answer": "1841",
     "Multi_hop_Question": "In what year was the person who led the expansion of the building shown in the video born?",
-    "Multi_hop_Answer": 1841
+    "Multi_hop_Answer": "1841"
   },
   {
     "date": "2010-05-10",
     "QA_Pair_1_Question": "What is the lunar rover in the video?",
     "QA_Pair_1_Answer": "Apollo 16",
     "QA_Pair_2_Question": "Which year was Apollo 16 launched?",
-    "QA_Pair_2_Answer": 1972,
+    "QA_Pair_2_Answer": "1972",
     "Multi_hop_Question": "Which year was the lunar rover in the video launched?",
-    "Multi_hop_Answer": 1972
+    "Multi_hop_Answer": "1972"
   },
   {
     "date": "2010-05-10",
@@ -710,11 +710,11 @@
     "QA_Pair_1_Question": "What is the name of the stadium shown in the video?",
     "QA_Pair_1_Answer": "Feyenoord-stadion",
     "QA_Pair_2_Question": "In which year was Feyenoord-stadion officially opened?",
-    "QA_Pair_2_Answer": 1937,
+    "QA_Pair_2_Answer": "1937",
     "QA_Pair_3_Question": "In which year Feyenoord-stadion was firstly extensively renovated after 1937?",
-    "QA_Pair_3_Answer": 1994,
+    "QA_Pair_3_Answer": "1994",
     "Multi_hop_Question": "In which year the stadium shown in the video was firstly extensively renovated after the year it was officially opened?",
-    "Multi_hop_Answer": 1994
+    "Multi_hop_Answer": "1994"
   },
   {
     "date": "2010-06-23",
@@ -1035,9 +1035,9 @@
     "QA_Pair_2_Question": "What is the organization about blacksmiths established in the UK in 1978?",
     "QA_Pair_2_Answer": "The British Artist Blacksmiths Association",
     "QA_Pair_3_Question": "How many members did the British Artist Blacksmiths Association have when it was first established?",
-    "QA_Pair_3_Answer": 30,
+    "QA_Pair_3_Answer": "30",
     "Multi_hop_Question": "How many members did the organization established in the UK in 1978, related to the profession of the three people in the video, have when it was first founded?",
-    "Multi_hop_Answer": 30
+    "Multi_hop_Answer": "30"
   },
   {
     "date": "2010-09-26",
@@ -1053,9 +1053,9 @@
     "QA_Pair_1_Question": "What is the transportation in the video?",
     "QA_Pair_1_Answer": "Tram",
     "QA_Pair_2_Question": "In which year was the first tram in Australia opened in Sydney?",
-    "QA_Pair_2_Answer": 1860,
+    "QA_Pair_2_Answer": "1860",
     "Multi_hop_Question": "In which year was the first route of this kind of transportation shown in the video in Australia opened in Sydney?",
-    "Multi_hop_Answer": 1860
+    "Multi_hop_Answer": "1860"
   },
   {
     "date": "2010-09-27",
@@ -1151,9 +1151,9 @@
     "QA_Pair_2_Question": "Who is Eleanor Roosevelt's husband?",
     "QA_Pair_2_Answer": "Franklin D. Roosevelt",
     "QA_Pair_3_Question": "What year was Franklin D. Roosevelt born?",
-    "QA_Pair_3_Answer": 1882,
+    "QA_Pair_3_Answer": "1882",
     "Multi_hop_Question": "What year was the speaker's husband born in the video?",
-    "Multi_hop_Answer": 1882
+    "Multi_hop_Answer": "1882"
   },
   {
     "date": "2010-10-11",
@@ -1302,9 +1302,9 @@
     "QA_Pair_2_Question": "Who filmed the movie What happened on Twenty-third Street , New York City?",
     "QA_Pair_2_Answer": "Edwin S. Porter",
     "QA_Pair_3_Question": "In which year was Edwin S. Porter born?",
-    "QA_Pair_3_Answer": 1870,
+    "QA_Pair_3_Answer": "1870",
     "Multi_hop_Question": "In which year was the person who filmed the movie in the video born?",
-    "Multi_hop_Answer": 1870
+    "Multi_hop_Answer": "1870"
   },
   {
     "date": "2010-11-04",
@@ -1313,9 +1313,9 @@
     "QA_Pair_2_Question": "Which Scottish inventor patented the Stirling engine in 1816?",
     "QA_Pair_2_Answer": "Robert Stirling",
     "QA_Pair_3_Question": "What year was Robert Stirling born?",
-    "QA_Pair_3_Answer": 1790,
+    "QA_Pair_3_Answer": "1790",
     "Multi_hop_Question": "What year was the Scottish inventor who patented the engine shown in the video in 1816 born?",
-    "Multi_hop_Answer": 1790
+    "Multi_hop_Answer": "1790"
   },
   {
     "date": "2010-11-05",
@@ -1364,9 +1364,9 @@
     "QA_Pair_3_Question": "Where is the capital of Israel?",
     "QA_Pair_3_Answer": "Jerusalem",
     "QA_Pair_4_Question": "In which year was Jerusalem declared the capital of Arabic culture?",
-    "QA_Pair_4_Answer": 2009,
+    "QA_Pair_4_Answer": "2009",
     "Multi_hop_Question": "In which year was the capital of the country that honors the butterfly shown in the video as its national butterfly declared the capital of Arabic culture?",
-    "Multi_hop_Answer": 2009
+    "Multi_hop_Answer": "2009"
   },
   {
     "date": "2010-11-09",
@@ -1377,9 +1377,9 @@
     "QA_Pair_3_Question": "Where is the capital of Israel?",
     "QA_Pair_3_Answer": "Jerusalem",
     "QA_Pair_4_Question": "In which year was the Old City of Jerusalem inscribed as a World Heritage Site?",
-    "QA_Pair_4_Answer": 1981,
+    "QA_Pair_4_Answer": "1981",
     "Multi_hop_Question": "In which year was the old city of the capital of the country that honors the butterfly shown in this video as its national butterfly inscribed as a World Heritage Site?",
-    "Multi_hop_Answer": 1981
+    "Multi_hop_Answer": "1981"
   },
   {
     "date": "2010-11-10",
@@ -1404,9 +1404,9 @@
     "QA_Pair_1_Question": "What is the railway in the video called?",
     "QA_Pair_1_Answer": "Bergen Line",
     "QA_Pair_2_Question": "In which year was the Bergen Line officially opened to through traffic?",
-    "QA_Pair_2_Answer": 1909,
+    "QA_Pair_2_Answer": "1909",
     "Multi_hop_Question": "In which year was the railway shown in the video officially opened to through traffic?",
-    "Multi_hop_Answer": 1909
+    "Multi_hop_Answer": "1909"
   },
   {
     "date": "2010-11-14",
@@ -1431,18 +1431,18 @@
     "QA_Pair_1_Question": "What is the model of the vehicle in the video?",
     "QA_Pair_1_Answer": "Lanz Bulldog",
     "QA_Pair_2_Question": "In which year did Lanz Bulldog first start production?",
-    "QA_Pair_2_Answer": 1921,
+    "QA_Pair_2_Answer": "1921",
     "Multi_hop_Question": "In which year did the vehicle in the video first start production?",
-    "Multi_hop_Answer": 1921
+    "Multi_hop_Answer": "1921"
   },
   {
     "date": "2010-11-21",
     "QA_Pair_1_Question": "What type of carries via the bridge is shown in the video?",
     "QA_Pair_1_Answer": "Elevated train",
     "QA_Pair_2_Question": "Until when elevated trains were suspended on Brooklyn Bridge?",
-    "QA_Pair_2_Answer": 1944,
+    "QA_Pair_2_Answer": "1944",
     "Multi_hop_Question": "Until when the type of carries via the bridge was suspended on Brooklyn Bridge?",
-    "Multi_hop_Answer": 1944
+    "Multi_hop_Answer": "1944"
   },
   {
     "date": "2010-11-21",
@@ -1469,9 +1469,9 @@
     "QA_Pair_1_Question": "What element causes the explosion when added to cold water in the video?",
     "QA_Pair_1_Answer": "Caesium",
     "QA_Pair_2_Question": "In which year was caesium first discovered?",
-    "QA_Pair_2_Answer": 1860,
+    "QA_Pair_2_Answer": "1860",
     "Multi_hop_Question": "In which year was the explosive element shown reacting with cold water in the video first discovered?",
-    "Multi_hop_Answer": 1860
+    "Multi_hop_Answer": "1860"
   },
   {
     "date": "2010-11-30",
@@ -1487,18 +1487,18 @@
     "QA_Pair_1_Question": "What is the name of the steam tram in the video?",
     "QA_Pair_1_Answer": "Feuriger Elias",
     "QA_Pair_2_Question": "In which year did Feuriger Elias start operating?",
-    "QA_Pair_2_Answer": 1997,
+    "QA_Pair_2_Answer": "1997",
     "Multi_hop_Question": "In which year did the steam tram in the video begin operation?",
-    "Multi_hop_Answer": 1997
+    "Multi_hop_Answer": "1997"
   },
   {
     "date": "2010-12-05",
     "QA_Pair_1_Question": "What metallic element did the person in the video use?",
     "QA_Pair_1_Answer": "Tin",
     "QA_Pair_2_Question": "What is the atomic number of tin in the periodic table?",
-    "QA_Pair_2_Answer": 50,
+    "QA_Pair_2_Answer": "50",
     "Multi_hop_Question": "What is the atomic number of the metallic element used by the person in the video in the periodic table?",
-    "Multi_hop_Answer": 50
+    "Multi_hop_Answer": "50"
   },
   {
     "date": "2010-12-07",
@@ -1594,9 +1594,9 @@
     "QA_Pair_2_Question": "Which company produced the Frankenstein(1910 film)?",
     "QA_Pair_2_Answer": "Edison Manufacturing Company",
     "QA_Pair_3_Question": "In which year was Edison Manufacturing Company founded?",
-    "QA_Pair_3_Answer": 1889,
+    "QA_Pair_3_Answer": "1889",
     "Multi_hop_Question": "In which year was the company produced the movie shown in the video founded?",
-    "Multi_hop_Answer": 1889
+    "Multi_hop_Answer": "1889"
   },
   {
     "date": "2010-12-20",
@@ -1672,9 +1672,9 @@
     "QA_Pair_2_Question": "Who is the architect of the Moscow State Historical Museum?",
     "QA_Pair_2_Answer": "Vladimir Osipovich Sherwood",
     "QA_Pair_3_Question": "In which year was Vladimir Osipovich Sherwood born?",
-    "QA_Pair_3_Answer": 1832,
+    "QA_Pair_3_Answer": "1832",
     "Multi_hop_Question": "In which year was the architect of the museum shown in the video born?",
-    "Multi_hop_Answer": 1832
+    "Multi_hop_Answer": "1832"
   },
   {
     "date": "2011-01-12",
@@ -1692,18 +1692,18 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "Christine",
     "QA_Pair_2_Question": "In which year did the director of the movie \"Christine\" die?",
-    "QA_Pair_2_Answer": 1955,
+    "QA_Pair_2_Answer": "1955",
     "Multi_hop_Question": "In which year did the director of the movie shown in the video die?",
-    "Multi_hop_Answer": 1955
+    "Multi_hop_Answer": "1955"
   },
   {
     "date": "2011-01-15",
     "QA_Pair_1_Question": "Which movie is this video clip from?",
     "QA_Pair_1_Answer": "Christine",
     "QA_Pair_2_Question": "In which year was the director of the film Christine, born?",
-    "QA_Pair_2_Answer": 1881,
+    "QA_Pair_2_Answer": "1881",
     "Multi_hop_Question": "In which year was the film director of the video clip born?",
-    "Multi_hop_Answer": 1881
+    "Multi_hop_Answer": "1881"
   },
   {
     "date": "2011-01-15",
@@ -1725,9 +1725,9 @@
     "QA_Pair_2_Question": "Who directed the filming of Christine?",
     "QA_Pair_2_Answer": "Alexandre Tsutsunava",
     "QA_Pair_3_Question": "In which year was Alexandre Tsutsunava born?",
-    "QA_Pair_3_Answer": 1881,
+    "QA_Pair_3_Answer": "1881",
     "Multi_hop_Question": "In which year was the person who directed the filming of the film shown in the video born?",
-    "Multi_hop_Answer": 1881
+    "Multi_hop_Answer": "1881"
   },
   {
     "date": "2011-01-16",
@@ -1832,9 +1832,9 @@
     "QA_Pair_1_Question": "What are the people in the video doing?",
     "QA_Pair_1_Answer": "Skiing",
     "QA_Pair_2_Question": "In which year was skiing included as an official event in the Winter Olympics?",
-    "QA_Pair_2_Answer": 1924,
+    "QA_Pair_2_Answer": "1924",
     "Multi_hop_Question": "In which year was the sport in the video listed as an official event of the Winter Olympics?",
-    "Multi_hop_Answer": 1924
+    "Multi_hop_Answer": "1924"
   },
   {
     "date": "2011-02-12",
@@ -1899,18 +1899,18 @@
     "QA_Pair_1_Question": "What is the name of the movie shown in the video?",
     "QA_Pair_1_Answer": "Roundhay Garden Scene",
     "QA_Pair_2_Question": "In which year was Roundhay Garden Scene filmed?",
-    "QA_Pair_2_Answer": 1888,
+    "QA_Pair_2_Answer": "1888",
     "Multi_hop_Question": "In which year was the movie shown in the video filmed?",
-    "Multi_hop_Answer": 1888
+    "Multi_hop_Answer": "1888"
   },
   {
     "date": "2011-03-07",
     "QA_Pair_1_Question": "What is the title of the footage shown in the video？",
     "QA_Pair_1_Answer": "Roundhay Garden Scene",
     "QA_Pair_2_Question": "In which year was the Roundhay Garden Scene filmed?",
-    "QA_Pair_2_Answer": 1888,
+    "QA_Pair_2_Answer": "1888",
     "Multi_hop_Question": "In which year was the the title of the footage shown in the video filmed?",
-    "Multi_hop_Answer": 1888
+    "Multi_hop_Answer": "1888"
   },
   {
     "date": "2011-03-07",
@@ -1934,9 +1934,9 @@
     "QA_Pair_3_Question": "Which country does Leeds belong to?",
     "QA_Pair_3_Answer": "England",
     "QA_Pair_4_Question": "In which year did England officially join World War I?",
-    "QA_Pair_4_Answer": 1914,
+    "QA_Pair_4_Answer": "1914",
     "Multi_hop_Question": "In which year did the country where the city that filmed the footage in the video belongs to officially join World War I?",
-    "Multi_hop_Answer": 1914
+    "Multi_hop_Answer": "1914"
   },
   {
     "date": "2011-03-09",
@@ -2023,9 +2023,9 @@
     "QA_Pair_1_Question": "What city was filmed in the video?",
     "QA_Pair_1_Answer": "Kolpino",
     "QA_Pair_2_Question": "Which year was Kolpino founded?",
-    "QA_Pair_2_Answer": 1722,
+    "QA_Pair_2_Answer": "1722",
     "Multi_hop_Question": "Which year was the city filmed in the video founded?",
-    "Multi_hop_Answer": 1722
+    "Multi_hop_Answer": "1722"
   },
   {
     "date": "2011-03-18",
@@ -2225,9 +2225,9 @@
     "QA_Pair_3_Question": "What is the smallest country in Europe by area?",
     "QA_Pair_3_Answer": "Vatican City",
     "QA_Pair_4_Question": "In which year was Vatican City formally established as a sovereign state?",
-    "QA_Pair_4_Answer": 1929,
+    "QA_Pair_4_Answer": "1929",
     "Multi_hop_Question": "In which year was the smallest country in the continent where the species of the fly in the video is predominantly found in the wild formally established as a sovereign state?",
-    "Multi_hop_Answer": 1929
+    "Multi_hop_Answer": "1929"
   },
   {
     "date": "2011-05-03",
@@ -2354,9 +2354,9 @@
     "QA_Pair_1_Question": "What is the machine that is being dragged in the video?",
     "QA_Pair_1_Answer": "Round baler",
     "QA_Pair_2_Question": "In which year did Allis-Chalmers introduce the round baler into the market?",
-    "QA_Pair_2_Answer": 1947,
+    "QA_Pair_2_Answer": "1947",
     "Multi_hop_Question": "In which year did Allis-Chalmers introduce the machine being dragged in the video into the market?",
-    "Multi_hop_Answer": 1947
+    "Multi_hop_Answer": "1947"
   },
   {
     "date": "2011-06-03",
@@ -2365,9 +2365,9 @@
     "QA_Pair_2_Question": "Which German engineer designed the Looping Star roller coaster？",
     "QA_Pair_2_Answer": "Anton Schwarzkopf",
     "QA_Pair_3_Question": "In which year was Anton Schwartzkopf born?",
-    "QA_Pair_3_Answer": 1924,
+    "QA_Pair_3_Answer": "1924",
     "Multi_hop_Question": "In which year was the German engineer who designed the roller coaster in the video born?",
-    "Multi_hop_Answer": 1924
+    "Multi_hop_Answer": "1924"
   },
   {
     "date": "2011-06-11",
@@ -2472,9 +2472,9 @@
     "QA_Pair_1_Question": "Which kind of equipment is the man using in the video?",
     "QA_Pair_1_Answer": "Balance board",
     "QA_Pair_2_Question": "In which year was the patent of Balance board applied for?",
-    "QA_Pair_2_Answer": 1953,
+    "QA_Pair_2_Answer": "1953",
     "Multi_hop_Question": "In which year was the patent for the equipment used by the man in the video applied for?",
-    "Multi_hop_Answer": 1953
+    "Multi_hop_Answer": "1953"
   },
   {
     "date": "2011-07-08",
@@ -2631,9 +2631,9 @@
     "QA_Pair_1_Question": "What is the name of the rescue ship shown in the video?",
     "QA_Pair_1_Answer": "John T. Essberger",
     "QA_Pair_2_Question": "In which year was the rescue ship John T. Essberger built?",
-    "QA_Pair_2_Answer": 1924,
+    "QA_Pair_2_Answer": "1924",
     "Multi_hop_Question": "In which year was the rescue ship shown in the video built?",
-    "Multi_hop_Answer": 1924
+    "Multi_hop_Answer": "1924"
   },
   {
     "date": "2011-08-14",
@@ -2671,9 +2671,9 @@
     "QA_Pair_1_Question": "What type of aircraft is performing the flyby in the video?",
     "QA_Pair_1_Answer": "F-14A Tomcat",
     "QA_Pair_2_Question": "In which year did the F-14A Tomcat make its first flight?",
-    "QA_Pair_2_Answer": 1970,
+    "QA_Pair_2_Answer": "1970",
     "Multi_hop_Question": "In which year did the aircraft performing the flyby in the video make its first flight?",
-    "Multi_hop_Answer": 1970
+    "Multi_hop_Answer": "1970"
   },
   {
     "date": "2011-08-18",
@@ -2682,9 +2682,9 @@
     "QA_Pair_2_Question": "Which company manufactured the F-14A Tomcat?",
     "QA_Pair_2_Answer": "Grumman",
     "QA_Pair_3_Question": "In which year was Grumman founded?",
-    "QA_Pair_3_Answer": 1929,
+    "QA_Pair_3_Answer": "1929",
     "Multi_hop_Question": "In which year was the company that manufactured the aircraft shown in the video founded?",
-    "Multi_hop_Answer": 1929
+    "Multi_hop_Answer": "1929"
   },
   {
     "date": "2011-08-18",
@@ -2702,9 +2702,9 @@
     "QA_Pair_1_Question": "What breed of dog is in the video?",
     "QA_Pair_1_Answer": "German shepherd",
     "QA_Pair_2_Question": "How many layers of fur does a German Shepherd have?",
-    "QA_Pair_2_Answer": 2,
+    "QA_Pair_2_Answer": "2",
     "Multi_hop_Question": "How many layers of fur does the breed of dog shown in the video have?",
-    "Multi_hop_Answer": 2
+    "Multi_hop_Answer": "2"
   },
   {
     "date": "2011-08-22",
@@ -2771,9 +2771,9 @@
     "QA_Pair_1_Question": "What specific artillery piece is shown in the video?",
     "QA_Pair_1_Answer": "M777 Light Towed Howitzer",
     "QA_Pair_2_Question": "In which year did the design of the M777 Light Towed Howitzer begin?",
-    "QA_Pair_2_Answer": 1987,
+    "QA_Pair_2_Answer": "1987",
     "Multi_hop_Question": "In which year did the design of the artillery piece shown in the video begin?",
-    "Multi_hop_Answer": 1987
+    "Multi_hop_Answer": "1987"
   },
   {
     "date": "2011-09-02",
@@ -2880,18 +2880,18 @@
     "QA_Pair_2_Question": "Which company manufactured the SR-71 Blackbird?",
     "QA_Pair_2_Answer": "Lockheed Corporation",
     "QA_Pair_3_Question": "In which year was Lockheed Corporation founded?",
-    "QA_Pair_3_Answer": 1926,
+    "QA_Pair_3_Answer": "1926",
     "Multi_hop_Question": "In which year was the company that manufactured the aircraft in the video founded?",
-    "Multi_hop_Answer": 1926
+    "Multi_hop_Answer": "1926"
   },
   {
     "date": "2011-10-12",
     "QA_Pair_1_Question": "What martial art are the two people demonstrating in the video?",
     "QA_Pair_1_Answer": "Capoeira",
     "QA_Pair_2_Question": "In which year did UNESCO inscribe the Capoeira circle on the Representative List of the Intangible Cultural Heritage of Humanity?",
-    "QA_Pair_2_Answer": 2014,
+    "QA_Pair_2_Answer": "2014",
     "Multi_hop_Question": "In which year did UNESCO inscribe the martial arts demonstrated by the two people in the video on the Representative List of the Intangible Cultural Heritage of Humanity?",
-    "Multi_hop_Answer": 2014
+    "Multi_hop_Answer": "2014"
   },
   {
     "date": "2011-10-13",
@@ -2927,9 +2927,9 @@
     "QA_Pair_1_Question": "What type of cutting machine is shown in the video?",
     "QA_Pair_1_Answer": "Plasma cutting machine",
     "QA_Pair_2_Question": "Which year the plasma cutting machine first develop?",
-    "QA_Pair_2_Answer": 1960,
+    "QA_Pair_2_Answer": "1960",
     "Multi_hop_Question": "Which year was the cutting machine in the video first developed?",
-    "Multi_hop_Answer": 1960
+    "Multi_hop_Answer": "1960"
   },
   {
     "date": "2011-10-18",
@@ -2967,27 +2967,27 @@
     "QA_Pair_2_Question": "Which scientist explained the tea leaf paradox in a 1926 paper?",
     "QA_Pair_2_Answer": "Albert Einstein",
     "QA_Pair_3_Question": "In which year was Albert Einstein born?",
-    "QA_Pair_3_Answer": 1879,
+    "QA_Pair_3_Answer": "1879",
     "Multi_hop_Question": "In which year was the scientist who explained the phenomenon shown in the video in a 1926 paper born?",
-    "Multi_hop_Answer": 1879
+    "Multi_hop_Answer": "1879"
   },
   {
     "date": "2011-10-20",
     "QA_Pair_1_Question": "What is the name of the hotel that the carriage of the short-distance tour group passed by in the video?",
     "QA_Pair_1_Answer": "Vendome Hotel",
     "QA_Pair_2_Question": "Which year Vendome Hotel first built?",
-    "QA_Pair_2_Answer": 1871,
+    "QA_Pair_2_Answer": "1871",
     "Multi_hop_Question": "Which year was the hotel that the short-distance tour group's carriage passed by in the video first built?",
-    "Multi_hop_Answer": 1871
+    "Multi_hop_Answer": "1871"
   },
   {
     "date": "2011-10-22",
     "QA_Pair_1_Question": "What structure is shown in the video?",
     "QA_Pair_1_Answer": "Rotating diamond structure",
     "QA_Pair_2_Question": "What value does an object with a rotating rhombic structure have on the Mohs scale of mineral hardness?",
-    "QA_Pair_2_Answer": 10,
+    "QA_Pair_2_Answer": "10",
     "Multi_hop_Question": "What value does an object showing the structure in the video have on the Mohs scale of mineral hardness?",
-    "Multi_hop_Answer": 10
+    "Multi_hop_Answer": "10"
   },
   {
     "date": "2011-10-22",
@@ -3005,18 +3005,18 @@
     "QA_Pair_1_Question": "What geological phenomenon produces thick smoke in the video?",
     "QA_Pair_1_Answer": "volcanic eruption",
     "QA_Pair_2_Question": "What is the highest level of the volcanic eruption?",
-    "QA_Pair_2_Answer": 8,
+    "QA_Pair_2_Answer": "8",
     "Multi_hop_Question": "What is the highest level of the geological phenomenon producing thick smoke shown in the video?",
-    "Multi_hop_Answer": 8
+    "Multi_hop_Answer": "8"
   },
   {
     "date": "2011-10-25",
     "QA_Pair_1_Question": "What plant is placed on the windowsill in the video?",
     "QA_Pair_1_Answer": "Selenicereus grandiflorus",
     "QA_Pair_2_Question": "In which year did botanists first describe Selenicereus grandiflorus?",
-    "QA_Pair_2_Answer": 1753,
+    "QA_Pair_2_Answer": "1753",
     "Multi_hop_Question": "In which year was the plant placed on the windowsill in the video first described by a botanist?",
-    "Multi_hop_Answer": 1753
+    "Multi_hop_Answer": "1753"
   },
   {
     "date": "2011-10-30",
@@ -3032,18 +3032,18 @@
     "QA_Pair_1_Question": "What is the name of the animation shown in the video?",
     "QA_Pair_1_Answer": "Sintel",
     "QA_Pair_2_Question": "In which year was the Sintel made?",
-    "QA_Pair_2_Answer": 2010,
+    "QA_Pair_2_Answer": "2010",
     "Multi_hop_Question": "In which year was the animation shown in the video made?",
-    "Multi_hop_Answer": 2010
+    "Multi_hop_Answer": "2010"
   },
   {
     "date": "2011-11-01",
     "QA_Pair_1_Question": "What animated film is this clip from?",
     "QA_Pair_1_Answer": "Sintel",
     "QA_Pair_2_Question": "In which year was the movie Sintel released?",
-    "QA_Pair_2_Answer": 2010,
+    "QA_Pair_2_Answer": "2010",
     "Multi_hop_Question": "In which year was the animated film released?",
-    "Multi_hop_Answer": 2010
+    "Multi_hop_Answer": "2010"
   },
   {
     "date": "2011-11-02",
@@ -3128,9 +3128,9 @@
     "QA_Pair_1_Question": "What type of helicopter is shown in the video?",
     "QA_Pair_1_Answer": "NH90",
     "QA_Pair_2_Question": "In which year did the NH90 helicopter have its maiden flight?",
-    "QA_Pair_2_Answer": 1995,
+    "QA_Pair_2_Answer": "1995",
     "Multi_hop_Question": "In which year did the helicopter shown in the video have its maiden flight?",
-    "Multi_hop_Answer": 1995
+    "Multi_hop_Answer": "1995"
   },
   {
     "date": "2011-11-15",
@@ -3166,9 +3166,9 @@
     "QA_Pair_2_Question": "What is a more appropriate term for 3D printing in the 1980s?",
     "QA_Pair_2_Answer": "Rapid prototyping",
     "QA_Pair_3_Question": "In which year did the first rapid prototyping method become available?",
-    "QA_Pair_3_Answer": 1987,
+    "QA_Pair_3_Answer": "1987",
     "Multi_hop_Question": "In which year did the first technology, which can be considered a more appropriate term in the 1980s for what's shown in the video, become available?",
-    "Multi_hop_Answer": 1987
+    "Multi_hop_Answer": "1987"
   },
   {
     "date": "2011-11-18",
@@ -3202,9 +3202,9 @@
     "QA_Pair_1_Question": "Which software is taught in the video?",
     "QA_Pair_1_Answer": "Blender 3D",
     "QA_Pair_2_Question": "Which year was Blender 3D first publicly released?",
-    "QA_Pair_2_Answer": 1994,
+    "QA_Pair_2_Answer": "1994",
     "Multi_hop_Question": "Which year was the software taught in the video first publicly released?",
-    "Multi_hop_Answer": 1994
+    "Multi_hop_Answer": "1994"
   },
   {
     "date": "2011-12-03",
@@ -3240,9 +3240,9 @@
     "QA_Pair_2_Question": "Who officially defined the Immaculate Conception as a dogma?",
     "QA_Pair_2_Answer": "Pope Pius IX",
     "QA_Pair_3_Question": "In which year was Pope Pius IX born?",
-    "QA_Pair_3_Answer": 1792,
+    "QA_Pair_3_Answer": "1792",
     "Multi_hop_Question": "In which year was the person who officially defined the event being celebrated by the person in the video as dogma?",
-    "Multi_hop_Answer": 1792
+    "Multi_hop_Answer": "1792"
   },
   {
     "date": "2011-12-09",
@@ -3325,9 +3325,9 @@
     "QA_Pair_2_Question": "Who is the Hernando de Soto Bridge named after?",
     "QA_Pair_2_Answer": "Hernando de Soto",
     "QA_Pair_3_Question": "In which year was Hernando de Soto born?",
-    "QA_Pair_3_Answer": 1500,
+    "QA_Pair_3_Answer": "1500",
     "Multi_hop_Question": "In which year was the person named after the bridge that appeared in the video born?",
-    "Multi_hop_Answer": 1500
+    "Multi_hop_Answer": "1500"
   },
   {
     "date": "2011-12-15",
@@ -3336,9 +3336,9 @@
     "QA_Pair_2_Question": "What material creates the effect of the magic mug?",
     "QA_Pair_2_Answer": "Thermochromic ink",
     "QA_Pair_3_Question": "In which year was thermochromic ink first applied to postage stamps?",
-    "QA_Pair_3_Answer": 2017,
+    "QA_Pair_3_Answer": "2017",
     "Multi_hop_Question": "In which year was the material that creates the effect of the cups shown in the video first applied to postage stamps?",
-    "Multi_hop_Answer": 2017
+    "Multi_hop_Answer": "2017"
   },
   {
     "date": "2011-12-16",
@@ -3405,18 +3405,18 @@
     "QA_Pair_3_Question": "In which city is the headquarters of the Blender Foundation located?",
     "QA_Pair_3_Answer": "Amsterdam",
     "QA_Pair_4_Question": "In which year was Amsterdam ranked the ninth most livable city in the world by the Economist Intelligence Unit?",
-    "QA_Pair_4_Answer": 2022,
+    "QA_Pair_4_Answer": "2022",
     "Multi_hop_Question": "In which year was the city where the headquarters of the production company of the animated short film shown in the video is located ranked the ninth most livable city in the world by the Economist Intelligence Unit?",
-    "Multi_hop_Answer": 2022
+    "Multi_hop_Answer": "2022"
   },
   {
     "date": "2011-12-21",
     "QA_Pair_1_Question": "What is the title of the documentary film shown in the video?",
     "QA_Pair_1_Answer": "Siege",
     "QA_Pair_2_Question": "In which year was Siege first released?",
-    "QA_Pair_2_Answer": 1940,
+    "QA_Pair_2_Answer": "1940",
     "Multi_hop_Question": "In which year was the documentary film in the video first released?",
-    "Multi_hop_Answer": 1940
+    "Multi_hop_Answer": "1940"
   },
   {
     "date": "2011-12-21",
@@ -3445,9 +3445,9 @@
     "QA_Pair_1_Question": "Which winter sport are the people performing in the video?",
     "QA_Pair_1_Answer": "Snowboarding",
     "QA_Pair_2_Question": "In which year did snowboarding first become an official medal event at the Winter Olympic Games?",
-    "QA_Pair_2_Answer": 1998,
+    "QA_Pair_2_Answer": "1998",
     "Multi_hop_Question": "In which year did the winter sport that the people in the video first become an official medal event at the Winter Olympic Games?",
-    "Multi_hop_Answer": 1998
+    "Multi_hop_Answer": "1998"
   },
   {
     "date": "2011-12-28",
@@ -3465,7 +3465,7 @@
     "QA_Pair_2_Question": "Which company operates the Kapitan Khlebnikov by 2025?",
     "QA_Pair_2_Answer": "Quark Expeditions",
     "QA_Pair_3_Question": "In which year was Quark Expeditions founded?",
-    "QA_Pair_3_Answer": 1991,
+    "QA_Pair_3_Answer": "1991",
     "QA_Pair_4_Question": "Who was the laureate of the Nobel Prize in Chemistry in 1991?",
     "QA_Pair_4_Answer": "Richard R. Ernst",
     "Multi_hop_Question": "Who was the Nobel Prize laureate in Chemistry in the year the company operating the ship shown in the video was active until 2025 was founded?",
@@ -3551,9 +3551,9 @@
     "QA_Pair_2_Question": "As of 2024, which lunar rover has had the longest operational lifespan?",
     "QA_Pair_2_Answer": "Yutu-2",
     "QA_Pair_3_Question": "In which year was Yutu-2 launched?",
-    "QA_Pair_3_Answer": 2018,
+    "QA_Pair_3_Answer": "2018",
     "Multi_hop_Question": "In which year was the vehicle shown in the video that has had the longest operational lifespan launched, as of 2024?",
-    "Multi_hop_Answer": 2018
+    "Multi_hop_Answer": "2018"
   },
   {
     "date": "2012-01-10",
@@ -3587,7 +3587,7 @@
     "QA_Pair_1_Question": "What exercise equipment are the models in the video using?",
     "QA_Pair_1_Answer": "Balance boards",
     "QA_Pair_2_Question": "In which year did Stanley Washburn Jr. file a patent for the balance board?",
-    "QA_Pair_2_Answer": 1953,
+    "QA_Pair_2_Answer": "1953",
     "QA_Pair_3_Question": "What is the Chinese stem-branch system (Gan-Zhi calendar) name for 1953?",
     "QA_Pair_3_Answer": "Gui Si",
     "Multi_hop_Question": "What is the Chinese stem-branch system (Gan-Zhi calendar) name for the year in which Stanley Washburn Jr. filed a patent for the exercise equipment used by models shown in the video?",
@@ -3598,9 +3598,9 @@
     "QA_Pair_1_Question": "What type of aircraft appears in the video?",
     "QA_Pair_1_Answer": "Lockheed C-130 Hercules",
     "QA_Pair_2_Question": "Which year did the Lockheed C-130 Hercules make its first flight?",
-    "QA_Pair_2_Answer": 1954,
+    "QA_Pair_2_Answer": "1954",
     "Multi_hop_Question": "Which year did the aircraft shown in the video make its first flight?",
-    "Multi_hop_Answer": 1954
+    "Multi_hop_Answer": "1954"
   },
   {
     "date": "2012-01-21",
@@ -3676,7 +3676,7 @@
     "QA_Pair_2_Question": "Who designed Goetheanum?",
     "QA_Pair_2_Answer": "Rudolf Steiner",
     "QA_Pair_3_Question": "In which year did Rudolf Steiner pass away?",
-    "QA_Pair_3_Answer": 1925,
+    "QA_Pair_3_Answer": "1925",
     "QA_Pair_4_Question": "Who was the President of the United States in 1925?",
     "QA_Pair_4_Answer": "Calvin Coolidge",
     "Multi_hop_Question": "Who was the President of the United States in the year the person who designed the largest building displayed in the video passed away?",
@@ -3716,7 +3716,7 @@
     "QA_Pair_2_Question": "Who first described the black-veined moth?",
     "QA_Pair_2_Answer": "Giovanni Antonio Scopoli",
     "QA_Pair_3_Question": "In which year was Giovanni Antonio Scopoli born?",
-    "QA_Pair_3_Answer": 1723,
+    "QA_Pair_3_Answer": "1723",
     "QA_Pair_4_Question": "What was the reign title of the Qing Dynasty in 1723?",
     "QA_Pair_4_Answer": "Yongzheng",
     "Multi_hop_Question": "What was the reign title of the Qing Dynasty in the year the person who first described the moth of the species shown in the video was born?",
@@ -3729,18 +3729,18 @@
     "QA_Pair_2_Question": "Who was the first person to describe the Black-veined moth (Siona lineata) in a book?",
     "QA_Pair_2_Answer": "Giovanni Antonio Scopoli",
     "QA_Pair_3_Question": "In which year was Giovanni Antonio Scopoli born?",
-    "QA_Pair_3_Answer": 1723,
+    "QA_Pair_3_Answer": "1723",
     "Multi_hop_Question": "In which year was the first person to describe the moth in the video in a book born?",
-    "Multi_hop_Answer": 1723
+    "Multi_hop_Answer": "1723"
   },
   {
     "date": "2012-02-06",
     "QA_Pair_1_Question": "What activity is shown in the video?",
     "QA_Pair_1_Answer": "Horse racing",
     "QA_Pair_2_Question": "In what year BC had horse racing already become a part of the ancient Greek Olympics?",
-    "QA_Pair_2_Answer": 648,
+    "QA_Pair_2_Answer": "648",
     "Multi_hop_Question": "In what year BC had the activity shown in the video already become a part of the ancient Greek Olympics?",
-    "Multi_hop_Answer": 648
+    "Multi_hop_Answer": "648"
   },
   {
     "date": "2012-02-07",
@@ -3819,9 +3819,9 @@
     "QA_Pair_1_Question": "What species of spider is shown in the video?",
     "QA_Pair_1_Answer": "Agelena labyrinthica",
     "QA_Pair_2_Question": "In which year was the species Agelena labyrinthica first scientifically described?",
-    "QA_Pair_2_Answer": 1757,
+    "QA_Pair_2_Answer": "1757",
     "Multi_hop_Question": "In which year was the spider species shown in the video first scientifically described?",
-    "Multi_hop_Answer": 1757
+    "Multi_hop_Answer": "1757"
   },
   {
     "date": "2012-02-19",
@@ -3866,9 +3866,9 @@
     "QA_Pair_1_Question": "What is this activity shown in the video called?",
     "QA_Pair_1_Answer": "Whitewater rafting",
     "QA_Pair_2_Question": "Which year can whitewater rafting be traced back to?",
-    "QA_Pair_2_Answer": 1811,
+    "QA_Pair_2_Answer": "1811",
     "Multi_hop_Question": "Which year can this activity shown in the video be traced back to?",
-    "Multi_hop_Answer": 1811
+    "Multi_hop_Answer": "1811"
   },
   {
     "date": "2012-02-22",
@@ -3886,9 +3886,9 @@
     "QA_Pair_1_Question": "What game are the children playing in the video?",
     "QA_Pair_1_Answer": "Sledding",
     "QA_Pair_2_Question": "In which year did sledding officially become a competition event at the Winter Olympic Games?",
-    "QA_Pair_2_Answer": 1964,
+    "QA_Pair_2_Answer": "1964",
     "Multi_hop_Question": "In which year was the game the children are playing in the video first introduced as an official event in the Winter Olympics?",
-    "Multi_hop_Answer": 1964
+    "Multi_hop_Answer": "1964"
   },
   {
     "date": "2012-02-29",
@@ -3924,7 +3924,7 @@
     "QA_Pair_2_Question": "Which Renaissance polymath first correctly explained the cause of earthshine?",
     "QA_Pair_2_Answer": "Leonardo da Vinci",
     "QA_Pair_3_Question": "In which year was Leonardo da Vinci born?",
-    "QA_Pair_3_Answer": 1452,
+    "QA_Pair_3_Answer": "1452",
     "QA_Pair_4_Question": "What was the title of the Japanese Emperor in 1452?",
     "QA_Pair_4_Answer": "Go-hanazono Tennō",
     "Multi_hop_Question": "What was the title of the Japanese Emperor in the year the Renaissance polymath who first correctly explained the cause of the natural phenomenon in the video was born?",
@@ -3999,18 +3999,18 @@
     "QA_Pair_1_Question": "What is the grey object in the video?",
     "QA_Pair_1_Answer": "Möbius strip",
     "QA_Pair_2_Question": "In which year did the German mathematicians discover the Möbius strip?",
-    "QA_Pair_2_Answer": 1858,
+    "QA_Pair_2_Answer": "1858",
     "Multi_hop_Question": "In which year did the German mathematicians discover the grey object in the video?",
-    "Multi_hop_Answer": 1858
+    "Multi_hop_Answer": "1858"
   },
   {
     "date": "2012-03-24",
     "QA_Pair_1_Question": "What is the name of the bridge in the video?",
     "QA_Pair_1_Answer": "Blue Wonder bridge",
     "QA_Pair_2_Question": "In which year was the Blue Wonder bridge officially open to traffic?",
-    "QA_Pair_2_Answer": 1893,
+    "QA_Pair_2_Answer": "1893",
     "Multi_hop_Question": "In which year was the bridge shown in the video officially opened to traffic?",
-    "Multi_hop_Answer": 1893
+    "Multi_hop_Answer": "1893"
   },
   {
     "date": "2012-03-24",
@@ -4059,9 +4059,9 @@
     "QA_Pair_1_Question": "What bridge appears in the video?",
     "QA_Pair_1_Answer": "Helena Bridge",
     "QA_Pair_2_Question": "In which year was the Helena Bridge opened to traffic?",
-    "QA_Pair_2_Answer": 1961,
+    "QA_Pair_2_Answer": "1961",
     "Multi_hop_Question": "In which year was the bridge shown in the video opened to traffic?",
-    "Multi_hop_Answer": 1961
+    "Multi_hop_Answer": "1961"
   },
   {
     "date": "2012-03-31",
@@ -4072,9 +4072,9 @@
     "QA_Pair_3_Question": "Which country does Quebec Bridge belong to?",
     "QA_Pair_3_Answer": "Canada",
     "QA_Pair_4_Question": "How many colors does the Canadian flag have?",
-    "QA_Pair_4_Answer": 2,
+    "QA_Pair_4_Answer": "2",
     "Multi_hop_Question": "As of 2025, how many colors does the flag of the country where the bridge that holds the title of the world's longest bridge of this type in the video is located have?",
-    "Multi_hop_Answer": 2
+    "Multi_hop_Answer": "2"
   },
   {
     "date": "2012-04-02",
@@ -4101,9 +4101,9 @@
     "QA_Pair_1_Question": "What kind of wave is simulated in the video?",
     "QA_Pair_1_Answer": "Rogue wave",
     "QA_Pair_2_Question": "In which year was rogue wave first reported?",
-    "QA_Pair_2_Answer": 2007,
+    "QA_Pair_2_Answer": "2007",
     "Multi_hop_Question": "In which year was the simulated wave in the video first reported?",
-    "Multi_hop_Answer": 2007
+    "Multi_hop_Answer": "2007"
   },
   {
     "date": "2012-04-08",
@@ -4112,7 +4112,7 @@
     "QA_Pair_2_Question": "Which company is the manufacturer of Space Shuttle Atlantis?",
     "QA_Pair_2_Answer": "Rockwell International",
     "QA_Pair_3_Question": "In which year was Rockwell International founded?",
-    "QA_Pair_3_Answer": 1928,
+    "QA_Pair_3_Answer": "1928",
     "QA_Pair_4_Question": "Who was the Nobel Prize in Literature laureate in 1928?",
     "QA_Pair_4_Answer": "Sigrid Undset",
     "Multi_hop_Question": "Who was the Nobel Prize in Literature laureate in the year the manufacturer of the model of the plane shown in the video was founded?",
@@ -4136,9 +4136,9 @@
     "QA_Pair_3_Question": "Which country is Giovanni Antonio Scopoli from?",
     "QA_Pair_3_Answer": "Italy",
     "QA_Pair_4_Question": "As of 2025, how many regions is Italy administratively divided into?",
-    "QA_Pair_4_Answer": 20,
+    "QA_Pair_4_Answer": "20",
     "Multi_hop_Question": "As of 2025, how many regions is the country where the first person to describe the moth of the species shown in the video comes from divided into administratively?",
-    "Multi_hop_Answer": 20
+    "Multi_hop_Answer": "20"
   },
   {
     "date": "2012-04-15",
@@ -4205,9 +4205,9 @@
     "QA_Pair_2_Question": "In which location did American Sign Language first develop?",
     "QA_Pair_2_Answer": "American School for the Deaf",
     "QA_Pair_3_Question": "In which year was the American School for the Deaf founded?",
-    "QA_Pair_3_Answer": 1817,
+    "QA_Pair_3_Answer": "1817",
     "Multi_hop_Question": "In which year was the location where the gesture by the man in the video first developed founded?",
-    "Multi_hop_Answer": 1817
+    "Multi_hop_Answer": "1817"
   },
   {
     "date": "2012-04-25",
@@ -4216,18 +4216,18 @@
     "QA_Pair_2_Question": "In which 18th-century work did Carl Linnaeus originally describe the great blue heron?",
     "QA_Pair_2_Answer": "Systema Naturae",
     "QA_Pair_3_Question": "In which year was the first edition of Systema Naturae published?",
-    "QA_Pair_3_Answer": 1735,
+    "QA_Pair_3_Answer": "1735",
     "Multi_hop_Question": "In which year was the first edition of Carl Linnaeus's 18th-century work, in which the bird shown in the video was originally described, published?",
-    "Multi_hop_Answer": 1735
+    "Multi_hop_Answer": "1735"
   },
   {
     "date": "2012-04-26",
     "QA_Pair_1_Question": "What type of aircraft is shown in the video?",
     "QA_Pair_1_Answer": "Antonov An-124-100",
     "QA_Pair_2_Question": "In which year did the Antonov An-124 make its maiden flight?",
-    "QA_Pair_2_Answer": 1982,
+    "QA_Pair_2_Answer": "1982",
     "Multi_hop_Question": "In which year did the aircraft type shown in the video make its maiden flight?",
-    "Multi_hop_Answer": 1982
+    "Multi_hop_Answer": "1982"
   },
   {
     "date": "2012-04-26",
@@ -4299,9 +4299,9 @@
     "QA_Pair_1_Question": "Which type of aircraft is shown deploying a drogue parachute in the video?",
     "QA_Pair_1_Answer": "BAE Hawk",
     "QA_Pair_2_Question": "In which year did the BAE Hawk make its first flight?",
-    "QA_Pair_2_Answer": 1974,
+    "QA_Pair_2_Answer": "1974",
     "Multi_hop_Question": "In which year did the type of aircraft shown deploying a drogue parachute in the video make its first flight?",
-    "Multi_hop_Answer": 1974
+    "Multi_hop_Answer": "1974"
   },
   {
     "date": "2012-05-17",
@@ -4319,9 +4319,9 @@
     "QA_Pair_1_Question": "Which pianist performed this recording in the video?",
     "QA_Pair_1_Answer": "Harold Bauer",
     "QA_Pair_2_Question": "In which year was Harold Bauer born?",
-    "QA_Pair_2_Answer": 1873,
+    "QA_Pair_2_Answer": "1873",
     "Multi_hop_Question": "In which year was the pianist who performed this recording in the video born?",
-    "Multi_hop_Answer": 1873
+    "Multi_hop_Answer": "1873"
   },
   {
     "date": "2012-05-18",
@@ -4330,9 +4330,9 @@
     "QA_Pair_2_Question": "Who is the inventor of the piano?",
     "QA_Pair_2_Answer": "Bartolomeo Cristofori",
     "QA_Pair_3_Question": "In which year did Bartolomeo Cristofori pass away?",
-    "QA_Pair_3_Answer": 1731,
+    "QA_Pair_3_Answer": "1731",
     "Multi_hop_Question": "In which year did the inventor of the instrument shown in the video pass away?",
-    "Multi_hop_Answer": 1731
+    "Multi_hop_Answer": "1731"
   },
   {
     "date": "2012-05-21",
@@ -4384,9 +4384,9 @@
     "QA_Pair_1_Question": "What is the name of the rocket being launched in the video?",
     "QA_Pair_1_Answer": "Falcon 9",
     "QA_Pair_2_Question": "In which year did the SpaceX Falcon 9 rocket make its maiden flight?",
-    "QA_Pair_2_Answer": 2010,
+    "QA_Pair_2_Answer": "2010",
     "Multi_hop_Question": "In which year did the rocket being launched in the video make its maiden flight?",
-    "Multi_hop_Answer": 2010
+    "Multi_hop_Answer": "2010"
   },
   {
     "date": "2012-05-26",
@@ -4433,9 +4433,9 @@
     "QA_Pair_1_Question": "Who is the person being petitioned in the video?",
     "QA_Pair_1_Answer": "Barack Obama",
     "QA_Pair_2_Question": "In which year was Barack Obama born？",
-    "QA_Pair_2_Answer": 1961,
+    "QA_Pair_2_Answer": "1961",
     "Multi_hop_Question": "In which year was the person petitioning in the video born?",
-    "Multi_hop_Answer": 1961
+    "Multi_hop_Answer": "1961"
   },
   {
     "date": "2012-05-30",
@@ -4460,9 +4460,9 @@
     "QA_Pair_1_Question": "Which organelle is shown in the video?",
     "QA_Pair_1_Answer": "Vacuole",
     "QA_Pair_2_Question": "Which year was it officially named vacuole?",
-    "QA_Pair_2_Answer": 1841,
+    "QA_Pair_2_Answer": "1841",
     "Multi_hop_Question": "Which year officially named the organelle shown in the video?",
-    "Multi_hop_Answer": 1841
+    "Multi_hop_Answer": "1841"
   },
   {
     "date": "2012-06-02",
@@ -4500,9 +4500,9 @@
     "QA_Pair_2_Question": "Who officially opened Liverpool Cruise Terminal？",
     "QA_Pair_2_Answer": "Edward George Nicholas Paul Patrick",
     "QA_Pair_3_Question": "Which year was Edward George Nicholas Paul Patrick born in?",
-    "QA_Pair_3_Answer": 1935,
+    "QA_Pair_3_Answer": "1935",
     "Multi_hop_Question": "Which year was the person who officially opened the cruise terminal shown in the video born in?",
-    "Multi_hop_Answer": 1935
+    "Multi_hop_Answer": "1935"
   },
   {
     "date": "2012-06-11",
@@ -4527,9 +4527,9 @@
     "QA_Pair_1_Question": "What's the name of the movie in the video?",
     "QA_Pair_1_Answer": "The Dinosaur and the Missing Link",
     "QA_Pair_2_Question": "Which year were The Dinosaur and the Missing Link released?",
-    "QA_Pair_2_Answer": 1917,
+    "QA_Pair_2_Answer": "1917",
     "Multi_hop_Question": "Which year was the movie in the video released?",
-    "Multi_hop_Answer": 1917
+    "Multi_hop_Answer": "1917"
   },
   {
     "date": "2012-06-17",
@@ -4538,9 +4538,9 @@
     "QA_Pair_2_Question": "Who made The Dinosaur and the Missing Link?",
     "QA_Pair_2_Answer": "Willis O'Brien",
     "QA_Pair_3_Question": "In which year was Willis Harold O 'Brien born?",
-    "QA_Pair_3_Answer": 1886,
+    "QA_Pair_3_Answer": "1886",
     "Multi_hop_Question": "In which year was the person who made the movie in the video born?",
-    "Multi_hop_Answer": 1886
+    "Multi_hop_Answer": "1886"
   },
   {
     "date": "2012-06-18",
@@ -4607,9 +4607,9 @@
     "QA_Pair_2_Question": "Who directed the The Lost World (1925 film)?",
     "QA_Pair_2_Answer": "Harry O. Hoyt",
     "QA_Pair_3_Question": "In which year was Harry O. Hoyt born?",
-    "QA_Pair_3_Answer": 1885,
+    "QA_Pair_3_Answer": "1885",
     "Multi_hop_Question": "In which year was the director of the film shown in the video born?",
-    "Multi_hop_Answer": 1885
+    "Multi_hop_Answer": "1885"
   },
   {
     "date": "2012-06-28",
@@ -4618,9 +4618,9 @@
     "QA_Pair_2_Question": "Who directed The Lost World?",
     "QA_Pair_2_Answer": "Harry O. Hoyt",
     "QA_Pair_3_Question": "In which year was Harry O. Hoyt born?",
-    "QA_Pair_3_Answer": 1885,
+    "QA_Pair_3_Answer": "1885",
     "Multi_hop_Question": "In which year was the person who directed the film in the video born?",
-    "Multi_hop_Answer": 1885
+    "Multi_hop_Answer": "1885"
   },
   {
     "date": "2012-06-29",
@@ -4656,9 +4656,9 @@
     "QA_Pair_2_Question": "Which automotive engineer founded Porsche?",
     "QA_Pair_2_Answer": "Ferdinand Porsche",
     "QA_Pair_3_Question": "In which year was Ferdinand Porsche born?",
-    "QA_Pair_3_Answer": 1875,
+    "QA_Pair_3_Answer": "1875",
     "Multi_hop_Question": "In which year was the car engineer who created the brand that appeared in the video born?",
-    "Multi_hop_Answer": 1875
+    "Multi_hop_Answer": "1875"
   },
   {
     "date": "2012-07-17",
@@ -4705,18 +4705,18 @@
     "QA_Pair_1_Question": "What model of aircraft is in the video?",
     "QA_Pair_1_Answer": "Schempp-Hirth Quintus M",
     "QA_Pair_2_Question": "Which year did the Schempp-Hirth Quintus make its maiden flight?",
-    "QA_Pair_2_Answer": 2011,
+    "QA_Pair_2_Answer": "2011",
     "Multi_hop_Question": "Which year did the aircraft in the video make its maiden flight?",
-    "Multi_hop_Answer": 2011
+    "Multi_hop_Answer": "2011"
   },
   {
     "date": "2012-07-28",
     "QA_Pair_1_Question": "What is the vehicle in the video?",
     "QA_Pair_1_Answer": "Airplane",
     "QA_Pair_2_Question": "In which year was the first airplane invented?",
-    "QA_Pair_2_Answer": 1903,
+    "QA_Pair_2_Answer": "1903",
     "Multi_hop_Question": "In which year was the first vehicle shown in the video invented?",
-    "Multi_hop_Answer": 1903
+    "Multi_hop_Answer": "1903"
   },
   {
     "date": "2012-07-28",
@@ -4772,9 +4772,9 @@
     "QA_Pair_1_Question": "What martial arts are shown in the video?",
     "QA_Pair_1_Answer": "Silambam",
     "QA_Pair_2_Question": "In which year did the film with Silambam as the protagonist start?",
-    "QA_Pair_2_Answer": 1956,
+    "QA_Pair_2_Answer": "1956",
     "Multi_hop_Question": "In which year did the martial arts shown in videos as the protagonist start?",
-    "Multi_hop_Answer": 1956
+    "Multi_hop_Answer": "1956"
   },
   {
     "date": "2012-08-03",
@@ -4810,18 +4810,18 @@
     "QA_Pair_1_Question": "What organization is the logo on the tail of the airplane in the video?",
     "QA_Pair_1_Answer": "NASA",
     "QA_Pair_2_Question": "How many NASA employees are there as of 2022?",
-    "QA_Pair_2_Answer": 17960,
+    "QA_Pair_2_Answer": "17960",
     "Multi_hop_Question": "How many employees did the organization with the tail emblem of the aircraft in the video have in 2022?",
-    "Multi_hop_Answer": 17960
+    "Multi_hop_Answer": "17960"
   },
   {
     "date": "2012-08-07",
     "QA_Pair_1_Question": "What organization is the logo on the tail of the airplane in the video?",
     "QA_Pair_1_Answer": "NASA",
     "QA_Pair_2_Question": "In which year was NASA established?",
-    "QA_Pair_2_Answer": 1958,
+    "QA_Pair_2_Answer": "1958",
     "Multi_hop_Question": "In which year was the identification organization at the tail of the aircraft established in the video?",
-    "Multi_hop_Answer": 1958
+    "Multi_hop_Answer": "1958"
   },
   {
     "date": "2012-08-07",
@@ -4830,9 +4830,9 @@
     "QA_Pair_2_Question": "Which country does NASA belong to?",
     "QA_Pair_2_Answer": "the United States",
     "QA_Pair_3_Question": "How many states are there in the United States by 2025?",
-    "QA_Pair_3_Answer": 50,
+    "QA_Pair_3_Answer": "50",
     "Multi_hop_Question": "By 2025, how many states are there in the country that the organization with the logo on the tail of the airplane in the video belongs to?",
-    "Multi_hop_Answer": 50
+    "Multi_hop_Answer": "50"
   },
   {
     "date": "2012-08-10",
@@ -5002,9 +5002,9 @@
     "QA_Pair_2_Question": "Who obtained the patent for Railroad Switch in 1838?",
     "QA_Pair_2_Answer": "Charles Fox",
     "QA_Pair_3_Question": "In which year was Charles Fox born?",
-    "QA_Pair_3_Answer": 1810,
+    "QA_Pair_3_Answer": "1810",
     "Multi_hop_Question": "In which year was the person born who obtained the patent for the mechanical installation shown in the video in 1838?",
-    "Multi_hop_Answer": 1810
+    "Multi_hop_Answer": "1810"
   },
   {
     "date": "2012-08-30",
@@ -5078,18 +5078,18 @@
     "QA_Pair_1_Question": "What building is shown being attacked in the video?",
     "QA_Pair_1_Answer": "The Pentagon",
     "QA_Pair_2_Question": "In which year did The Pentagon start construction?",
-    "QA_Pair_2_Answer": 1941,
+    "QA_Pair_2_Answer": "1941",
     "Multi_hop_Question": "In which year did the construction of the attacked building shown in the video start?",
-    "Multi_hop_Answer": 1941
+    "Multi_hop_Answer": "1941"
   },
   {
     "date": "2012-09-11",
     "QA_Pair_1_Question": "What building is shown being attacked in the video?",
     "QA_Pair_1_Answer": "The Pentagon",
     "QA_Pair_2_Question": "In which year was the Pentagon completed?",
-    "QA_Pair_2_Answer": 1943,
+    "QA_Pair_2_Answer": "1943",
     "Multi_hop_Question": "In which year was the building shown being attacked in the video completed?",
-    "Multi_hop_Answer": 1943
+    "Multi_hop_Answer": "1943"
   },
   {
     "date": "2012-09-11",
@@ -5118,9 +5118,9 @@
     "QA_Pair_2_Question": "Who named Apis mellifera?",
     "QA_Pair_2_Answer": "Linnaeus",
     "QA_Pair_3_Question": "In which year was Linnaeus born?",
-    "QA_Pair_3_Answer": 1707,
+    "QA_Pair_3_Answer": "1707",
     "Multi_hop_Question": "In which year was the namer of the bee in the video born?",
-    "Multi_hop_Answer": 1707
+    "Multi_hop_Answer": "1707"
   },
   {
     "date": "2012-09-20",
@@ -5292,9 +5292,9 @@
     "QA_Pair_1_Question": "What growth process is being simulated in the video?",
     "QA_Pair_1_Answer": "Dendrite",
     "QA_Pair_2_Question": "In which year was the term \"dendrite\" first used?",
-    "QA_Pair_2_Answer": 1889,
+    "QA_Pair_2_Answer": "1889",
     "Multi_hop_Question": "In which year was the term \"growth process\" simulated in the video first used?",
-    "Multi_hop_Answer": 1889
+    "Multi_hop_Answer": "1889"
   },
   {
     "date": "2012-10-08",
@@ -5509,18 +5509,18 @@
     "QA_Pair_1_Question": "What type of actuator is being disassembled in the video?",
     "QA_Pair_1_Answer": "Floppy disk",
     "QA_Pair_2_Question": "In which year did IBM introduce the first commercial floppy disk drive?",
-    "QA_Pair_2_Answer": 1971,
+    "QA_Pair_2_Answer": "1971",
     "Multi_hop_Question": "In which year did IBM launch the first commercial actuator type being disassembled in the video?",
-    "Multi_hop_Answer": 1971
+    "Multi_hop_Answer": "1971"
   },
   {
     "date": "2012-11-27",
     "QA_Pair_1_Question": "Who is the astronaut in the video?",
     "QA_Pair_1_Answer": "Charles Duke",
     "QA_Pair_2_Question": "In what year was Charles Duke born?",
-    "QA_Pair_2_Answer": 1935,
+    "QA_Pair_2_Answer": "1935",
     "Multi_hop_Question": "In which year was the astronaut in the video born?",
-    "Multi_hop_Answer": 1935
+    "Multi_hop_Answer": "1935"
   },
   {
     "date": "2012-11-28",
@@ -5538,7 +5538,7 @@
     "QA_Pair_2_Question": "Who named Colletes cunicularius?",
     "QA_Pair_2_Answer": "Carl Linnaeus",
     "QA_Pair_3_Question": "In which year did Carl Linnaeus pass away?",
-    "QA_Pair_3_Answer": 1778,
+    "QA_Pair_3_Answer": "1778",
     "QA_Pair_4_Question": "Which city was settled in its final location in 1778？",
     "QA_Pair_4_Answer": "Ulaanbaatar",
     "Multi_hop_Question": "Which city was settled in its final location in the year in which the person who named the bee in the video passed away？",
@@ -5580,18 +5580,18 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "The Battle of San Pietro",
     "QA_Pair_2_Question": "In which year was the documentary film The Battle of San Pietro selected for preservation in the United States National Film Registry?",
-    "QA_Pair_2_Answer": 1991,
+    "QA_Pair_2_Answer": "1991",
     "Multi_hop_Question": "In which year was the movie shown in the video selected for preservation in the United States National Film Registry?",
-    "Multi_hop_Answer": 1991
+    "Multi_hop_Answer": "1991"
   },
   {
     "date": "2012-12-08",
     "QA_Pair_1_Question": "What is the name of the documentary film shown in this video?",
     "QA_Pair_1_Answer": "The Battle of San Pietro",
     "QA_Pair_2_Question": "In which year was \"The Battle of San Pietro\" selected for preservation in the United States National Film Registry?",
-    "QA_Pair_2_Answer": 1991,
+    "QA_Pair_2_Answer": "1991",
     "Multi_hop_Question": "In which year was the documentary film shown in the video selected for preservation in the United States National Film Registry?",
-    "Multi_hop_Answer": 1991
+    "Multi_hop_Answer": "1991"
   },
   {
     "date": "2012-12-08",
@@ -5620,9 +5620,9 @@
     "QA_Pair_1_Question": "Who is the person in the video?",
     "QA_Pair_1_Answer": "Serge Haroche",
     "QA_Pair_2_Question": "In which year was Serge Haroche born?",
-    "QA_Pair_2_Answer": 1944,
+    "QA_Pair_2_Answer": "1944",
     "Multi_hop_Question": "In which year was the person in the video born?",
-    "Multi_hop_Answer": 1944
+    "Multi_hop_Answer": "1944"
   },
   {
     "date": "2012-12-13",
@@ -5662,7 +5662,7 @@
     "QA_Pair_2_Question": "Which university did Barack Obama graduate from to receive his bachelor's degree?",
     "QA_Pair_2_Answer": "Columbia University",
     "QA_Pair_3_Question": "In which year was Columbia University founded?",
-    "QA_Pair_3_Answer": 1754,
+    "QA_Pair_3_Answer": "1754",
     "QA_Pair_4_Question": "What warfare on North America began at 1754? ",
     "QA_Pair_4_Answer": "The French and Indian War",
     "Multi_hop_Question": "What warfare on North America began at the year in which the university, in which the man making the statement in the video graduated from to receive his bachelor's degree, was founded? ",
@@ -5675,9 +5675,9 @@
     "QA_Pair_2_Question": "Which German technology company manufactured SmartBird in 2011?",
     "QA_Pair_2_Answer": "Festo",
     "QA_Pair_3_Question": "In which year was Festo founded?",
-    "QA_Pair_3_Answer": 1925,
+    "QA_Pair_3_Answer": "1925",
     "Multi_hop_Question": "In which year was the manufacturer of the device simulated in the video established?",
-    "Multi_hop_Answer": 1925
+    "Multi_hop_Answer": "1925"
   },
   {
     "date": "2012-12-19",
@@ -5813,9 +5813,9 @@
     "QA_Pair_1_Question": "Which city is shown in the video footage?",
     "QA_Pair_1_Answer": "Munich",
     "QA_Pair_2_Question": "In which year did Munich host the Summer Olympic Games?",
-    "QA_Pair_2_Answer": 1972,
+    "QA_Pair_2_Answer": "1972",
     "Multi_hop_Question": "In which year did the city shown in the video footage host the Summer Olympic Games?",
-    "Multi_hop_Answer": 1972
+    "Multi_hop_Answer": "1972"
   },
   {
     "date": "2013-01-12",
@@ -5824,7 +5824,7 @@
     "QA_Pair_2_Question": "Which is the oldest church in Munich's inner city?",
     "QA_Pair_2_Answer": "Peterskirche",
     "QA_Pair_3_Question": "In which year was Peterskirche destroyed by a fire?",
-    "QA_Pair_3_Answer": 1327,
+    "QA_Pair_3_Answer": "1327",
     "QA_Pair_4_Question": "Which King of England was crownded in 1327?",
     "QA_Pair_4_Answer": "Edward III",
     "Multi_hop_Question": "Which King of England was crownded in the year in which the oldest church in the inner city of the city shown in the aerial footage of the video was destroyed by a fire?",
@@ -5939,7 +5939,7 @@
     "QA_Pair_2_Question": "Who is the producer of \"Tears of Steel\"?",
     "QA_Pair_2_Answer": "Ton Roosendaal",
     "QA_Pair_3_Question": "In which year was Ton Roosendaal born?",
-    "QA_Pair_3_Answer": 1960,
+    "QA_Pair_3_Answer": "1960",
     "QA_Pair_4_Question": "Which president of the United States was elected in 1960?",
     "QA_Pair_4_Answer": "John Fitzgerald Kennedy",
     "Multi_hop_Question": "Which president of the United States was elected in the year in which the director of the short science fiction depicted in the video was born?",
@@ -6007,9 +6007,9 @@
     "QA_Pair_3_Question": "What is the largest city in the United States?",
     "QA_Pair_3_Answer": "New York City",
     "QA_Pair_4_Question": "In which year was New York City settled?",
-    "QA_Pair_4_Answer": 1624,
+    "QA_Pair_4_Answer": "1624",
     "Multi_hop_Question": "In which year was the largest city, of the country the person with a goatee and a cane in the video is from, settled?",
-    "Multi_hop_Answer": 1624
+    "Multi_hop_Answer": "1624"
   },
   {
     "date": "2013-02-11",
@@ -6173,9 +6173,9 @@
     "QA_Pair_1_Question": "What buildings appear in the video?",
     "QA_Pair_1_Answer": "Mitchell Park Conservatory",
     "QA_Pair_2_Question": "Which year was Mitchell Park greenhouse created?",
-    "QA_Pair_2_Answer": 1959,
+    "QA_Pair_2_Answer": "1959",
     "Multi_hop_Question": "Which year was the building appeared in the video created?",
-    "Multi_hop_Answer": 1959
+    "Multi_hop_Answer": "1959"
   },
   {
     "date": "2013-03-14",
@@ -6269,27 +6269,27 @@
     "QA_Pair_2_Question": "Who directed Humorous Phases of Funny Faces?",
     "QA_Pair_2_Answer": "J. Stuart Blackton",
     "QA_Pair_3_Question": "In which year was J. Stuart Blackton born?",
-    "QA_Pair_3_Answer": 1875,
+    "QA_Pair_3_Answer": "1875",
     "Multi_hop_Question": "In which year was the director of the animated short film shown in the video born?",
-    "Multi_hop_Answer": 1875
+    "Multi_hop_Answer": "1875"
   },
   {
     "date": "2013-04-04",
     "QA_Pair_1_Question": "What type of musical instrument ensemble is being played in the video?",
     "QA_Pair_1_Answer": "Gamelan",
     "QA_Pair_2_Question": "In which year was gamelan added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
-    "QA_Pair_2_Answer": 2021,
+    "QA_Pair_2_Answer": "2021",
     "Multi_hop_Question": "In which year was the musical instrument ensemble played in the video added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
-    "Multi_hop_Answer": 2021
+    "Multi_hop_Answer": "2021"
   },
   {
     "date": "2013-04-05",
     "QA_Pair_1_Question": "Which type of star is shown being consumed by the black hole in the video?",
     "QA_Pair_1_Answer": "A neutron star",
     "QA_Pair_2_Question": "In which year was the existence of neutron stars first proposed?",
-    "QA_Pair_2_Answer": 1933,
+    "QA_Pair_2_Answer": "1933",
     "Multi_hop_Question": "In which year was the existence of the type of stars that were swallowed by black holes first proposed?",
-    "Multi_hop_Answer": 1933
+    "Multi_hop_Answer": "1933"
   },
   {
     "date": "2013-04-05",
@@ -6307,9 +6307,9 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "Traffic Crossing Leeds Bridge",
     "QA_Pair_2_Question": "Which year was Traffic Crossing Leeds Bridge released?",
-    "QA_Pair_2_Answer": 1888,
+    "QA_Pair_2_Answer": "1888",
     "Multi_hop_Question": "Which year was the movie in the video released?",
-    "Multi_hop_Answer": 1888
+    "Multi_hop_Answer": "1888"
   },
   {
     "date": "2013-04-07",
@@ -6329,9 +6329,9 @@
     "QA_Pair_2_Question": "Who is the director of Traffic Over Leeds Bridge?",
     "QA_Pair_2_Answer": "Louis Le Prince",
     "QA_Pair_3_Question": "In which year was Louis Le Prince born?",
-    "QA_Pair_3_Answer": 1841,
+    "QA_Pair_3_Answer": "1841",
     "Multi_hop_Question": "In which year was the director depicted in the video born?",
-    "Multi_hop_Answer": 1841
+    "Multi_hop_Answer": "1841"
   },
   {
     "date": "2013-04-13",
@@ -6349,9 +6349,9 @@
     "QA_Pair_2_Question": "Which team is the Danish unit that uses sled dogs for patrolling?",
     "QA_Pair_2_Answer": "Sirius Patrol",
     "QA_Pair_3_Question": "In which year was the Sirius Patrol founded?",
-    "QA_Pair_3_Answer": 1941,
+    "QA_Pair_3_Answer": "1941",
     "Multi_hop_Question": "In which year was the Danish unit that uses the dogs shown in the video for patrolling founded?",
-    "Multi_hop_Answer": 1941
+    "Multi_hop_Answer": "1941"
   },
   {
     "date": "2013-04-16",
@@ -6367,18 +6367,18 @@
     "QA_Pair_1_Question": "What is the name of the spacecraft shown in the video?",
     "QA_Pair_1_Answer": "Soyuz TMA-08M",
     "QA_Pair_2_Question": "What is the SATCAT number of Soyuz TMA-08M?",
-    "QA_Pair_2_Answer": 39125,
+    "QA_Pair_2_Answer": "39125",
     "Multi_hop_Question": "What is the SATCAT number of the spacecraft shown in the video?",
-    "Multi_hop_Answer": 39125
+    "Multi_hop_Answer": "39125"
   },
   {
     "date": "2013-04-21",
     "QA_Pair_1_Question": "Which movie is this video clip from?",
     "QA_Pair_1_Answer": "Duck and Cover",
     "QA_Pair_2_Question": "In which year was the civil defense film \"Duck and Cover\" first released to the public in the United States?",
-    "QA_Pair_2_Answer": 1951,
+    "QA_Pair_2_Answer": "1951",
     "Multi_hop_Question": "In which year was the movie shown in the video clip first released to the public in the United States?",
-    "Multi_hop_Answer": 1951
+    "Multi_hop_Answer": "1951"
   },
   {
     "date": "2013-04-26",
@@ -6490,9 +6490,9 @@
     "QA_Pair_1_Question": "What type of natural monument is shown in the video?",
     "QA_Pair_1_Answer": "Miocenne freshwater limestones",
     "QA_Pair_2_Question": "In which year were the Miocene freshwater limestones first explored?",
-    "QA_Pair_2_Answer": 1860,
+    "QA_Pair_2_Answer": "1860",
     "Multi_hop_Question": "In which year was the type of natural monument shown in the video first explored?",
-    "Multi_hop_Answer": 1860
+    "Multi_hop_Answer": "1860"
   },
   {
     "date": "2013-05-11",
@@ -6526,9 +6526,9 @@
     "QA_Pair_1_Question": "What type of locomotive is depicted in the video?",
     "QA_Pair_1_Answer": "Narrow gauge 0-4-0 well tank steam locomotive",
     "QA_Pair_2_Question": "What year was the narrow gauge 0-4-0 well tank steam locomotive delivered?",
-    "QA_Pair_2_Answer": 1866,
+    "QA_Pair_2_Answer": "1866",
     "Multi_hop_Question": "What year was the locomotive depicted in the video delivered?",
-    "Multi_hop_Answer": 1866
+    "Multi_hop_Answer": "1866"
   },
   {
     "date": "2013-05-27",
@@ -6602,9 +6602,9 @@
     "QA_Pair_2_Question": "In which newspaper did the term \"bicycle\" first appear in English print in 1868?",
     "QA_Pair_2_Answer": "The Daily News",
     "QA_Pair_3_Question": "In which year was The Daily News founded?",
-    "QA_Pair_3_Answer": 1846,
+    "QA_Pair_3_Answer": "1846",
     "Multi_hop_Question": "In which year was the newspaper that referred to the flying vehicle shown in the video founded, if it first appeared in English print in 1868?",
-    "Multi_hop_Answer": 1846
+    "Multi_hop_Answer": "1846"
   },
   {
     "date": "2013-06-18",
@@ -6620,9 +6620,9 @@
     "QA_Pair_1_Question": "What is the mountain in the video?",
     "QA_Pair_1_Answer": "Mount Sanqing",
     "QA_Pair_2_Question": "In which year was Mount Sanqing inscribed on the UNESCO World Heritage List?",
-    "QA_Pair_2_Answer": 2008,
+    "QA_Pair_2_Answer": "2008",
     "Multi_hop_Question": "In which year was the mountain in the video inscribed on the UNESCO World Heritage List?",
-    "Multi_hop_Answer": 2008
+    "Multi_hop_Answer": "2008"
   },
   {
     "date": "2013-06-22",
@@ -6678,9 +6678,9 @@
     "QA_Pair_1_Question": "What is the name of the waterfall shown in the video?",
     "QA_Pair_1_Answer": "Saut de la Lézarde",
     "QA_Pair_2_Question": "In which year did a municipal decree prohibit access to Saut de la Lézarde?",
-    "QA_Pair_2_Answer": 2015,
+    "QA_Pair_2_Answer": "2015",
     "Multi_hop_Question": "In which year did a municipal decree prohibit access to the waterfall shown in the video?",
-    "Multi_hop_Answer": 2015
+    "Multi_hop_Answer": "2015"
   },
   {
     "date": "2013-07-01",
@@ -6745,9 +6745,9 @@
     "QA_Pair_2_Question": "Who invented the conche machine in 1879?",
     "QA_Pair_2_Answer": "Rodolphe Lindt",
     "QA_Pair_3_Question": "What year was Rodolphe Lindt born?",
-    "QA_Pair_3_Answer": 1855,
+    "QA_Pair_3_Answer": "1855",
     "Multi_hop_Question": "In what year was the inventor of the machine, which was invented in 1879 and shown in the video, born?",
-    "Multi_hop_Answer": 1855
+    "Multi_hop_Answer": "1855"
   },
   {
     "date": "2013-07-17",
@@ -6812,9 +6812,9 @@
     "QA_Pair_1_Question": "What railway is shown in the video?",
     "QA_Pair_1_Answer": "Molli railway",
     "QA_Pair_2_Question": "In which year did the first section of the Molli railway begin operation?",
-    "QA_Pair_2_Answer": 1886,
+    "QA_Pair_2_Answer": "1886",
     "Multi_hop_Question": "In which year did the first section of the railway shown in the video begin operation?",
-    "Multi_hop_Answer": 1886
+    "Multi_hop_Answer": "1886"
   },
   {
     "date": "2013-08-17",
@@ -6830,9 +6830,9 @@
     "QA_Pair_1_Question": "What is the name of the monastery shown in the video?",
     "QA_Pair_1_Answer": "Moe Goak Monastery",
     "QA_Pair_2_Question": "In what year was Moe Goak Monastery transformed into a museum?",
-    "QA_Pair_2_Answer": 1996,
+    "QA_Pair_2_Answer": "1996",
     "Multi_hop_Question": "In what year was the monastery displayed in the video converted into a museum?",
-    "Multi_hop_Answer": 1996
+    "Multi_hop_Answer": "1996"
   },
   {
     "date": "2013-08-18",
@@ -6866,9 +6866,9 @@
     "QA_Pair_1_Question": "What type of machine is shown in the video?",
     "QA_Pair_1_Answer": "Tunnel boring machine",
     "QA_Pair_2_Question": "In which year was the first Tunnel Boring Machine for long-distance tunneling invented?",
-    "QA_Pair_2_Answer": 1863,
+    "QA_Pair_2_Answer": "1863",
     "Multi_hop_Question": "In which year was the first machine shown in the video for long-distance excavation invented?",
-    "Multi_hop_Answer": 1863
+    "Multi_hop_Answer": "1863"
   },
   {
     "date": "2013-08-30",
@@ -6886,9 +6886,9 @@
     "QA_Pair_2_Question": "Which Swedish entomologist first described Tetanocera hyalipennis?",
     "QA_Pair_2_Answer": "Carl Fredrik Fallén",
     "QA_Pair_3_Question": "In which year was Carl Fredrik Fallén born?",
-    "QA_Pair_3_Answer": 1764,
+    "QA_Pair_3_Answer": "1764",
     "Multi_hop_Question": "In which year was the Swedish entomologist who first described the insects shown in the video born?",
-    "Multi_hop_Answer": 1764
+    "Multi_hop_Answer": "1764"
   },
   {
     "date": "2013-09-05",
@@ -6953,9 +6953,9 @@
     "QA_Pair_1_Question": "What is the type of machine that appears in the video?",
     "QA_Pair_1_Answer": "Dragline excavator",
     "QA_Pair_2_Question": "In which year was the dragline excavator invented?",
-    "QA_Pair_2_Answer": 1904,
+    "QA_Pair_2_Answer": "1904",
     "Multi_hop_Question": "In which year was the machine that appeared in the video invented?",
-    "Multi_hop_Answer": 1904
+    "Multi_hop_Answer": "1904"
   },
   {
     "date": "2013-09-22",
@@ -7018,9 +7018,9 @@
     "QA_Pair_1_Question": "What is the name of the spacecraft shown in the video?",
     "QA_Pair_1_Answer": "Soyuz TMA-10M",
     "QA_Pair_2_Question": "In which year was the first launch of Soyuz TMA-10M?",
-    "QA_Pair_2_Answer": 1967,
+    "QA_Pair_2_Answer": "1967",
     "Multi_hop_Question": "In which year was the first launch of the spacecraft shown in the video?",
-    "Multi_hop_Answer": 1967
+    "Multi_hop_Answer": "1967"
   },
   {
     "date": "2013-10-03",
@@ -7029,9 +7029,9 @@
     "QA_Pair_2_Question": "Where does the Great Eastern Highway begin?",
     "QA_Pair_2_Answer": "The Causeway",
     "QA_Pair_3_Question": "In which year was The Causeway opened?",
-    "QA_Pair_3_Answer": 1843,
+    "QA_Pair_3_Answer": "1843",
     "Multi_hop_Question": "In which year was the road, which marks the beginning of the highway shown in the video, opened?",
-    "Multi_hop_Answer": 1843
+    "Multi_hop_Answer": "1843"
   },
   {
     "date": "2013-10-04",
@@ -7040,9 +7040,9 @@
     "QA_Pair_2_Question": "Which country's traditional custom is Krishnattam?",
     "QA_Pair_2_Answer": "India",
     "QA_Pair_3_Question": "In which year did India gain independence from the United Kingdom?",
-    "QA_Pair_3_Answer": 1947,
+    "QA_Pair_3_Answer": "1947",
     "Multi_hop_Question": "In which year did the country whose traditional custom is shown in the video gain independence from the United Kingdom?",
-    "Multi_hop_Answer": 1947
+    "Multi_hop_Answer": "1947"
   },
   {
     "date": "2013-10-05",
@@ -7076,9 +7076,9 @@
     "QA_Pair_1_Question": "Which movie is shown in the video?",
     "QA_Pair_1_Answer": "Cleopatra",
     "QA_Pair_2_Question": "In which year is Cleopatra released?",
-    "QA_Pair_2_Answer": 1917,
+    "QA_Pair_2_Answer": "1917",
     "Multi_hop_Question": "In which year is the movie shown in the video released?",
-    "Multi_hop_Answer": 1917
+    "Multi_hop_Answer": "1917"
   },
   {
     "date": "2013-10-08",
@@ -7098,9 +7098,9 @@
     "QA_Pair_2_Question": "Which director was responsible for Cleopatra?",
     "QA_Pair_2_Answer": "J. Gordon Edwards",
     "QA_Pair_3_Question": "In which year was J. Gordon Edwards born?",
-    "QA_Pair_3_Answer": 1867,
+    "QA_Pair_3_Answer": "1867",
     "Multi_hop_Question": "In which year was the director of the movie shown in the video fragment born?",
-    "Multi_hop_Answer": 1867
+    "Multi_hop_Answer": "1867"
   },
   {
     "date": "2013-10-09",
@@ -7196,9 +7196,9 @@
     "QA_Pair_2_Question": "Which scholarship did Jack Andraka receive in 2018 to support his graduate studies?",
     "QA_Pair_2_Answer": "Truman Scholarship",
     "QA_Pair_3_Question": "In which year was the Truman Scholarship established?",
-    "QA_Pair_3_Answer": 1975,
+    "QA_Pair_3_Answer": "1975",
     "Multi_hop_Question": "What year was the scholarship, used for graduate studies, established that the boy talking with Francis S. Collins in the video received in 2008?",
-    "Multi_hop_Answer": 1975
+    "Multi_hop_Answer": "1975"
   },
   {
     "date": "2013-10-23",
@@ -7241,9 +7241,9 @@
     "QA_Pair_1_Question": "On which river is the boat sailing in the video?",
     "QA_Pair_1_Answer": "Mittelland Canal",
     "QA_Pair_2_Question": "In which year was the Mittelland Canal fully completed?",
-    "QA_Pair_2_Answer": 1938,
+    "QA_Pair_2_Answer": "1938",
     "Multi_hop_Question": "In which year was the river on which the boat is sailing in the video fully completed?",
-    "Multi_hop_Answer": 1938
+    "Multi_hop_Answer": "1938"
   },
   {
     "date": "2013-11-01",
@@ -7324,9 +7324,9 @@
     "QA_Pair_1_Question": "What is the model of the train in the video?",
     "QA_Pair_1_Answer": "ICE 3",
     "QA_Pair_2_Question": "In which year did ICE 3 trains first enter commercial passenger service?",
-    "QA_Pair_2_Answer": 2000,
+    "QA_Pair_2_Answer": "2000",
     "Multi_hop_Question": "In which year did the train model shown in the video first enter commercial passenger service?",
-    "Multi_hop_Answer": 2000
+    "Multi_hop_Answer": "2000"
   },
   {
     "date": "2013-12-06",
@@ -7344,9 +7344,9 @@
     "QA_Pair_2_Question": "Who invented the first practical steam engine?",
     "QA_Pair_2_Answer": "Thomas Newcomen",
     "QA_Pair_3_Question": "In which year was James Watt born?",
-    "QA_Pair_3_Answer": 1664,
+    "QA_Pair_3_Answer": "1664",
     "Multi_hop_Question": "In which year was the inventor who invented the first practical machine appearing in the video born?",
-    "Multi_hop_Answer": 1664
+    "Multi_hop_Answer": "1664"
   },
   {
     "date": "2013-12-13",
@@ -7355,9 +7355,9 @@
     "QA_Pair_2_Question": "Which organization governs swimming internationally?",
     "QA_Pair_2_Answer": "World Aquatics",
     "QA_Pair_3_Question": "In which year was World Aquatics founded?",
-    "QA_Pair_3_Answer": 1908,
+    "QA_Pair_3_Answer": "1908",
     "Multi_hop_Question": "In which year was the governing organization for the sports competition shown in the video founded?",
-    "Multi_hop_Answer": 1908
+    "Multi_hop_Answer": "1908"
   },
   {
     "date": "2013-12-26",
@@ -7375,9 +7375,9 @@
     "QA_Pair_2_Question": "Which engineer invented the first commercially viable CT scanner?",
     "QA_Pair_2_Answer": "Sir Godfrey Hounsfield",
     "QA_Pair_3_Question": "In which year was Sir Godfrey Hounsfield born?",
-    "QA_Pair_3_Answer": 1919,
+    "QA_Pair_3_Answer": "1919",
     "Multi_hop_Question": "In which year was the engineer born who invented the first commercially viable medical instruments displayed in the video?",
-    "Multi_hop_Answer": 1919
+    "Multi_hop_Answer": "1919"
   },
   {
     "date": "2013-12-30",
@@ -7404,9 +7404,9 @@
     "QA_Pair_1_Question": "What machine is used to observe the baby sleeping in the video?",
     "QA_Pair_1_Answer": "Infrared thermal imager",
     "QA_Pair_2_Question": "In which year was the first commercial infrared thermal imager sold?",
-    "QA_Pair_2_Answer": 1965,
+    "QA_Pair_2_Answer": "1965",
     "Multi_hop_Question": "What year was the first commercial machine for observing babies sleeping sold?",
-    "Multi_hop_Answer": 1965
+    "Multi_hop_Answer": "1965"
   },
   {
     "date": "2014-01-04",
@@ -7520,9 +7520,9 @@
     "QA_Pair_1_Question": "What is the title of the movie featured in the video?",
     "QA_Pair_1_Answer": "The Little Princess",
     "QA_Pair_2_Question": "In what year was the movie The Little Princess released?",
-    "QA_Pair_2_Answer": 1939,
+    "QA_Pair_2_Answer": "1939",
     "Multi_hop_Question": "In what year was the movie in the video released?",
-    "Multi_hop_Answer": 1939
+    "Multi_hop_Answer": "1939"
   },
   {
     "date": "2014-02-19",
@@ -7625,9 +7625,9 @@
     "QA_Pair_1_Question": "What type of equipment is shown in the video?",
     "QA_Pair_1_Answer": "Tesla coils",
     "QA_Pair_2_Question": "In what year was the Tesla coil first designed?",
-    "QA_Pair_2_Answer": 1891,
+    "QA_Pair_2_Answer": "1891",
     "Multi_hop_Question": "In which year were the equipment shown in the video designed?",
-    "Multi_hop_Answer": 1891
+    "Multi_hop_Answer": "1891"
   },
   {
     "date": "2014-04-14",
@@ -7643,9 +7643,9 @@
     "QA_Pair_1_Question": "What is the name of the small green board being presented on the IO Board in the video?",
     "QA_Pair_1_Answer": "Raspberry Pi Compute Module",
     "QA_Pair_2_Question": "In which year was the first Raspberry Pi computer model released to the public?",
-    "QA_Pair_2_Answer": 2012,
+    "QA_Pair_2_Answer": "2012",
     "Multi_hop_Question": "In which year was the green small board displayed on the IO board in the video released to the public?",
-    "Multi_hop_Answer": 2012
+    "Multi_hop_Answer": "2012"
   },
   {
     "date": "2014-04-29",
@@ -7661,18 +7661,18 @@
     "QA_Pair_1_Question": "What type of tractor is shown pulling the New Holland forage harvester in the vid?",
     "QA_Pair_1_Answer": "John Deere 4020",
     "QA_Pair_2_Question": "Which year did John Deere begin production of the 4020 tractor?",
-    "QA_Pair_2_Answer": 1963,
+    "QA_Pair_2_Answer": "1963",
     "Multi_hop_Question": "Which year did John Deere begin production of the tractor shown pulling the New Holland forage harvester in the video?",
-    "Multi_hop_Answer": 1963
+    "Multi_hop_Answer": "1963"
   },
   {
     "date": "2014-05-10",
     "QA_Pair_1_Question": "What is the name of the band performing in this music video?",
     "QA_Pair_1_Answer": "Semargl",
     "QA_Pair_2_Question": "In which year was the Semargl formed?",
-    "QA_Pair_2_Answer": 1997,
+    "QA_Pair_2_Answer": "1997",
     "Multi_hop_Question": "In which year was the band performing in this music video formed?",
-    "Multi_hop_Answer": 1997
+    "Multi_hop_Answer": "1997"
   },
   {
     "date": "2014-05-10",
@@ -7690,9 +7690,9 @@
     "QA_Pair_1_Question": "What aircraft model is shown flying over the Silent Drill Platoon in the video?",
     "QA_Pair_1_Answer": "Lockheed C-130 Hercules",
     "QA_Pair_2_Question": "In which year did the Lockheed C-130 Hercules make its first flight?",
-    "QA_Pair_2_Answer": 1954,
+    "QA_Pair_2_Answer": "1954",
     "Multi_hop_Question": "In which year did the aircraft model shown flying over the Silent Drill Platoon in the video make its first flight?",
-    "Multi_hop_Answer": 1954
+    "Multi_hop_Answer": "1954"
   },
   {
     "date": "2014-05-11",
@@ -7744,9 +7744,9 @@
     "QA_Pair_1_Question": "Which square is shown in the video?",
     "QA_Pair_1_Answer": "Manezhnaya Square",
     "QA_Pair_2_Question": "What is the postal code of the location of Manezhnaya Square?",
-    "QA_Pair_2_Answer": 125009,
+    "QA_Pair_2_Answer": "125009",
     "Multi_hop_Question": "What is the postal code of the location of the square shown in the video?",
-    "Multi_hop_Answer": 125009
+    "Multi_hop_Answer": "125009"
   },
   {
     "date": "2014-05-30",
@@ -7771,9 +7771,9 @@
     "QA_Pair_1_Question": "What station is the location in the video?",
     "QA_Pair_1_Answer": "Church Street station",
     "QA_Pair_2_Question": "In which year was the historic Church Street Station in Orlando originally built?",
-    "QA_Pair_2_Answer": 1889,
+    "QA_Pair_2_Answer": "1889",
     "Multi_hop_Question": "Which year was the train station shown in the video originally constructed?",
-    "Multi_hop_Answer": 1889
+    "Multi_hop_Answer": "1889"
   },
   {
     "date": "2014-06-03",
@@ -7883,9 +7883,9 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "Mickey",
     "QA_Pair_2_Question": "In which year was the movie Mickey released?",
-    "QA_Pair_2_Answer": 1918,
+    "QA_Pair_2_Answer": "1918",
     "Multi_hop_Question": "In which year was this movie shown in the video released?",
-    "Multi_hop_Answer": 1918
+    "Multi_hop_Answer": "1918"
   },
   {
     "date": "2014-06-22",
@@ -7959,9 +7959,9 @@
     "QA_Pair_2_Question": "Which country does Helsingborg belong to?",
     "QA_Pair_2_Answer": "Sweden",
     "QA_Pair_3_Question": "In which year did Sweden join the European Union?",
-    "QA_Pair_3_Answer": 1995,
+    "QA_Pair_3_Answer": "1995",
     "Multi_hop_Question": "In what year did the country depicted in the video’s cityscape join the European Union?",
-    "Multi_hop_Answer": 1995
+    "Multi_hop_Answer": "1995"
   },
   {
     "date": "2014-07-12",
@@ -8067,9 +8067,9 @@
     "QA_Pair_1_Question": "What are the chemicals shown in the video?",
     "QA_Pair_1_Answer": "KMnO₄",
     "QA_Pair_2_Question": "What is the refractive index of KMnO₄?",
-    "QA_Pair_2_Answer": 1.59,
+    "QA_Pair_2_Answer": "1.59",
     "Multi_hop_Question": "What is the refractive index of the chemical substance in the video?",
-    "Multi_hop_Answer": 1.59
+    "Multi_hop_Answer": "1.59"
   },
   {
     "date": "2014-08-15",
@@ -8078,9 +8078,9 @@
     "QA_Pair_2_Question": "Who is the director of the movie 'Le Voyage sur Jupiter'?",
     "QA_Pair_2_Answer": "Segundo de Chomón",
     "QA_Pair_3_Question": "In which year was Segundo de Chom ?? n born?",
-    "QA_Pair_3_Answer": 1871,
+    "QA_Pair_3_Answer": "1871",
     "Multi_hop_Question": "In which year was the director of the movie in the video born?",
-    "Multi_hop_Answer": 1871
+    "Multi_hop_Answer": "1871"
   },
   {
     "date": "2014-08-17",
@@ -8134,9 +8134,9 @@
     "QA_Pair_1_Question": "What model is the helicopter shown flying over Oulu Airport in the video?",
     "QA_Pair_1_Answer": "AgustaWestland AW119 Koala",
     "QA_Pair_2_Question": "In which year did the AgustaWestland AW119 Koala make its first flight?",
-    "QA_Pair_2_Answer": 1995,
+    "QA_Pair_2_Answer": "1995",
     "Multi_hop_Question": "In which year did the helicopter that flew over Oulu Airport make its maiden flight?",
-    "Multi_hop_Answer": 1995
+    "Multi_hop_Answer": "1995"
   },
   {
     "date": "2014-09-10",
@@ -8248,9 +8248,9 @@
     "QA_Pair_1_Question": "What is the title of the short film shown in the video?",
     "QA_Pair_1_Answer": "Between Showers",
     "QA_Pair_2_Question": "In which year was the film Between Showers released?",
-    "QA_Pair_2_Answer": 1914,
+    "QA_Pair_2_Answer": "1914",
     "Multi_hop_Question": "In which year was the short film in the video released?",
-    "Multi_hop_Answer": 1914
+    "Multi_hop_Answer": "1914"
   },
   {
     "date": "2014-10-05",
@@ -8268,9 +8268,9 @@
     "QA_Pair_2_Question": "In which borough of New York City did breakdancing originate?",
     "QA_Pair_2_Answer": "The Bronx",
     "QA_Pair_3_Question": "In which year did the European colonization of the Bronx begin?",
-    "QA_Pair_3_Answer": 1639,
+    "QA_Pair_3_Answer": "1639",
     "Multi_hop_Question": "In which year did the European colonization of the borough of New York City where the kind of dance shown in the video originates begin?",
-    "Multi_hop_Answer": 1639
+    "Multi_hop_Answer": "1639"
   },
   {
     "date": "2014-10-07",
@@ -8286,9 +8286,9 @@
     "QA_Pair_1_Question": "What is the name of the cruise ship shown in the video?",
     "QA_Pair_1_Answer": "Seven Seas Voyager",
     "QA_Pair_2_Question": "Which year did the Seven Seas Voyager enter service?",
-    "QA_Pair_2_Answer": 2003,
+    "QA_Pair_2_Answer": "2003",
     "Multi_hop_Question": "Which year did the ship in the video enter service?",
-    "Multi_hop_Answer": 2003
+    "Multi_hop_Answer": "2003"
   },
   {
     "date": "2014-10-07",
@@ -8306,9 +8306,9 @@
     "QA_Pair_1_Question": "What is the flying object being launched in the video?",
     "QA_Pair_1_Answer": "Rocket",
     "QA_Pair_2_Question": "Which year did modern rockets originate?",
-    "QA_Pair_2_Answer": 1926,
+    "QA_Pair_2_Answer": "1926",
     "Multi_hop_Question": "Which year did the modern flying object being launched in the video originate?",
-    "Multi_hop_Answer": 1926
+    "Multi_hop_Answer": "1926"
   },
   {
     "date": "2014-10-10",
@@ -8346,9 +8346,9 @@
     "QA_Pair_2_Question": "Who is the director of the movie His Majesty, the Scarecrow of Oz?",
     "QA_Pair_2_Answer": "J. Farrell MacDonald",
     "QA_Pair_3_Question": "In which year was J. Farrell MacDonald born?",
-    "QA_Pair_3_Answer": 1875,
+    "QA_Pair_3_Answer": "1875",
     "Multi_hop_Question": "What year was the director of the movie shown in the video born?",
-    "Multi_hop_Answer": 1875
+    "Multi_hop_Answer": "1875"
   },
   {
     "date": "2014-10-15",
@@ -8424,9 +8424,9 @@
     "QA_Pair_2_Question": "Which French entomologist first described Hierodula patellifera in the year 1839?",
     "QA_Pair_2_Answer": "Jean Guillaume Audinet-Serville",
     "QA_Pair_3_Question": "What year was Jean Guillaume Audinet Seville born?",
-    "QA_Pair_3_Answer": 1775,
+    "QA_Pair_3_Answer": "1775",
     "Multi_hop_Question": "In which year was the French entomologist who first described the mantis shown in the video in 1839 born?",
-    "Multi_hop_Answer": 1775
+    "Multi_hop_Answer": "1775"
   },
   {
     "date": "2014-11-03",
@@ -8502,9 +8502,9 @@
     "QA_Pair_2_Question": "Which British engineer is credited with inventing the hot bulb engine?",
     "QA_Pair_2_Answer": "Herbert Akroyd Stuart",
     "QA_Pair_3_Question": "In which year was Herbert Akroyd Stuart born?",
-    "QA_Pair_3_Answer": 1864,
+    "QA_Pair_3_Answer": "1864",
     "Multi_hop_Question": "In what year was the engineer who invented the engine shown in the video born?",
-    "Multi_hop_Answer": 1864
+    "Multi_hop_Answer": "1864"
   },
   {
     "date": "2014-12-02",
@@ -8586,9 +8586,9 @@
     "QA_Pair_1_Question": "What species of frog is shown in the video?",
     "QA_Pair_1_Answer": "Limnonectes larvaepartus",
     "QA_Pair_2_Question": "In which year was Limnonectes larvaepartus scientifically described?",
-    "QA_Pair_2_Answer": 2014,
+    "QA_Pair_2_Answer": "2014",
     "Multi_hop_Question": "In which year was the species of frog shown in the video scientifically described?",
-    "Multi_hop_Answer": 2014
+    "Multi_hop_Answer": "2014"
   },
   {
     "date": "2015-01-17",
@@ -8657,9 +8657,9 @@
     "QA_Pair_1_Question": "What machine is shown in the video?",
     "QA_Pair_1_Answer": "Sewing machine",
     "QA_Pair_2_Question": "In which year did Singh Company showcase its first practical electric sewing machine?",
-    "QA_Pair_2_Answer": 1910,
+    "QA_Pair_2_Answer": "1910",
     "Multi_hop_Question": "In which year did Singh Company showcase its first practical electric machine  shown in the video?",
-    "Multi_hop_Answer": 1910
+    "Multi_hop_Answer": "1910"
   },
   {
     "date": "2015-02-16",
@@ -8708,7 +8708,7 @@
     "QA_Pair_2_Question": "In which country is Riddarholm Church located?",
     "QA_Pair_2_Answer": "Sweden",
     "QA_Pair_3_Question": "In which year did Sweden join the European Union?",
-    "QA_Pair_3_Answer": 1995,
+    "QA_Pair_3_Answer": "1995",
     "QA_Pair_4_Question": "Who was elected as the President of France in 1995?",
     "QA_Pair_4_Answer": "Jacques Chirac",
     "Multi_hop_Question": "Who was elected as the President of France in the year when the country where the church in the video was located joined the European Union?",
@@ -8719,9 +8719,9 @@
     "QA_Pair_1_Question": "What is the model of the helicopter in the video?",
     "QA_Pair_1_Answer": "NH90",
     "QA_Pair_2_Question": "Which year did the NH90 helicopter make its first flight?",
-    "QA_Pair_2_Answer": 1995,
+    "QA_Pair_2_Answer": "1995",
     "Multi_hop_Question": "Which year did the helicopter model shown in the video make its first flight?",
-    "Multi_hop_Answer": 1995
+    "Multi_hop_Answer": "1995"
   },
   {
     "date": "2015-03-12",
@@ -8788,9 +8788,9 @@
     "QA_Pair_1_Question": "What is the specific model of the glider being launched in the video?",
     "QA_Pair_1_Answer": "DFS SG 38 Schulgleiter",
     "QA_Pair_2_Question": "In which year was the DFS SG 38 Schulgleiter first designed?",
-    "QA_Pair_2_Answer": 1938,
+    "QA_Pair_2_Answer": "1938",
     "Multi_hop_Question": "In which year was the glider launched in the video first designed?",
-    "Multi_hop_Answer": 1938
+    "Multi_hop_Answer": "1938"
   },
   {
     "date": "2015-03-20",
@@ -8918,20 +8918,20 @@
     "QA_Pair_2_Question": "Who designed the London Booster?",
     "QA_Pair_2_Answer": "David Černý",
     "QA_Pair_3_Question": "In which year was David Černý born",
-    "QA_Pair_3_Answer": 1967,
+    "QA_Pair_3_Answer": "1967",
     "QA_Pair_4_Question": "What is the year 1967 in the Discordian calendar?",
-    "QA_Pair_4_Answer": 3133,
+    "QA_Pair_4_Answer": "3133",
     "Multi_hop_Question": "What year in the Discordian calendar corresponds to the birth year of the designer of the bus shown in the video?",
-    "Multi_hop_Answer": 3133
+    "Multi_hop_Answer": "3133"
   },
   {
     "date": "2015-04-22",
     "QA_Pair_1_Question": "What Ropeway is shown in the video?",
     "QA_Pair_1_Answer": "Mount Tsukuba Ropeway",
     "QA_Pair_2_Question": "In which year was the Mount Tsukuba Ropeway opened for public service?",
-    "QA_Pair_2_Answer": 1965,
+    "QA_Pair_2_Answer": "1965",
     "Multi_hop_Question": "In which year was the ropeway shown in the video opened for public service?",
-    "Multi_hop_Answer": 1965
+    "Multi_hop_Answer": "1965"
   },
   {
     "date": "2015-04-22",
@@ -8951,9 +8951,9 @@
     "QA_Pair_1_Question": "What sport is the person playing in the video?",
     "QA_Pair_1_Answer": "Windsurfing",
     "QA_Pair_2_Question": "In which year did Windsurfing become an Olympic event?",
-    "QA_Pair_2_Answer": 1984,
+    "QA_Pair_2_Answer": "1984",
     "Multi_hop_Question": "In which year did the sport that the person in the video played in become an Olympic event?",
-    "Multi_hop_Answer": 1984
+    "Multi_hop_Answer": "1984"
   },
   {
     "date": "2015-04-25",
@@ -9033,9 +9033,9 @@
     "QA_Pair_2_Question": "Which German chemist first systematically studied the precipitation patterns now called Liesegang bands?",
     "QA_Pair_2_Answer": "Raphael Eduard Liesegang",
     "QA_Pair_3_Question": "In which year was Raphael Eduard Liesegang born?",
-    "QA_Pair_3_Answer": 1869,
+    "QA_Pair_3_Answer": "1869",
     "Multi_hop_Question": "In which year was the German chemist who systematically studied the precipitation patterns of the experiment shown in the video born?",
-    "Multi_hop_Answer": 1869
+    "Multi_hop_Answer": "1869"
   },
   {
     "date": "2015-05-21",
@@ -9060,9 +9060,9 @@
     "QA_Pair_1_Question": "What type of aircraft is shown landing in the video at sunset?",
     "QA_Pair_1_Answer": "Airbus A320",
     "QA_Pair_2_Question": "In which year was the Airbus A320 first introduced into commercial service?",
-    "QA_Pair_2_Answer": 1988,
+    "QA_Pair_2_Answer": "1988",
     "Multi_hop_Question": "In which year was the the type of aircraft shown landing in the video first introduced into commercial service?",
-    "Multi_hop_Answer": 1988
+    "Multi_hop_Answer": "1988"
   },
   {
     "date": "2015-05-28",
@@ -9071,9 +9071,9 @@
     "QA_Pair_2_Question": "To which organization was the Space Shuttle Atlantis delivered in 1985?",
     "QA_Pair_2_Answer": "Kennedy Space Center",
     "QA_Pair_3_Question": "In which year was the Kennedy Space Center formed?",
-    "QA_Pair_3_Answer": 1962,
+    "QA_Pair_3_Answer": "1962",
     "Multi_hop_Question": "In which year was the organization that the spacecraft shown in the video was delivered to in 1985 formed?",
-    "Multi_hop_Answer": 1962
+    "Multi_hop_Answer": "1962"
   },
   {
     "date": "2015-05-29",
@@ -9120,9 +9120,9 @@
     "QA_Pair_3_Question": "What is the official currency of Spain?",
     "QA_Pair_3_Answer": "Euro",
     "QA_Pair_4_Question": "In which year was the name 'Euro' officially adopted?",
-    "QA_Pair_4_Answer": 1995,
+    "QA_Pair_4_Answer": "1995",
     "Multi_hop_Question": "In which year was the name of the currency used in the country where the island in the video is located officially adopted?",
-    "Multi_hop_Answer": 1995
+    "Multi_hop_Answer": "1995"
   },
   {
     "date": "2015-06-11",
@@ -9140,9 +9140,9 @@
     "QA_Pair_2_Question": "Who discovered the NGC 300 galaxy?",
     "QA_Pair_2_Answer": "James Dunlop",
     "QA_Pair_3_Question": "In which year did James Dunlop pass away?",
-    "QA_Pair_3_Answer": 1848,
+    "QA_Pair_3_Answer": "1848",
     "Multi_hop_Question": "In which year did the discoverer of the galaxy depicted in the video pass away?",
-    "Multi_hop_Answer": 1848
+    "Multi_hop_Answer": "1848"
   },
   {
     "date": "2015-06-14",
@@ -9158,9 +9158,9 @@
     "QA_Pair_1_Question": "What is the scientific name of the animal in the video?",
     "QA_Pair_1_Answer": "Alligator mississippiensis",
     "QA_Pair_2_Question": "In which year was Alligator mississippiensis removed from the Endangered Species List by the U.S. Fish and Wildlife Service?",
-    "QA_Pair_2_Answer": 1987,
+    "QA_Pair_2_Answer": "1987",
     "Multi_hop_Question": "In which year was the animal in the video removed from the Endangered Species List by the U.S. Fish and Wildlife Service?",
-    "Multi_hop_Answer": 1987
+    "Multi_hop_Answer": "1987"
   },
   {
     "date": "2015-06-16",
@@ -9169,18 +9169,18 @@
     "QA_Pair_2_Question": "What company is Men Boxing made by?",
     "QA_Pair_2_Answer": "Edison Manufacturing Company",
     "QA_Pair_3_Question": "In what year was the Edison Manufacturing Company founded?",
-    "QA_Pair_3_Answer": 1889,
+    "QA_Pair_3_Answer": "1889",
     "Multi_hop_Question": "In what year was the company that made the movie shown in the video founded?",
-    "Multi_hop_Answer": 1889
+    "Multi_hop_Answer": "1889"
   },
   {
     "date": "2015-06-18",
     "QA_Pair_1_Question": "In which country is the location shown in the video?",
     "QA_Pair_1_Answer": "The United States",
     "QA_Pair_2_Question": "In which year did the United States declare independence from Great Britain?",
-    "QA_Pair_2_Answer": 1776,
+    "QA_Pair_2_Answer": "1776",
     "Multi_hop_Question": "In which year did the country where the location is shown in the video declare independence from Great Britain?",
-    "Multi_hop_Answer": 1776
+    "Multi_hop_Answer": "1776"
   },
   {
     "date": "2015-06-21",
@@ -9256,9 +9256,9 @@
     "QA_Pair_2_Question": "Which state was Jimmy Wales born in?",
     "QA_Pair_2_Answer": "Alabama",
     "QA_Pair_3_Question": "In which year was Alabama recognized as a state in USA?",
-    "QA_Pair_3_Answer": 1819,
+    "QA_Pair_3_Answer": "1819",
     "Multi_hop_Question": "In which year was the state in which the speaker in the video was born recognized as a state in USA?",
-    "Multi_hop_Answer": 1819
+    "Multi_hop_Answer": "1819"
   },
   {
     "date": "2015-07-09",
@@ -9294,9 +9294,9 @@
     "QA_Pair_1_Question": "Which ambulance service does the vehicle shown in the last two seconds of the video belong to?",
     "QA_Pair_1_Answer": "St John ambulance",
     "QA_Pair_2_Question": "In which year was St John Ambulance established?",
-    "QA_Pair_2_Answer": 1877,
+    "QA_Pair_2_Answer": "1877",
     "Multi_hop_Question": "In which year was the ambulance service that the vehicle in the last two seconds of the video belongs to established?",
-    "Multi_hop_Answer": 1877
+    "Multi_hop_Answer": "1877"
   },
   {
     "date": "2015-07-13",
@@ -9305,18 +9305,18 @@
     "QA_Pair_2_Question": "Which inventor applied for the patent of the first power loom?",
     "QA_Pair_2_Answer": "Edmund Cartwright",
     "QA_Pair_3_Question": "In which year was Edmund Cartwright born?",
-    "QA_Pair_3_Answer": 1743,
+    "QA_Pair_3_Answer": "1743",
     "Multi_hop_Question": "In which year was the inventor who applied for the patent of the first power equipment shown in the video born?",
-    "Multi_hop_Answer": 1743
+    "Multi_hop_Answer": "1743"
   },
   {
     "date": "2015-07-14",
     "QA_Pair_1_Question": "What type of boat is the person riding in the video?",
     "QA_Pair_1_Answer": "Kayak",
     "QA_Pair_2_Question": "Which year can the oldest kayak be traced back to?",
-    "QA_Pair_2_Answer": 1577,
+    "QA_Pair_2_Answer": "1577",
     "Multi_hop_Question": "Which year can the oldest ship the person in the video ride on be traced back to?",
-    "Multi_hop_Answer": 1577
+    "Multi_hop_Answer": "1577"
   },
   {
     "date": "2015-08-07",
@@ -9359,9 +9359,9 @@
     "QA_Pair_1_Question": "What was the specific name of the building demolished in the video?",
     "QA_Pair_1_Answer": "HNA Development Building",
     "QA_Pair_2_Question": "In which year was the HNA Development Building demolished?",
-    "QA_Pair_2_Answer": 2012,
+    "QA_Pair_2_Answer": "2012",
     "Multi_hop_Question": "In which year was the the building demolished in the video demolished?",
-    "Multi_hop_Answer": 2012
+    "Multi_hop_Answer": "2012"
   },
   {
     "date": "2015-08-12",
@@ -9370,9 +9370,9 @@
     "QA_Pair_2_Question": "Which city is the capital of the People's Republic of China?",
     "QA_Pair_2_Answer": "Beijing",
     "QA_Pair_3_Question": "What is the area code for Beijing?",
-    "QA_Pair_3_Answer": 10,
+    "QA_Pair_3_Answer": "10",
     "Multi_hop_Question": "What is the area code of the capital city where the building was demolished in the video?",
-    "Multi_hop_Answer": 10
+    "Multi_hop_Answer": "10"
   },
   {
     "date": "2015-08-17",
@@ -9455,9 +9455,9 @@
     "QA_Pair_1_Question": "How was the building demolished shown in the video?",
     "QA_Pair_1_Answer": "Building implosion",
     "QA_Pair_2_Question": "In which year was the earliest recorded attempt at building implosion?",
-    "QA_Pair_2_Answer": 1773,
+    "QA_Pair_2_Answer": "1773",
     "Multi_hop_Question": "In which year was the earliest recorded attempt at building demolition shown in the video?",
-    "Multi_hop_Answer": 1773
+    "Multi_hop_Answer": "1773"
   },
   {
     "date": "2015-09-27",
@@ -9542,9 +9542,9 @@
     "QA_Pair_1_Question": "What is the designation of the aircraft receiving fuel in the video?",
     "QA_Pair_1_Answer": "Northrop Grumman X-47B",
     "QA_Pair_2_Question": "In which year did the Northrop Grumman X-47B make its maiden flight?",
-    "QA_Pair_2_Answer": 2011,
+    "QA_Pair_2_Answer": "2011",
     "Multi_hop_Question": "In which year did the aircraft receiving fuel in the video make its maiden flight?",
-    "Multi_hop_Answer": 2011
+    "Multi_hop_Answer": "2011"
   },
   {
     "date": "2015-10-06",
@@ -9553,27 +9553,27 @@
     "QA_Pair_2_Question": "Which company manufactured the X-47B?",
     "QA_Pair_2_Answer": "Northrop Grumman",
     "QA_Pair_3_Question": "In which year was Northrop Grumman founded?",
-    "QA_Pair_3_Answer": 1994,
+    "QA_Pair_3_Answer": "1994",
     "Multi_hop_Question": "In which year was the company that manufactured the aircraft receiving fuel in the air in the video founded?",
-    "Multi_hop_Answer": 1994
+    "Multi_hop_Answer": "1994"
   },
   {
     "date": "2015-10-08",
     "QA_Pair_1_Question": "What is the aircraft model taking off and performing in the video?",
     "QA_Pair_1_Answer": "F-16",
     "QA_Pair_2_Question": "In which year did the F-16 Fighting Falcon make its maiden flight?",
-    "QA_Pair_2_Answer": 1974,
+    "QA_Pair_2_Answer": "1974",
     "Multi_hop_Question": "In which year did the aircraft model taking off and performing in the video make its maiden flight?",
-    "Multi_hop_Answer": 1974
+    "Multi_hop_Answer": "1974"
   },
   {
     "date": "2015-10-16",
     "QA_Pair_1_Question": "What is the name of the roller coaster shown in the video?",
     "QA_Pair_1_Answer": "Viper",
     "QA_Pair_2_Question": "In which year did the roller coaster Viper open?",
-    "QA_Pair_2_Answer": 1990,
+    "QA_Pair_2_Answer": "1990",
     "Multi_hop_Question": "In which year did the roller coaster shown in the video open?",
-    "Multi_hop_Answer": 1990
+    "Multi_hop_Answer": "1990"
   },
   {
     "date": "2015-10-16",
@@ -9602,9 +9602,9 @@
     "QA_Pair_2_Question": "Which national park is Lake Louise located in?",
     "QA_Pair_2_Answer": "Banff National Park",
     "QA_Pair_3_Question": "Which year was Banff National Park established in?",
-    "QA_Pair_3_Answer": 1885,
+    "QA_Pair_3_Answer": "1885",
     "Multi_hop_Question": "In which year was the national park where the lake is shown in the video established?",
-    "Multi_hop_Answer": 1885
+    "Multi_hop_Answer": "1885"
   },
   {
     "date": "2015-10-22",
@@ -9620,9 +9620,9 @@
     "QA_Pair_1_Question": "What is the model of the passenger airplane shown in the video?",
     "QA_Pair_1_Answer": "Douglas DC-7",
     "QA_Pair_2_Question": "Which year did the Douglas DC-7 make its first flight?",
-    "QA_Pair_2_Answer": 1953,
+    "QA_Pair_2_Answer": "1953",
     "Multi_hop_Question": "Which year did the model of passenger airplane shown in the video make its first flight?",
-    "Multi_hop_Answer": 1953
+    "Multi_hop_Answer": "1953"
   },
   {
     "date": "2015-10-24",
@@ -9678,9 +9678,9 @@
     "QA_Pair_2_Question": "After which Dutch war hero is the miniature park Madurodam named?",
     "QA_Pair_2_Answer": "George Maduro",
     "QA_Pair_3_Question": "In which year was George Maduro born?",
-    "QA_Pair_3_Answer": 1916,
+    "QA_Pair_3_Answer": "1916",
     "Multi_hop_Question": "In which year was the Dutch war hero, after whom the park in the video is named, born?",
-    "Multi_hop_Answer": 1916
+    "Multi_hop_Answer": "1916"
   },
   {
     "date": "2015-11-26",
@@ -9698,18 +9698,18 @@
     "QA_Pair_2_Question": "Which German chemist demonstrated the \"barking dog\" reaction in front of the royal family?",
     "QA_Pair_2_Answer": "Justus von Liebig",
     "QA_Pair_3_Question": "In which year was Justus von Liebig born?",
-    "QA_Pair_3_Answer": 1803,
+    "QA_Pair_3_Answer": "1803",
     "Multi_hop_Question": "In which year was the German chemist who demonstrated the chemical reaction mentioned in the video in front of the royal family born?",
-    "Multi_hop_Answer": 1803
+    "Multi_hop_Answer": "1803"
   },
   {
     "date": "2015-11-27",
     "QA_Pair_1_Question": "Which city's ruins are shown in the video?",
     "QA_Pair_1_Answer": "Hatra",
     "QA_Pair_2_Question": "In which year was Hatra designated as a UNESCO World Heritage Site?",
-    "QA_Pair_2_Answer": 1985,
+    "QA_Pair_2_Answer": "1985",
     "Multi_hop_Question": "In which year were the ruins shown in the video designated as a UNESCO World Heritage Site?",
-    "Multi_hop_Answer": 1985
+    "Multi_hop_Answer": "1985"
   },
   {
     "date": "2015-12-12",
@@ -9727,9 +9727,9 @@
     "QA_Pair_2_Question": "Who composed the Silent Night?",
     "QA_Pair_2_Answer": "Franz Xaver Gruber",
     "QA_Pair_3_Question": "Which year was Franz Xaver Gruber born?",
-    "QA_Pair_3_Answer": 1787,
+    "QA_Pair_3_Answer": "1787",
     "Multi_hop_Question": "In which year was the person who composed the song whose German title appears at the beginning of the video born?",
-    "Multi_hop_Answer": 1787
+    "Multi_hop_Answer": "1787"
   },
   {
     "date": "2015-12-26",
@@ -9798,27 +9798,27 @@
     "QA_Pair_2_Question": "What is the highest governing body of wheelchair basketball as of 2025?",
     "QA_Pair_2_Answer": "International Wheelchair Basketball Federation",
     "QA_Pair_3_Question": "In which year was the International Wheelchair Basketball Federation established?",
-    "QA_Pair_3_Answer": 1993,
+    "QA_Pair_3_Answer": "1993",
     "Multi_hop_Question": "In which year was the highest governing body of the sport shown in the video established as of 2025?",
-    "Multi_hop_Answer": 1993
+    "Multi_hop_Answer": "1993"
   },
   {
     "date": "2016-01-23",
     "QA_Pair_1_Question": "What event is shown in the video?",
     "QA_Pair_1_Answer": "FEI World Cup Driving",
     "QA_Pair_2_Question": "In which year was the FEI World Cup Driving series first introduced?",
-    "QA_Pair_2_Answer": 2001,
+    "QA_Pair_2_Answer": "2001",
     "Multi_hop_Question": "In which yea was the event shown in the video first introduced?",
-    "Multi_hop_Answer": 2001
+    "Multi_hop_Answer": "2001"
   },
   {
     "date": "2016-02-02",
     "QA_Pair_1_Question": "Which movie clip is shown in the video?",
     "QA_Pair_1_Answer": "Gulliver's Travels",
     "QA_Pair_2_Question": "In which year was \"Gulliver's Travels\" released?",
-    "QA_Pair_2_Answer": 1939,
+    "QA_Pair_2_Answer": "1939",
     "Multi_hop_Question": "In which year was the movie clip shown in the video released?",
-    "Multi_hop_Answer": 1939
+    "Multi_hop_Answer": "1939"
   },
   {
     "date": "2016-02-07",
@@ -9836,18 +9836,18 @@
     "QA_Pair_2_Question": "Which company operates the Triple-E class container ships?",
     "QA_Pair_2_Answer": "Maersk Line",
     "QA_Pair_3_Question": "In which year was Maersk Line founded?",
-    "QA_Pair_3_Answer": 1928,
+    "QA_Pair_3_Answer": "1928",
     "Multi_hop_Question": "In which year was the operating company of the ship being built in the video founded?",
-    "Multi_hop_Answer": 1928
+    "Multi_hop_Answer": "1928"
   },
   {
     "date": "2016-02-12",
     "QA_Pair_1_Question": "Who is being interviewed in the video?",
     "QA_Pair_1_Answer": "Adolfo Garcé",
     "QA_Pair_2_Question": "In which year was Adolfo Garcé born?",
-    "QA_Pair_2_Answer": 1965,
+    "QA_Pair_2_Answer": "1965",
     "Multi_hop_Question": "In which year was the person being interviewed in the video born?",
-    "Multi_hop_Answer": 1965
+    "Multi_hop_Answer": "1965"
   },
   {
     "date": "2016-02-12",
@@ -9865,9 +9865,9 @@
     "QA_Pair_2_Question": "Who produced Cosmos Laundromat?",
     "QA_Pair_2_Answer": "Ton Roosendaal",
     "QA_Pair_3_Question": "In which year was Ton Roosendaal born?",
-    "QA_Pair_3_Answer": 1960,
+    "QA_Pair_3_Answer": "1960",
     "Multi_hop_Question": "In which year was the producor of the movie clip in the video born?",
-    "Multi_hop_Answer": 1960
+    "Multi_hop_Answer": "1960"
   },
   {
     "date": "2016-02-20",
@@ -9995,9 +9995,9 @@
     "QA_Pair_1_Question": "What is the model number of the metro train shown in the video?",
     "QA_Pair_1_Answer": "81-717.5A/714.5A",
     "QA_Pair_2_Question": "Since which year has the 81-717.5A/714.5A model operated exclusively on the Sokolnicheskaya Line?",
-    "QA_Pair_2_Answer": 2010,
+    "QA_Pair_2_Answer": "2010",
     "Multi_hop_Question": "Since which year has the model number of the metro train shown in the video operated exclusively on the Sokolnicheskaya Line?",
-    "Multi_hop_Answer": 2010
+    "Multi_hop_Answer": "2010"
   },
   {
     "date": "2016-04-28",
@@ -10089,9 +10089,9 @@
     "QA_Pair_1_Question": "What is the name of the island shown in the video?",
     "QA_Pair_1_Answer": "Wallis Island",
     "QA_Pair_2_Question": "In which year did Wallis Island become a French protectorate?",
-    "QA_Pair_2_Answer": 1887,
+    "QA_Pair_2_Answer": "1887",
     "Multi_hop_Question": "In which year did the island shown in the video become a French protectorate?",
-    "Multi_hop_Answer": 1887
+    "Multi_hop_Answer": "1887"
   },
   {
     "date": "2016-05-24",
@@ -10100,9 +10100,9 @@
     "QA_Pair_2_Question": "Who is Wallis Island named after?",
     "QA_Pair_2_Answer": "Samuel Wallis",
     "QA_Pair_3_Question": "What year was Samuel Wallis born?",
-    "QA_Pair_3_Answer": 1795,
+    "QA_Pair_3_Answer": "1795",
     "Multi_hop_Question": "What year was the person who the island shown in the video is named after born in?",
-    "Multi_hop_Answer": 1795
+    "Multi_hop_Answer": "1795"
   },
   {
     "date": "2016-05-25",
@@ -10111,9 +10111,9 @@
     "QA_Pair_2_Question": "Who directed The Lonely House?",
     "QA_Pair_2_Answer": "A. W. Sandberg",
     "QA_Pair_3_Question": "In which year was A. W. Sandberg born?",
-    "QA_Pair_3_Answer": 1887,
+    "QA_Pair_3_Answer": "1887",
     "Multi_hop_Question": "In which year was the director of the episode shown in the video born?",
-    "Multi_hop_Answer": 1887
+    "Multi_hop_Answer": "1887"
   },
   {
     "date": "2016-05-25",
@@ -10122,9 +10122,9 @@
     "QA_Pair_2_Question": "Who founded Nordisk Film?",
     "QA_Pair_2_Answer": "Ole Olsen",
     "QA_Pair_3_Question": "What year was Ole Olsen born?",
-    "QA_Pair_3_Answer": 1863,
+    "QA_Pair_3_Answer": "1863",
     "Multi_hop_Question": "In which year was the founder of the company that produced the movie in the video born?",
-    "Multi_hop_Answer": 1863
+    "Multi_hop_Answer": "1863"
   },
   {
     "date": "2016-05-26",
@@ -10140,9 +10140,9 @@
     "QA_Pair_1_Question": "What is this effect called in physics that is shown in the experiment in the video?",
     "QA_Pair_1_Answer": "Meissner effect",
     "QA_Pair_2_Question": "In what year was the Meissner effect discovered?",
-    "QA_Pair_2_Answer": 1933,
+    "QA_Pair_2_Answer": "1933",
     "Multi_hop_Question": "In what year was the effect shown in the experiments in the video discovered?",
-    "Multi_hop_Answer": 1933
+    "Multi_hop_Answer": "1933"
   },
   {
     "date": "2016-05-31",
@@ -10151,9 +10151,9 @@
     "QA_Pair_2_Question": "Which company designed the F-5 fighter aircraft?",
     "QA_Pair_2_Answer": "Northrop Corporation",
     "QA_Pair_3_Question": "In what year was Northrop Corporation founded?",
-    "QA_Pair_3_Answer": 1939,
+    "QA_Pair_3_Answer": "1939",
     "Multi_hop_Question": "In what year was the design company of the aircraft used in the aerobatic show shown in the video founded?",
-    "Multi_hop_Answer": 1939
+    "Multi_hop_Answer": "1939"
   },
   {
     "date": "2016-06-01",
@@ -10238,27 +10238,27 @@
     "QA_Pair_2_Question": "Who first formally named Anthracocoros Marchei?",
     "QA_Pair_2_Answer": "Jean-Frédéric Émile Oustalet",
     "QA_Pair_3_Question": "In which year was Jean-Frédéric ?mile Oustalet born?",
-    "QA_Pair_3_Answer": 1844,
+    "QA_Pair_3_Answer": "1844",
     "Multi_hop_Question": "In which year was the person who first formally named the animals in the video born?",
-    "Multi_hop_Answer": 1844
+    "Multi_hop_Answer": "1844"
   },
   {
     "date": "2016-07-18",
     "QA_Pair_1_Question": "What bridge appears in the video?",
     "QA_Pair_1_Answer": "Wiesen Viaduct",
     "QA_Pair_2_Question": "In which year was the Wiesen Viaduct completed?",
-    "QA_Pair_2_Answer": 1909,
+    "QA_Pair_2_Answer": "1909",
     "Multi_hop_Question": "In which year was the bridge that appears in the video completed?",
-    "Multi_hop_Answer": 1909
+    "Multi_hop_Answer": "1909"
   },
   {
     "date": "2016-07-19",
     "QA_Pair_1_Question": "What is the name of the lake shown in the video?",
     "QA_Pair_1_Answer": "Eagle Mountain Lake",
     "QA_Pair_2_Question": "Which year was the dam that created Eagle Mountain Lake completed?",
-    "QA_Pair_2_Answer": 1932,
+    "QA_Pair_2_Answer": "1932",
     "Multi_hop_Question": "Which year was the dam that created the lake shown in the video completed?",
-    "Multi_hop_Answer": 1932
+    "Multi_hop_Answer": "1932"
   },
   {
     "date": "2016-07-19",
@@ -10278,18 +10278,18 @@
     "QA_Pair_2_Question": "Which company manufactures the Prusa i3?",
     "QA_Pair_2_Answer": "Prusa Research",
     "QA_Pair_3_Question": "In which year was Prusa Research founded?",
-    "QA_Pair_3_Answer": 2012,
+    "QA_Pair_3_Answer": "2012",
     "Multi_hop_Question": "In which year was the company that manufactured the printer model shown in the video founded?",
-    "Multi_hop_Answer": 2012
+    "Multi_hop_Answer": "2012"
   },
   {
     "date": "2016-07-22",
     "QA_Pair_1_Question": "What type of vehicle is shown in the video?",
     "QA_Pair_1_Answer": "Harvester",
     "QA_Pair_2_Question": "In which year was the first fully mobile harvester officially introduced?",
-    "QA_Pair_2_Answer": 1973,
+    "QA_Pair_2_Answer": "1973",
     "Multi_hop_Question": "In which year was the first true fully mobile vehicle shown in the video officially introduced?",
-    "Multi_hop_Answer": 1973
+    "Multi_hop_Answer": "1973"
   },
   {
     "date": "2016-08-03",
@@ -10305,9 +10305,9 @@
     "QA_Pair_1_Question": "What is the building shown in the video?",
     "QA_Pair_1_Answer": "Strasbourg Cathedral",
     "QA_Pair_2_Question": "In which year was Strasbourg Cathedral completed?",
-    "QA_Pair_2_Answer": 1439,
+    "QA_Pair_2_Answer": "1439",
     "Multi_hop_Question": "In which year was the building shown in the video completed?",
-    "Multi_hop_Answer": 1439
+    "Multi_hop_Answer": "1439"
   },
   {
     "date": "2016-08-07",
@@ -10345,9 +10345,9 @@
     "QA_Pair_1_Question": "What's the name of the movie in the video?",
     "QA_Pair_1_Answer": "The Snows of Kilimanjaro",
     "QA_Pair_2_Question": "What is the release date of The Snows of Kilimanjaro in the video?",
-    "QA_Pair_2_Answer": 1952,
+    "QA_Pair_2_Answer": "1952",
     "Multi_hop_Question": "What is the release date of the movie in the video?",
-    "Multi_hop_Answer": 1952
+    "Multi_hop_Answer": "1952"
   },
   {
     "date": "2016-08-18",
@@ -10372,9 +10372,9 @@
     "QA_Pair_1_Question": "Which park is shown in the video?",
     "QA_Pair_1_Answer": "Loonse en Drunense Duinen National Park",
     "QA_Pair_2_Question": "Which year was Loonse en Drunense Duinen National Park designated as a national park?",
-    "QA_Pair_2_Answer": 2002,
+    "QA_Pair_2_Answer": "2002",
     "Multi_hop_Question": "Which year was the park in the video designated as a national park?",
-    "Multi_hop_Answer": 2002
+    "Multi_hop_Answer": "2002"
   },
   {
     "date": "2016-08-21",
@@ -10401,27 +10401,27 @@
     "QA_Pair_1_Question": "Which company produced the documentary film shown in the video?",
     "QA_Pair_1_Answer": "NASA",
     "QA_Pair_2_Question": "In which year was NASA established?",
-    "QA_Pair_2_Answer": 1958,
+    "QA_Pair_2_Answer": "1958",
     "Multi_hop_Question": "In which year was the company produced the documentary film shown in the video established?",
-    "Multi_hop_Answer": 1958
+    "Multi_hop_Answer": "1958"
   },
   {
     "date": "2016-08-23",
     "QA_Pair_1_Question": "Who directed the documentary shown in the video?",
     "QA_Pair_1_Answer": "Robert Drew",
     "QA_Pair_2_Question": "In which year was Robert Drew born?",
-    "QA_Pair_2_Answer": 1924,
+    "QA_Pair_2_Answer": "1924",
     "Multi_hop_Question": "In which year was the director of the documentary shown in the video born?",
-    "Multi_hop_Answer": 1924
+    "Multi_hop_Answer": "1924"
   },
   {
     "date": "2016-08-24",
     "QA_Pair_1_Question": "What is the model of the airplane in the video?",
     "QA_Pair_1_Answer": "Antonov An-124 Ruslan",
     "QA_Pair_2_Question": "In which year did the Antonov An-124 Ruslan make its maiden flight?",
-    "QA_Pair_2_Answer": 1982,
+    "QA_Pair_2_Answer": "1982",
     "Multi_hop_Question": "In which year did the model of the airplane shown in the video make its maiden flight?",
-    "Multi_hop_Answer": 1982
+    "Multi_hop_Answer": "1982"
   },
   {
     "date": "2016-08-25",
@@ -10479,9 +10479,9 @@
     "QA_Pair_1_Question": "What are the chemical elements shown in the video?",
     "QA_Pair_1_Answer": "Gallium",
     "QA_Pair_2_Question": "In which year was gallium discovered?",
-    "QA_Pair_2_Answer": 1875,
+    "QA_Pair_2_Answer": "1875",
     "Multi_hop_Question": "Which year are the chemical elements shown in the video discovered?",
-    "Multi_hop_Answer": 1875
+    "Multi_hop_Answer": "1875"
   },
   {
     "date": "2016-09-11",
@@ -10490,9 +10490,9 @@
     "QA_Pair_2_Question": "Who discovered gallium?",
     "QA_Pair_2_Answer": "Paul-Émile Lecoq de Boisbaudran",
     "QA_Pair_3_Question": "What year was Paul - ? mile Lecoq de Boisbaudran born?",
-    "QA_Pair_3_Answer": 1838,
+    "QA_Pair_3_Answer": "1838",
     "Multi_hop_Question": "What year was the discoverer of the chemical element shown in the video born?",
-    "Multi_hop_Answer": 1838
+    "Multi_hop_Answer": "1838"
   },
   {
     "date": "2016-09-25",
@@ -10501,27 +10501,27 @@
     "QA_Pair_2_Question": "Who came up with Newton's theorem of revolving orbits?",
     "QA_Pair_2_Answer": "Isaac Newton",
     "QA_Pair_3_Question": "What year was Isaac Newton born?",
-    "QA_Pair_3_Answer": 1689,
+    "QA_Pair_3_Answer": "1689",
     "Multi_hop_Question": "What year was the person who presented the proof of the physical origin of the phenomenon shown in the video born?",
-    "Multi_hop_Answer": 1689
+    "Multi_hop_Answer": "1689"
   },
   {
     "date": "2016-09-26",
     "QA_Pair_1_Question": "In which city is the scene shown in the video located?",
     "QA_Pair_1_Answer": "Gibraltar",
     "QA_Pair_2_Question": "In which year did Gibraltar become a British Overseas Territory of the United Kingdom?",
-    "QA_Pair_2_Answer": 1713,
+    "QA_Pair_2_Answer": "1713",
     "Multi_hop_Question": "In which year did the city shown in the video become a British Overseas Territory of the United Kingdom?",
-    "Multi_hop_Answer": 1713
+    "Multi_hop_Answer": "1713"
   },
   {
     "date": "2016-09-26",
     "QA_Pair_1_Question": "What is the cable car in the video?",
     "QA_Pair_1_Answer": "Gibraltar Cable Car",
     "QA_Pair_2_Question": "In which year was the Gibraltar Cable Car, the aerial tramway in Gibraltar, originally opened to the public?",
-    "QA_Pair_2_Answer": 1966,
+    "QA_Pair_2_Answer": "1966",
     "Multi_hop_Question": "In which year was the cable car shown in the video originally opened to the public?",
-    "Multi_hop_Answer": 1966
+    "Multi_hop_Answer": "1966"
   },
   {
     "date": "2016-09-27",
@@ -10557,18 +10557,18 @@
     "QA_Pair_1_Question": "What type of locomotive is seen in the video?",
     "QA_Pair_1_Answer": "Steam locomotive",
     "QA_Pair_2_Question": "In which year was the first known steam locomotive manufactured?",
-    "QA_Pair_2_Answer": 1804,
+    "QA_Pair_2_Answer": "1804",
     "Multi_hop_Question": "In which year was the first known locomotive seen in the video manufactured?",
-    "Multi_hop_Answer": 1804
+    "Multi_hop_Answer": "1804"
   },
   {
     "date": "2016-12-07",
     "QA_Pair_1_Question": "Which park is shown in the scenes of the video?",
     "QA_Pair_1_Answer": "Serra do Gandarela National Park",
     "QA_Pair_2_Question": "In which year was Serra do Gandarela National Park officially established?",
-    "QA_Pair_2_Answer": 2014,
+    "QA_Pair_2_Answer": "2014",
     "Multi_hop_Question": "In which year was the park officially established in the video?",
-    "Multi_hop_Answer": 2014
+    "Multi_hop_Answer": "2014"
   },
   {
     "date": "2016-12-10",
@@ -10611,9 +10611,9 @@
     "QA_Pair_1_Question": "Which tunnel does the car pass through in the video?",
     "QA_Pair_1_Answer": "Port Miami Tunnel",
     "QA_Pair_2_Question": "In which year was the Port Miami Tunnel officially opened to traffic?",
-    "QA_Pair_2_Answer": 2014,
+    "QA_Pair_2_Answer": "2014",
     "Multi_hop_Question": "In which year was the tunnel that the car passes through in the video officially opened to traffic?",
-    "Multi_hop_Answer": 2014
+    "Multi_hop_Answer": "2014"
   },
   {
     "date": "2017-03-19",
@@ -10660,9 +10660,9 @@
     "QA_Pair_1_Question": "Which university's campus is shown in the video?",
     "QA_Pair_1_Answer": "University of Central Florida",
     "QA_Pair_2_Question": "In which year was the University of Central Florida founded?",
-    "QA_Pair_2_Answer": 1963,
+    "QA_Pair_2_Answer": "1963",
     "Multi_hop_Question": "In which year was the university whose campus is shown in the video founded?",
-    "Multi_hop_Answer": 1963
+    "Multi_hop_Answer": "1963"
   },
   {
     "date": "2017-07-04",
@@ -10736,9 +10736,9 @@
     "QA_Pair_2_Question": "Who is the director of the movie Ladislas Starevich?",
     "QA_Pair_2_Answer": "Ladislas Starevich",
     "QA_Pair_3_Question": "What year was Ladislas Starevich born?",
-    "QA_Pair_3_Answer": 1882,
+    "QA_Pair_3_Answer": "1882",
     "Multi_hop_Question": "What year was the director of the movie in the video born?",
-    "Multi_hop_Answer": 1882
+    "Multi_hop_Answer": "1882"
   },
   {
     "date": "2017-07-28",
@@ -10756,36 +10756,36 @@
     "QA_Pair_2_Question": "Who is the director of Die Verlorene Welt?",
     "QA_Pair_2_Answer": "Harry O. Hoyt",
     "QA_Pair_3_Question": "In which year did Harry Hoyt start his film career?",
-    "QA_Pair_3_Answer": 1910,
+    "QA_Pair_3_Answer": "1910",
     "Multi_hop_Question": "In which year did the director of the movie in the video start his film career?",
-    "Multi_hop_Answer": 1910
+    "Multi_hop_Answer": "1910"
   },
   {
     "date": "2017-10-21",
     "QA_Pair_1_Question": "What is the aircraft in the video used for?",
     "QA_Pair_1_Answer": "Aerial firefighting",
     "QA_Pair_2_Question": "In which year did aerial firefighting originate?",
-    "QA_Pair_2_Answer": 1929,
+    "QA_Pair_2_Answer": "1929",
     "Multi_hop_Question": "In which year did the use of the aircraft shown in the video originate",
-    "Multi_hop_Answer": 1929
+    "Multi_hop_Answer": "1929"
   },
   {
     "date": "2017-10-23",
     "QA_Pair_1_Question": "Which mode of transportation are the soldiers using for rescue in the video?",
     "QA_Pair_1_Answer": "Helicopter",
     "QA_Pair_2_Question": "Which year did the world's first helicopter appear?",
-    "QA_Pair_2_Answer": 1936,
+    "QA_Pair_2_Answer": "1936",
     "Multi_hop_Question": "Which year did the world's first mode of transportation used by soldiers for rescue in the video appear?",
-    "Multi_hop_Answer": 1936
+    "Multi_hop_Answer": "1936"
   },
   {
     "date": "2017-10-28",
     "QA_Pair_1_Question": "What is the name of the ship appearing in the video?",
     "QA_Pair_1_Answer": "MS Gabriella",
     "QA_Pair_2_Question": "In which year was MS Gabriella built?",
-    "QA_Pair_2_Answer": 1992,
+    "QA_Pair_2_Answer": "1992",
     "Multi_hop_Question": "In which year was the ship appearing in the video built?",
-    "Multi_hop_Answer": 1992
+    "Multi_hop_Answer": "1992"
   },
   {
     "date": "2017-11-06",
@@ -10810,9 +10810,9 @@
     "QA_Pair_1_Question": "What is the name of the cruise ship in the video?",
     "QA_Pair_1_Answer": "Seven Seas Voyager",
     "QA_Pair_2_Question": "In which year was Seven Seas Voyager put into use?",
-    "QA_Pair_2_Answer": 2003,
+    "QA_Pair_2_Answer": "2003",
     "Multi_hop_Question": "When was the cruise ship in the video put into used?",
-    "Multi_hop_Answer": 2003
+    "Multi_hop_Answer": "2003"
   },
   {
     "date": "2017-11-19",
@@ -10848,9 +10848,9 @@
     "QA_Pair_1_Question": "What technology is used in the video?",
     "QA_Pair_1_Answer": "Magnetic levitation",
     "QA_Pair_2_Question": "In which year was the first commercial people mover used magnetic levitation opened?",
-    "QA_Pair_2_Answer": 1984,
+    "QA_Pair_2_Answer": "1984",
     "Multi_hop_Question": "In which year was the first commercial people mover that used the technology in the video opened?",
-    "Multi_hop_Answer": 1984
+    "Multi_hop_Answer": "1984"
   },
   {
     "date": "2018-01-31",
@@ -10875,27 +10875,27 @@
     "QA_Pair_1_Question": "Which movie is shown in the video?",
     "QA_Pair_1_Answer": "Mechanical Doll",
     "QA_Pair_2_Question": "Which year was the Out of the Inkwell released?",
-    "QA_Pair_2_Answer": 1922,
+    "QA_Pair_2_Answer": "1922",
     "Multi_hop_Question": "Which year was the movie shown in the video released?",
-    "Multi_hop_Answer": 1922
+    "Multi_hop_Answer": "1922"
   },
   {
     "date": "2018-02-16",
     "QA_Pair_1_Question": "What movie is being shown in the video?",
     "QA_Pair_1_Answer": "La Peine du talion",
     "QA_Pair_2_Question": "In which year was La Peine du talion released?",
-    "QA_Pair_2_Answer": 1906,
+    "QA_Pair_2_Answer": "1906",
     "Multi_hop_Question": "In which year was the movie shown in the video released?",
-    "Multi_hop_Answer": 1906
+    "Multi_hop_Answer": "1906"
   },
   {
     "date": "2018-03-02",
     "QA_Pair_1_Question": "What is the title of the silent film shown in the video?",
     "QA_Pair_1_Answer": "Laborer's Love",
     "QA_Pair_2_Question": "Which year was the silent film titled \"The Love of Workers\" released?",
-    "QA_Pair_2_Answer": 1922,
+    "QA_Pair_2_Answer": "1922",
     "Multi_hop_Question": "Which year was the movie displayed in the video released?",
-    "Multi_hop_Answer": 1922
+    "Multi_hop_Answer": "1922"
   },
   {
     "date": "2018-03-03",
@@ -10911,9 +10911,9 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "Dating Do's and Don'ts",
     "QA_Pair_2_Question": "In which year was Dating Do's and Don'ts released?",
-    "QA_Pair_2_Answer": 1949,
+    "QA_Pair_2_Answer": "1949",
     "Multi_hop_Question": "In which year was the movie shown in the video released?",
-    "Multi_hop_Answer": 1949
+    "Multi_hop_Answer": "1949"
   },
   {
     "date": "2018-05-25",
@@ -10947,18 +10947,18 @@
     "QA_Pair_1_Question": "Which organization produced the movie shown in the video?",
     "QA_Pair_1_Answer": "CIA",
     "QA_Pair_2_Question": "In which year was the Central Intelligence Agency (CIA) officially created?",
-    "QA_Pair_2_Answer": 1947,
+    "QA_Pair_2_Answer": "1947",
     "Multi_hop_Question": "In which year was the organization that produced the movie shown in the video officially created?",
-    "Multi_hop_Answer": 1947
+    "Multi_hop_Answer": "1947"
   },
   {
     "date": "2018-05-29",
     "QA_Pair_1_Question": "Who is the female lead in the movie in the video?",
     "QA_Pair_1_Answer": "Pina Menichelli",
     "QA_Pair_2_Question": "In which year was Pina Menichelli born?",
-    "QA_Pair_2_Answer": 1890,
+    "QA_Pair_2_Answer": "1890",
     "Multi_hop_Question": "In which year was the female lead in the movie in the video born?",
-    "Multi_hop_Answer": 1890
+    "Multi_hop_Answer": "1890"
   },
   {
     "date": "2018-06-04",
@@ -10974,18 +10974,18 @@
     "QA_Pair_1_Question": "What's the name of the movie in the video?",
     "QA_Pair_1_Answer": "Nerves",
     "QA_Pair_2_Question": "In which year was Nerves released?",
-    "QA_Pair_2_Answer": 1919,
+    "QA_Pair_2_Answer": "1919",
     "Multi_hop_Question": "In which year was the movie in the video released?",
-    "Multi_hop_Answer": 1919
+    "Multi_hop_Answer": "1919"
   },
   {
     "date": "2018-06-08",
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "The Danger Girl",
     "QA_Pair_2_Question": "In which year was The Danger Girl released?",
-    "QA_Pair_2_Answer": 1916,
+    "QA_Pair_2_Answer": "1916",
     "Multi_hop_Question": "What year is the movie released in the video?",
-    "Multi_hop_Answer": 1916
+    "Multi_hop_Answer": "1916"
   },
   {
     "date": "2018-07-01",
@@ -11012,18 +11012,18 @@
     "QA_Pair_2_Question": "Who is the director of Tropical Nights?",
     "QA_Pair_2_Answer": "Elmer Clifton",
     "QA_Pair_3_Question": "In which year was Elmer Clifton born?",
-    "QA_Pair_3_Answer": 1890,
+    "QA_Pair_3_Answer": "1890",
     "Multi_hop_Question": "In which year was the director of the movie shown in the video born?",
-    "Multi_hop_Answer": 1890
+    "Multi_hop_Answer": "1890"
   },
   {
     "date": "2018-09-20",
     "QA_Pair_1_Question": "Who was interviewed live regarding solar physics as shown in the video?",
     "QA_Pair_1_Answer": "Eugene Parker",
     "QA_Pair_2_Question": "In which year was Eugene Parker born?",
-    "QA_Pair_2_Answer": 1927,
+    "QA_Pair_2_Answer": "1927",
     "Multi_hop_Question": "In which year was the person born who was interviewed live in the video about solar physics?",
-    "Multi_hop_Answer": 1927
+    "Multi_hop_Answer": "1927"
   },
   {
     "date": "2018-09-21",
@@ -11077,9 +11077,9 @@
     "QA_Pair_1_Question": "Who directed the movie shown in the video?",
     "QA_Pair_1_Answer": "Yakov Protazanov",
     "QA_Pair_2_Question": "In which year was Yakov Protazanov born?",
-    "QA_Pair_2_Answer": 1881,
+    "QA_Pair_2_Answer": "1881",
     "Multi_hop_Question": "In which year was the director of the movie shown in the video born?",
-    "Multi_hop_Answer": 1881
+    "Multi_hop_Answer": "1881"
   },
   {
     "date": "2019-02-02",
@@ -11104,9 +11104,9 @@
     "QA_Pair_1_Question": "What is the name of the movie shown in the video?",
     "QA_Pair_1_Answer": "Colonel Heeza Liar Foils the Enemy",
     "QA_Pair_2_Question": "In which year was Colonel Heeza Liar Foils the Enemy released?",
-    "QA_Pair_2_Answer": 1915,
+    "QA_Pair_2_Answer": "1915",
     "Multi_hop_Question": "In which year was the movie shown in the video released?",
-    "Multi_hop_Answer": 1915
+    "Multi_hop_Answer": "1915"
   },
   {
     "date": "2019-02-19",
@@ -11124,18 +11124,18 @@
     "QA_Pair_1_Question": "Which silent film is featured in the video?",
     "QA_Pair_1_Answer": "Bolshevism on Trial",
     "QA_Pair_2_Question": "In which year was the silent film Bolshevism on Trial released?",
-    "QA_Pair_2_Answer": 1919,
+    "QA_Pair_2_Answer": "1919",
     "Multi_hop_Question": "In which year was the film featured in the video released?",
-    "Multi_hop_Answer": 1919
+    "Multi_hop_Answer": "1919"
   },
   {
     "date": "2019-02-22",
     "QA_Pair_1_Question": "What's the name of the movie in the video?",
     "QA_Pair_1_Answer": "Bolshevism on Trial",
     "QA_Pair_2_Question": "In which year was the Bolshevism on Trial released?",
-    "QA_Pair_2_Answer": 1919,
+    "QA_Pair_2_Answer": "1919",
     "Multi_hop_Question": "In which year was the the movie shown in the video released?",
-    "Multi_hop_Answer": 1919
+    "Multi_hop_Answer": "1919"
   },
   {
     "date": "2019-02-22",
@@ -11153,9 +11153,9 @@
     "QA_Pair_1_Question": "Who is the director of the movie featured in the video?",
     "QA_Pair_1_Answer": "Jean Durand",
     "QA_Pair_2_Question": "In which year did the French film director Jean Durand die?",
-    "QA_Pair_2_Answer": 1946,
+    "QA_Pair_2_Answer": "1946",
     "Multi_hop_Question": "In which year was the director of the movie in the video die?",
-    "Multi_hop_Answer": 1946
+    "Multi_hop_Answer": "1946"
   },
   {
     "date": "2019-03-20",
@@ -11164,18 +11164,18 @@
     "QA_Pair_2_Question": "Who is the director of The Toll of the Sea?",
     "QA_Pair_2_Answer": "Chester M. Franklin",
     "QA_Pair_3_Question": "What year was Chester M. Franklin born?",
-    "QA_Pair_3_Answer": 1889,
+    "QA_Pair_3_Answer": "1889",
     "Multi_hop_Question": "What year was the director of the movie shown in the video born?",
-    "Multi_hop_Answer": 1889
+    "Multi_hop_Answer": "1889"
   },
   {
     "date": "2019-03-23",
     "QA_Pair_1_Question": "What is the name of the movie shown in the video?",
     "QA_Pair_1_Answer": "Theodore Roosevelt's arrival in Africa",
     "QA_Pair_2_Question": "Which year was the movie Theodore Roosevelt's arrival in Africa released?",
-    "QA_Pair_2_Answer": 1909,
+    "QA_Pair_2_Answer": "1909",
     "Multi_hop_Question": "Which year was the movie shown in the video released?",
-    "Multi_hop_Answer": 1909
+    "Multi_hop_Answer": "1909"
   },
   {
     "date": "2019-07-07",
@@ -11191,9 +11191,9 @@
     "QA_Pair_1_Question": "Who is the person speaking in the video?",
     "QA_Pair_1_Answer": "Robert James Rogers",
     "QA_Pair_2_Question": "In which year was Robert James Rogers created a life peer in the United Kingdom?",
-    "QA_Pair_2_Answer": 2014,
+    "QA_Pair_2_Answer": "2014",
     "Multi_hop_Question": "In which year was the person speaking in the video awarded the life peerage of the British nobility?",
-    "Multi_hop_Answer": 2014
+    "Multi_hop_Answer": "2014"
   },
   {
     "date": "2019-07-23",
@@ -11236,18 +11236,18 @@
     "QA_Pair_1_Question": "What is the model of the aircraft shown taking off and landing in the video?",
     "QA_Pair_1_Answer": "F-16 Fighting Falcon",
     "QA_Pair_2_Question": "In which year did the F-16 Fighting Falcon make its first flight?",
-    "QA_Pair_2_Answer": 1974,
+    "QA_Pair_2_Answer": "1974",
     "Multi_hop_Question": "In which year did the model of the aircraft shown taking off and landing in the video make its first flight?",
-    "Multi_hop_Answer": 1974
+    "Multi_hop_Answer": "1974"
   },
   {
     "date": "2015-10-13",
     "QA_Pair_1_Question": "What is the mountain captured in the video?",
     "QA_Pair_1_Answer": "Mount Fuji",
     "QA_Pair_2_Question": "In which year was Mount Fuji inscribed as a UNESCO World Heritage Site?",
-    "QA_Pair_2_Answer": 2013,
+    "QA_Pair_2_Answer": "2013",
     "Multi_hop_Question": "In which year was the mountain captured in the video inscribed as a UNESCO World Heritage Site?",
-    "Multi_hop_Answer": 2013
+    "Multi_hop_Answer": "2013"
   },
   {
     "date": "2015-10-18",
@@ -11272,9 +11272,9 @@
     "QA_Pair_1_Question": "Which movie is being played in the video?",
     "QA_Pair_1_Answer": "Raja Harischandra",
     "QA_Pair_2_Question": "In which year was Raja Harischandra released?",
-    "QA_Pair_2_Answer": 1913,
+    "QA_Pair_2_Answer": "1913",
     "Multi_hop_Question": "In which year was the movie being played in the video released?",
-    "Multi_hop_Answer": 1913
+    "Multi_hop_Answer": "1913"
   },
   {
     "date": "2015-12-03",
@@ -11380,9 +11380,9 @@
     "QA_Pair_1_Question": "What sport is shown in the video?",
     "QA_Pair_1_Answer": "Wheelchair basketball",
     "QA_Pair_2_Question": "In which year did the Wheelchair Basketball World Championships begin?",
-    "QA_Pair_2_Answer": 1973,
+    "QA_Pair_2_Answer": "1973",
     "Multi_hop_Question": "In which year did the World Championships for the sport shown in the video begin?",
-    "Multi_hop_Answer": 1973
+    "Multi_hop_Answer": "1973"
   },
   {
     "date": "2016-01-22",
@@ -11398,18 +11398,18 @@
     "QA_Pair_1_Question": "What is the model designation of the aircraft shown in the video?",
     "QA_Pair_1_Answer": "Lockheed Martin X-35",
     "QA_Pair_2_Question": "In which year did the Lockheed Martin X-35 conduct its first flight?",
-    "QA_Pair_2_Answer": 2000,
+    "QA_Pair_2_Answer": "2000",
     "Multi_hop_Question": "In which year did the model designation of the aircraft shown in the video conduct its first flight?",
-    "Multi_hop_Answer": 2000
+    "Multi_hop_Answer": "2000"
   },
   {
     "date": "2016-02-21",
     "QA_Pair_1_Question": "What spacecraft is shown in the video?",
     "QA_Pair_1_Answer": "The SpaceX Dragon cargo craft",
     "QA_Pair_2_Question": "In which year did the SpaceX Dragon cargo craft first successfully dock with the International Space Station?",
-    "QA_Pair_2_Answer": 2012,
+    "QA_Pair_2_Answer": "2012",
     "Multi_hop_Question": "In which year did the spacecraft shown in the video first successfully dock with the International Space Station?",
-    "Multi_hop_Answer": 2012
+    "Multi_hop_Answer": "2012"
   },
   {
     "date": "2016-03-21",
@@ -11425,9 +11425,9 @@
     "QA_Pair_1_Question": "Which city is filmed in the video?",
     "QA_Pair_1_Answer": "New York",
     "QA_Pair_2_Question": "In which year did New York City officially consolidate its boroughs into a single municipality?",
-    "QA_Pair_2_Answer": 1898,
+    "QA_Pair_2_Answer": "1898",
     "Multi_hop_Question": "In which year did the city filmed in the video officially consolidate its boroughs into a single municipality?",
-    "Multi_hop_Answer": 1898
+    "Multi_hop_Answer": "1898"
   },
   {
     "date": "2016-04-14",
@@ -11488,18 +11488,18 @@
     "QA_Pair_1_Question": "What is the aircraft model in the video?",
     "QA_Pair_1_Answer": "Antonov An-225",
     "QA_Pair_2_Question": "Which year did the Antonov An-225 perform its maiden flight?",
-    "QA_Pair_2_Answer": 1988,
+    "QA_Pair_2_Answer": "1988",
     "Multi_hop_Question": "Which year did the aircraft model shown in the video perform its maiden flight?",
-    "Multi_hop_Answer": 1988
+    "Multi_hop_Answer": "1988"
   },
   {
     "date": "2016-05-14",
     "QA_Pair_1_Question": "What are the model of the airplanes in the video?",
     "QA_Pair_1_Answer": "Aermacchi MB-339",
     "QA_Pair_2_Question": "In which year did the Aermacchi MB-339 make its first flight?",
-    "QA_Pair_2_Answer": 1976,
+    "QA_Pair_2_Answer": "1976",
     "Multi_hop_Question": "In which year did the model of airplanes shown in the video make their first flight?",
-    "Multi_hop_Answer": 1976
+    "Multi_hop_Answer": "1976"
   },
   {
     "date": "2016-05-14",
@@ -11695,18 +11695,18 @@
     "QA_Pair_1_Question": "What is the name of the clock in the video?",
     "QA_Pair_1_Answer": "Prague astronomical clock",
     "QA_Pair_2_Question": "In which year was the Prague astronomical clock first installed?",
-    "QA_Pair_2_Answer": 1410,
+    "QA_Pair_2_Answer": "1410",
     "Multi_hop_Question": "In which year was the clock shown in the video first installed?",
-    "Multi_hop_Answer": 1410
+    "Multi_hop_Answer": "1410"
   },
   {
     "date": "2016-09-11",
     "QA_Pair_1_Question": "What are the chemical elements shown in the video?",
     "QA_Pair_1_Answer": "Gallium",
     "QA_Pair_2_Question": "What is the Mohs hardness of gallium?",
-    "QA_Pair_2_Answer": 1.5,
+    "QA_Pair_2_Answer": "1.5",
     "Multi_hop_Question": "What is the Mohs hardness of the chemical element shown in the video?",
-    "Multi_hop_Answer": 1.5
+    "Multi_hop_Answer": "1.5"
   },
   {
     "date": "2016-09-29",
@@ -11758,9 +11758,9 @@
     "QA_Pair_1_Question": "What kind of sport is shown in the video?",
     "QA_Pair_1_Answer": "Skating",
     "QA_Pair_2_Question": "Which year did figure skating first appear in the Olympic Games?",
-    "QA_Pair_2_Answer": 1908,
+    "QA_Pair_2_Answer": "1908",
     "Multi_hop_Question": "Which year did the sport shown in the video first appear in the Olympic Games?",
-    "Multi_hop_Answer": 1908
+    "Multi_hop_Answer": "1908"
   },
   {
     "date": "2017-01-10",
@@ -11776,9 +11776,9 @@
     "QA_Pair_1_Question": "What is the model of the ship shown in the video?",
     "QA_Pair_1_Answer": "JDS Atago",
     "QA_Pair_2_Question": "In which year did JDS Atago come into use?",
-    "QA_Pair_2_Answer": 2007,
+    "QA_Pair_2_Answer": "2007",
     "Multi_hop_Question": "In which year did the ship shown in the video come into use?",
-    "Multi_hop_Answer": 2007
+    "Multi_hop_Answer": "2007"
   },
   {
     "date": "2017-01-11",
@@ -11857,9 +11857,9 @@
     "QA_Pair_1_Question": "Who is the speaker in the video?",
     "QA_Pair_1_Answer": "Barack Obama",
     "QA_Pair_2_Question": "In which year was Barack Obama born?",
-    "QA_Pair_2_Answer": 1961,
+    "QA_Pair_2_Answer": "1961",
     "Multi_hop_Question": "What year was the speaker in the video born?",
-    "Multi_hop_Answer": 1961
+    "Multi_hop_Answer": "1961"
   },
   {
     "date": "2017-04-23",
@@ -11893,9 +11893,9 @@
     "QA_Pair_1_Question": "What is the title of the film episode whose clips are displayed in the video?",
     "QA_Pair_1_Answer": "The Mysterious Shadow",
     "QA_Pair_2_Question": "In which year was The Mysterious Shadow released?",
-    "QA_Pair_2_Answer": 1916,
+    "QA_Pair_2_Answer": "1916",
     "Multi_hop_Question": "In which year was film episode whose clips are displayed in the video released？",
-    "Multi_hop_Answer": 1916
+    "Multi_hop_Answer": "1916"
   },
   {
     "date": "2017-07-09",
@@ -11929,9 +11929,9 @@
     "QA_Pair_1_Question": "What type of gymnastics movements are demonstrated in the video?",
     "QA_Pair_1_Answer": "Rhythmic gymnastics",
     "QA_Pair_2_Question": "Which year did rhythmic gymnastics first appear as an Olympic medal event?",
-    "QA_Pair_2_Answer": 1984,
+    "QA_Pair_2_Answer": "1984",
     "Multi_hop_Question": "Which year did the type of gymnastics movements demonstrated in the video first appear as an Olympic medal event?",
-    "Multi_hop_Answer": 1984
+    "Multi_hop_Answer": "1984"
   },
   {
     "date": "2017-07-25",
@@ -11974,9 +11974,9 @@
     "QA_Pair_1_Question": "Which stadium is shown in the video?",
     "QA_Pair_1_Answer": "Rungrado May Day Stadium",
     "QA_Pair_2_Question": "In which year was the Rungrado May Day Stadium built?",
-    "QA_Pair_2_Answer": 1989,
+    "QA_Pair_2_Answer": "1989",
     "Multi_hop_Question": "In which year was the stadium shown in the video built?",
-    "Multi_hop_Answer": 1989
+    "Multi_hop_Answer": "1989"
   },
   {
     "date": "2017-10-27",
@@ -12028,9 +12028,9 @@
     "QA_Pair_1_Question": "What is the model of the aircraft in the video?",
     "QA_Pair_1_Answer": "Tu-95MS",
     "QA_Pair_2_Question": "In what year did the Tu-95MS make its first flight?",
-    "QA_Pair_2_Answer": 1952,
+    "QA_Pair_2_Answer": "1952",
     "Multi_hop_Question": "In what year did the aircraft in the video make its first flight?",
-    "Multi_hop_Answer": 1952
+    "Multi_hop_Answer": "1952"
   },
   {
     "date": "2018-01-31",
@@ -12055,9 +12055,9 @@
     "QA_Pair_1_Question": "Which country is the scene filmed in the video in?",
     "QA_Pair_1_Answer": "America",
     "QA_Pair_2_Question": "Which year did the United States formally declare its independence from Great Britain?",
-    "QA_Pair_2_Answer": 1776,
+    "QA_Pair_2_Answer": "1776",
     "Multi_hop_Question": "In which year did the country in the video officially declare independence from Great Britain?",
-    "Multi_hop_Answer": 1776
+    "Multi_hop_Answer": "1776"
   },
   {
     "date": "2018-02-02",
@@ -12244,9 +12244,9 @@
     "QA_Pair_1_Question": "What is the title of the movie whose trailer is shown in the video?",
     "QA_Pair_1_Answer": "Lawrence of Arabia",
     "QA_Pair_2_Question": "In which year was Lawrence of Arabia released?",
-    "QA_Pair_2_Answer": 1962,
+    "QA_Pair_2_Answer": "1962",
     "Multi_hop_Question": "Which year was the movie in the video released?",
-    "Multi_hop_Answer": 1962
+    "Multi_hop_Answer": "1962"
   },
   {
     "date": "2018-10-31",
@@ -12271,9 +12271,9 @@
     "QA_Pair_1_Question": "What building is filmed in the video?",
     "QA_Pair_1_Answer": "Hamburg Planetarium",
     "QA_Pair_2_Question": "In which year did Hamburg Planetarium officially open to the public?",
-    "QA_Pair_2_Answer": 1930,
+    "QA_Pair_2_Answer": "1930",
     "Multi_hop_Question": "In which year did the building filmed in the video officially open to the public?",
-    "Multi_hop_Answer": 1930
+    "Multi_hop_Answer": "1930"
   },
   {
     "date": "2019-02-23",
@@ -12298,9 +12298,9 @@
     "QA_Pair_1_Question": "What is the name of the movie in the video?",
     "QA_Pair_1_Answer": "Design for Dreaming",
     "QA_Pair_2_Question": "In which year was Design for Dreaming released?",
-    "QA_Pair_2_Answer": 1956,
+    "QA_Pair_2_Answer": "1956",
     "Multi_hop_Question": "In which year was the movie in the video released?",
-    "Multi_hop_Answer": 1956
+    "Multi_hop_Answer": "1956"
   },
   {
     "date": "2019-03-22",
@@ -12345,7 +12345,7 @@
     "QA_Pair_1_Question": "What national flag is being raised in the video?",
     "QA_Pair_1_Answer": "The American flag",
     "QA_Pair_2_Question": "As of 2025, how many stars are on the national flag of America?",
-    "QA_Pair_2_Answer": 50,
+    "QA_Pair_2_Answer": "50",
     "QA_Pair_3_Question": "As of 2025, which version of the American flag with 50 stars is currently in use?",
     "QA_Pair_3_Answer": "27th",
     "Multi_hop_Question": "As of 2025, which version of the national flag featuring stars being raised in the video is currently in use?",
@@ -12424,9 +12424,9 @@
     "QA_Pair_2_Question": "Which element forms the crystal lattice of diamond?",
     "QA_Pair_2_Answer": "Carbon",
     "QA_Pair_3_Question": "In which period of the periodic table is carbon?",
-    "QA_Pair_3_Answer": 2,
+    "QA_Pair_3_Answer": "2",
     "Multi_hop_Question": "In which period of the periodic table is the element that forms the molecular structure shown in the video?",
-    "Multi_hop_Answer": 2
+    "Multi_hop_Answer": "2"
   },
   {
     "date": "2010-01-14",
@@ -12468,9 +12468,9 @@
     "QA_Pair_2_Question": "Which French aviator designed the Blériot XI aircraft?",
     "QA_Pair_2_Answer": "Louis Blériot",
     "QA_Pair_3_Question": "In which year was Louis Blériot born?",
-    "QA_Pair_3_Answer": 1872,
+    "QA_Pair_3_Answer": "1872",
     "Multi_hop_Question": "In which year was the French aviator who designed the aircraft shown in the video born?",
-    "Multi_hop_Answer": 1872
+    "Multi_hop_Answer": "1872"
   },
   {
     "date": "2010-02-25",
@@ -12479,9 +12479,9 @@
     "QA_Pair_2_Question": "Which mission designation was the name of the first flight of the Space Shuttle Columbia?",
     "QA_Pair_2_Answer": "STS-1",
     "QA_Pair_3_Question": "Which year was STS-1 launched?",
-    "QA_Pair_3_Answer": 1981,
+    "QA_Pair_3_Answer": "1981",
     "Multi_hop_Question": "Which year did the spacecraft shown in the video have its first flight mission?",
-    "Multi_hop_Answer": 1981
+    "Multi_hop_Answer": "1981"
   },
   {
     "date": "2010-02-28",
@@ -12534,9 +12534,9 @@
     "QA_Pair_2_Question": "Which American aerospace company was the prime contractor that built the Apollo Lunar Roving Vehicle?",
     "QA_Pair_2_Answer": "Boeing",
     "QA_Pair_3_Question": "In which year was Boeing founded?",
-    "QA_Pair_3_Answer": 1916,
+    "QA_Pair_3_Answer": "1916",
     "Multi_hop_Question": "In which year was the American aerospace company that served as the prime contractor for the vehicle shown in the video founded?",
-    "Multi_hop_Answer": 1916
+    "Multi_hop_Answer": "1916"
   },
   {
     "date": "2010-05-15",
@@ -12743,9 +12743,9 @@
     "QA_Pair_2_Question": "In which country is the Bay of Lübeck located?",
     "QA_Pair_2_Answer": "Germany",
     "QA_Pair_3_Question": "In which year did East and West Germany reunify into a single country?",
-    "QA_Pair_3_Answer": 1990,
+    "QA_Pair_3_Answer": "1990",
     "Multi_hop_Question": "In which year did the country that contains the bay shown in the video reunify into a single nation?",
-    "Multi_hop_Answer": 1990
+    "Multi_hop_Answer": "1990"
   },
   {
     "date": "2010-11-12",
@@ -12754,9 +12754,9 @@
     "QA_Pair_2_Question": "Who created Feline Follies ?",
     "QA_Pair_2_Answer": "Pat Sullivan and Otto Messmer",
     "QA_Pair_3_Question": "In which year did Pat Sullivan and Otto Messmer create this movie? ",
-    "QA_Pair_3_Answer": 1919,
+    "QA_Pair_3_Answer": "1919",
     "Multi_hop_Question": "In which year did Pat Sullivan and Otto Messmer create the movie shown in the video ? ",
-    "Multi_hop_Answer": 1919
+    "Multi_hop_Answer": "1919"
   },
   {
     "date": "2010-12-20",
@@ -12809,9 +12809,9 @@
     "QA_Pair_2_Question": "In which German city was the Graf Zeppelin constructed?",
     "QA_Pair_2_Answer": "Friedrichshafen",
     "QA_Pair_3_Question": "In which year was Friedrichshafen established?",
-    "QA_Pair_3_Answer": 1811,
+    "QA_Pair_3_Answer": "1811",
     "Multi_hop_Question": "In which year was the German city where the airship seen flying over the Netherlands in the video was constructed officially established?",
-    "Multi_hop_Answer": 1811
+    "Multi_hop_Answer": "1811"
   },
   {
     "date": "2011-03-17",
@@ -12820,9 +12820,9 @@
     "QA_Pair_2_Question": "Who took the world's first aerial photograph?",
     "QA_Pair_2_Answer": "Gaspard-Félix Tournachon(Nadar)",
     "QA_Pair_3_Question": "In which year was Gaspard-Félix Tournachon (Nadar) born?",
-    "QA_Pair_3_Answer": 1820,
+    "QA_Pair_3_Answer": "1820",
     "Multi_hop_Question": "In which year was the person who took the world's first photograph using the filming technique shown in the video born?",
-    "Multi_hop_Answer": 1820
+    "Multi_hop_Answer": "1820"
   },
   {
     "date": "2011-04-16",
@@ -12842,9 +12842,9 @@
     "QA_Pair_2_Question": "Who presided over the official inauguration ceremony of the Archbasilica of Saint John Lateran in 324 AD?",
     "QA_Pair_2_Answer": "Pope Sylvester I",
     "QA_Pair_3_Question": "In which year did Pope Sylvester I begin his tenure as Bishop of Rome?",
-    "QA_Pair_3_Answer": 314,
+    "QA_Pair_3_Answer": "314",
     "Multi_hop_Question": "In which year did the person who, in 324 AD, presided over the official inauguration ceremony of the first building shown in the video begin serving as Bishop of Rome?",
-    "Multi_hop_Answer": 314
+    "Multi_hop_Answer": "314"
   },
   {
     "date": "2011-04-26",
@@ -12886,9 +12886,9 @@
     "QA_Pair_2_Question": "As of 2025, which airline is the largest operator of the Airbus A380？",
     "QA_Pair_2_Answer": "Emirates",
     "QA_Pair_3_Question": "In which year was Emirates founded?",
-    "QA_Pair_3_Answer": 1985,
+    "QA_Pair_3_Answer": "1985",
     "Multi_hop_Question": "In which year was the 2025's largest operator of the model of the passenger plane shown in the video founded?",
-    "Multi_hop_Answer": 1985
+    "Multi_hop_Answer": "1985"
   },
   {
     "date": "2011-06-14",
@@ -12897,9 +12897,9 @@
     "QA_Pair_2_Question": "Which Dutch scientist is credited with first observing rotifers under a microscope?",
     "QA_Pair_2_Answer": "Antonie van Leeuwenhoek",
     "QA_Pair_3_Question": "In which year was Anthony Phillips van Leeuwenhoek born？",
-    "QA_Pair_3_Answer": 1632,
+    "QA_Pair_3_Answer": "1632",
     "Multi_hop_Question": "In which year was the Dutch scientist who first observed the organism shown in the video under a microscope born？",
-    "Multi_hop_Answer": 1632
+    "Multi_hop_Answer": "1632"
   },
   {
     "date": "2011-07-23",
@@ -12930,9 +12930,9 @@
     "QA_Pair_2_Question": "Which organization produced Searching Ruins on Broadway, Galveston, for Dead Bodies?",
     "QA_Pair_2_Answer": "Edison Studios",
     "QA_Pair_3_Question": "In which year did Edison Studios close?",
-    "QA_Pair_3_Answer": 1918,
+    "QA_Pair_3_Answer": "1918",
     "Multi_hop_Question": "In which year did the organization that produced the movie shown in the video close?",
-    "Multi_hop_Answer": 1918
+    "Multi_hop_Answer": "1918"
   },
   {
     "date": "2011-10-17",
@@ -12996,9 +12996,9 @@
     "QA_Pair_2_Question": "Which company manufactures the NHIndustries NH90?",
     "QA_Pair_2_Answer": "NHIndustries",
     "QA_Pair_3_Question": "In which year was NHIndustries established?",
-    "QA_Pair_3_Answer": 1992,
+    "QA_Pair_3_Answer": "1992",
     "Multi_hop_Question": "In which year was the company that manufactures the helicopter in the video established?",
-    "Multi_hop_Answer": 1992
+    "Multi_hop_Answer": "1992"
   },
   {
     "date": "2011-11-19",
@@ -13161,9 +13161,9 @@
     "QA_Pair_2_Question": "Which insect order do leaf-miner flies belong to?",
     "QA_Pair_2_Answer": "Diptera",
     "QA_Pair_3_Question": "How many pairs of wings do diptera insects use to fly?",
-    "QA_Pair_3_Answer": 1,
+    "QA_Pair_3_Answer": "1",
     "Multi_hop_Question": "How many pairs of wings do insects in the order to which the insect in the video belongs have?",
-    "Multi_hop_Answer": 1
+    "Multi_hop_Answer": "1"
   },
   {
     "date": "2012-05-26",
@@ -13194,9 +13194,9 @@
     "QA_Pair_2_Question": "Who named the Red-winged blackbird?",
     "QA_Pair_2_Answer": "Carl Linnaeus",
     "QA_Pair_3_Question": "In which year was Carl Linnaeus born?",
-    "QA_Pair_3_Answer": 1707,
+    "QA_Pair_3_Answer": "1707",
     "Multi_hop_Question": "In which year was the person who named the bird in the video born?",
-    "Multi_hop_Answer": 1707
+    "Multi_hop_Answer": "1707"
   },
   {
     "date": "2012-06-07",
@@ -13216,9 +13216,9 @@
     "QA_Pair_2_Question": "Who is the director of The Dinosaur and the Missing Link: A Prehistoric Tragedy?",
     "QA_Pair_2_Answer": "Willis O'Brien",
     "QA_Pair_3_Question": "In which year was Willis O'Brien born?",
-    "QA_Pair_3_Answer": 1886,
+    "QA_Pair_3_Answer": "1886",
     "Multi_hop_Question": "In which year was the director of the short film in the video born?",
-    "Multi_hop_Answer": 1886
+    "Multi_hop_Answer": "1886"
   },
   {
     "date": "2012-06-22",
@@ -13238,9 +13238,9 @@
     "QA_Pair_2_Question": "To which biological family do yaks belong?",
     "QA_Pair_2_Answer": "Bovidae",
     "QA_Pair_3_Question": "How many existing species of the Bovidae family are there by 2025?",
-    "QA_Pair_3_Answer": 143,
+    "QA_Pair_3_Answer": "143",
     "Multi_hop_Question": "How many existing species are there in the biological family to which the animals shown in the video by 2025?",
-    "Multi_hop_Answer": 143
+    "Multi_hop_Answer": "143"
   },
   {
     "date": "2012-06-30",
@@ -13392,9 +13392,9 @@
     "QA_Pair_2_Question": "Where is the capital of Germany?",
     "QA_Pair_2_Answer": "Berlin",
     "QA_Pair_3_Question": "What is the area code for Berlin?",
-    "QA_Pair_3_Answer": 30,
+    "QA_Pair_3_Answer": "30",
     "Multi_hop_Question": "What is the area code of the capital of the country conducting the military exercise in the video?",
-    "Multi_hop_Answer": 30
+    "Multi_hop_Answer": "30"
   },
   {
     "date": "2012-09-26",
@@ -13425,9 +13425,9 @@
     "QA_Pair_2_Question": "What is the highest governing body for curling?",
     "QA_Pair_2_Answer": "World Curling Federation",
     "QA_Pair_3_Question": "In which year was the establishment of the World Curling Federation?",
-    "QA_Pair_3_Answer": 1966,
+    "QA_Pair_3_Answer": "1966",
     "Multi_hop_Question": "In which year was the highest governing body of the sports in the video established?",
-    "Multi_hop_Answer": 1966
+    "Multi_hop_Answer": "1966"
   },
   {
     "date": "2013-02-20",
@@ -13447,9 +13447,9 @@
     "QA_Pair_2_Question": "Which American inventor founded the Edison Manufacturing Company?",
     "QA_Pair_2_Answer": "Thomas Edison",
     "QA_Pair_3_Question": "What year was Thomas Edison born?",
-    "QA_Pair_3_Answer": 1847,
+    "QA_Pair_3_Answer": "1847",
     "Multi_hop_Question": "What year was the American inventor who founded Edison Manufacturing Company born?",
-    "Multi_hop_Answer": 1847
+    "Multi_hop_Answer": "1847"
   },
   {
     "date": "2013-03-12",
@@ -13480,9 +13480,9 @@
     "QA_Pair_2_Question": "Which country is the Grumman F7F-3 Tigercat made in?",
     "QA_Pair_2_Answer": "The United State",
     "QA_Pair_3_Question": "Which year was the American declaration of independence?",
-    "QA_Pair_3_Answer": 1776,
+    "QA_Pair_3_Answer": "1776",
     "Multi_hop_Question": "Which year did the country that made the black fighter in the video declare its independence?",
-    "Multi_hop_Answer": 1776
+    "Multi_hop_Answer": "1776"
   },
   {
     "date": "2013-04-19",
@@ -13546,9 +13546,9 @@
     "QA_Pair_2_Question": "Which Scottish scientist invented the kaleidoscope?",
     "QA_Pair_2_Answer": "Sir David Brewster",
     "QA_Pair_3_Question": "In which year was Sir David Brewster born?",
-    "QA_Pair_3_Answer": 1781,
+    "QA_Pair_3_Answer": "1781",
     "Multi_hop_Question": "In which year was the Scottish scientist born who invented the object shown in the video that provides an interior view?",
-    "Multi_hop_Answer": 1781
+    "Multi_hop_Answer": "1781"
   },
   {
     "date": "2013-06-12",
@@ -13634,9 +13634,9 @@
     "QA_Pair_2_Question": "Who designed Tower Bridge?",
     "QA_Pair_2_Answer": "Horace Jones",
     "QA_Pair_3_Question": "In which year was Horace Jones born?",
-    "QA_Pair_3_Answer": 1819,
+    "QA_Pair_3_Answer": "1819",
     "Multi_hop_Question": "In which years were the designers of the bridge in the video born?",
-    "Multi_hop_Answer": 1819
+    "Multi_hop_Answer": "1819"
   },
   {
     "date": "2013-08-28",
@@ -13777,9 +13777,9 @@
     "QA_Pair_2_Question": "Who is the director of The Red Man's View?",
     "QA_Pair_2_Answer": "D. W. Griffith",
     "QA_Pair_3_Question": "In which year was D. W. Griffith born?",
-    "QA_Pair_3_Answer": 1875,
+    "QA_Pair_3_Answer": "1875",
     "Multi_hop_Question": "In which year was the director of the movie clip shown in the video born?",
-    "Multi_hop_Answer": 1875
+    "Multi_hop_Answer": "1875"
   },
   {
     "date": "2014-05-25",
@@ -13832,9 +13832,9 @@
     "QA_Pair_2_Question": "Who produced Children of the Age?",
     "QA_Pair_2_Answer": "Aleksandr Khanzhonkov",
     "QA_Pair_3_Question": "In which year was Aleksandr Khanzhonkov born?",
-    "QA_Pair_3_Answer": 1877,
+    "QA_Pair_3_Answer": "1877",
     "Multi_hop_Question": "In which year was the producer of the movie shown in the video born?",
-    "Multi_hop_Answer": 1877
+    "Multi_hop_Answer": "1877"
   },
   {
     "date": "2014-08-20",
@@ -13876,9 +13876,9 @@
     "QA_Pair_2_Question": "In which country is Krka National Park located?",
     "QA_Pair_2_Answer": "Croatia",
     "QA_Pair_3_Question": "In which year did Croatia join the European Union?",
-    "QA_Pair_3_Answer": 2013,
+    "QA_Pair_3_Answer": "2013",
     "Multi_hop_Question": "In which year did the country in which the park shown in the video is located join the European Union?",
-    "Multi_hop_Answer": 2013
+    "Multi_hop_Answer": "2013"
   },
   {
     "date": "2014-10-04",
@@ -13909,9 +13909,9 @@
     "QA_Pair_2_Question": "Which chemical element constitutes about 73 percent of the Sun's mass?",
     "QA_Pair_2_Answer": "Hydrogen",
     "QA_Pair_3_Question": "What is the position of Hydrogen in the periodic table?",
-    "QA_Pair_3_Answer": 1,
+    "QA_Pair_3_Answer": "1",
     "Multi_hop_Question": "What is the position in the periodic table of the element that accounts for about 73 percent of the star’s mass shown in the video?",
-    "Multi_hop_Answer": 1
+    "Multi_hop_Answer": "1"
   },
   {
     "date": "2015-06-09",
@@ -13942,9 +13942,9 @@
     "QA_Pair_2_Question": "In which state of the USA is Nakalele Blowhole located?",
     "QA_Pair_2_Answer": "Hawaii State",
     "QA_Pair_3_Question": "In which year was Hawaii admitted to the Union?",
-    "QA_Pair_3_Answer": 1959,
+    "QA_Pair_3_Answer": "1959",
     "Multi_hop_Question": "In which year was the state in the United States where the natural feature being shown in the video is located admitted to the Union?",
-    "Multi_hop_Answer": 1959
+    "Multi_hop_Answer": "1959"
   },
   {
     "date": "2015-06-25",
@@ -13964,9 +13964,9 @@
     "QA_Pair_2_Question": "Which continent is Echinacea purpurea native to?",
     "QA_Pair_2_Answer": "North America",
     "QA_Pair_3_Question": "How many sovereign countries are there in North America as of 2024?",
-    "QA_Pair_3_Answer": 23,
+    "QA_Pair_3_Answer": "23",
     "Multi_hop_Question": "How many sovereign countries are there in the continent where the purple flowers in the video are native to as of 2024?",
-    "Multi_hop_Answer": 23
+    "Multi_hop_Answer": "23"
   },
   {
     "date": "2015-07-05",
@@ -14063,9 +14063,9 @@
     "QA_Pair_2_Question": "In which country is Mount Fuji located?",
     "QA_Pair_2_Answer": "Japan",
     "QA_Pair_3_Question": "How many administrative regions are there in Japan by 2025?",
-    "QA_Pair_3_Answer": 47,
+    "QA_Pair_3_Answer": "47",
     "Multi_hop_Question": "How many administrative regions does the country where the mountain shown in the video is located have by 2025?",
-    "Multi_hop_Answer": 47
+    "Multi_hop_Answer": "47"
   },
   {
     "date": "2015-10-26",
@@ -14250,9 +14250,9 @@
     "QA_Pair_2_Question": "Which French athlete invented the Flyboard device used in the sport of flyboarding?",
     "QA_Pair_2_Answer": "Franky Zapata",
     "QA_Pair_3_Question": "In which year was Franky Zapata born?",
-    "QA_Pair_3_Answer": 1978,
+    "QA_Pair_3_Answer": "1978",
     "Multi_hop_Question": "In which year was the French athlete who invented the device used for the sport shown in the video born?",
-    "Multi_hop_Answer": 1978
+    "Multi_hop_Answer": "1978"
   },
   {
     "date": "2016-08-16",
@@ -14415,9 +14415,9 @@
     "QA_Pair_2_Question": "Who is the director of The Maltese Falcon?",
     "QA_Pair_2_Answer": "John Huston",
     "QA_Pair_3_Question": "In what year was John Huston born?",
-    "QA_Pair_3_Answer": 1906,
+    "QA_Pair_3_Answer": "1906",
     "Multi_hop_Question": "What year was the director of the movie in the video born?",
-    "Multi_hop_Answer": 1906
+    "Multi_hop_Answer": "1906"
   },
   {
     "date": "2018-05-29",
@@ -14437,9 +14437,9 @@
     "QA_Pair_2_Question": "Which company distributed Aladdin and the Wonderful Lamp?",
     "QA_Pair_2_Answer": "Fox Film Corporation",
     "QA_Pair_3_Question": "In which year did Fox Film Corporation become defunct?",
-    "QA_Pair_3_Answer": 1935,
+    "QA_Pair_3_Answer": "1935",
     "Multi_hop_Question": "In which year did the company that distributed the movie shown in the video become defunct?",
-    "Multi_hop_Answer": 1935
+    "Multi_hop_Answer": "1935"
   },
   {
     "date": "2018-10-30",
@@ -14448,9 +14448,9 @@
     "QA_Pair_2_Question": "Who is the director of Lawrence of Arabia?",
     "QA_Pair_2_Answer": "David Lean",
     "QA_Pair_3_Question": "In which year was David Lean born?",
-    "QA_Pair_3_Answer": 1908,
+    "QA_Pair_3_Answer": "1908",
     "Multi_hop_Question": "In which year was the director of the movie shown in the video born?",
-    "Multi_hop_Answer": 1908
+    "Multi_hop_Answer": "1908"
   },
   {
     "date": "2019-02-02",
@@ -14459,9 +14459,9 @@
     "QA_Pair_2_Question": "Which country produced the movie \"The Tailor from Torzhok\"?",
     "QA_Pair_2_Answer": "Soviet",
     "QA_Pair_3_Question": "In which year did the Soviet Union officially dissolve?",
-    "QA_Pair_3_Answer": 1991,
+    "QA_Pair_3_Answer": "1991",
     "Multi_hop_Question": "In which year did the country that produced the movie shown in the video officially dissolve?",
-    "Multi_hop_Answer": 1991
+    "Multi_hop_Answer": "1991"
   },
   {
     "date": "2019-02-04",
@@ -14533,9 +14533,9 @@
     "QA_Pair_3_Question": "To which country does the National Aeronautics and Space Administration (NASA) belong? ",
     "QA_Pair_3_Answer": "The United States",
     "QA_Pair_4_Question": "In which year did the United States drop atomic bombs on Hiroshima and Nagasaki, Japan?",
-    "QA_Pair_4_Answer": 1945,
+    "QA_Pair_4_Answer": "1945",
     "Multi_hop_Question": "In which year did the country to which the national aerospace agency that the space shuttle shown in the video is affiliated with belong drop atomic bombs on Hiroshima and Nagasaki, Japan?",
-    "Multi_hop_Answer": 1945
+    "Multi_hop_Answer": "1945"
   },
   {
     "date": "2009-08-25",
@@ -14544,7 +14544,7 @@
     "QA_Pair_2_Question": "Which spacecraft carried the first humans to land on the Moon?",
     "QA_Pair_2_Answer": "Apollo 11",
     "QA_Pair_3_Question": "In which specific year did Apollo 11 first land on the moon?",
-    "QA_Pair_3_Answer": 1969,
+    "QA_Pair_3_Answer": "1969",
     "QA_Pair_4_Question": "Which region did the Government of Spain hand over to Morocco in 1969?",
     "QA_Pair_4_Answer": "Ifni",
     "Multi_hop_Question": "Which region did the Government of Spain hand over to Morocco in the year of the first moon landing by the spacecraft that first carried humans to the planet shown in the video?",
@@ -14572,9 +14572,9 @@
     "QA_Pair_3_Question": "Who was Sedefkar Mehmed Ağa's famous architecture teacher?",
     "QA_Pair_3_Answer": "Mimar Sinan",
     "QA_Pair_4_Question": "In which year did Mimar Sinan die?",
-    "QA_Pair_4_Answer": 1588,
+    "QA_Pair_4_Answer": "1588",
     "Multi_hop_Question": "In which year did the famous architecture teacher of the Ottoman architect who designed the interior view of the building shown in the video die?",
-    "Multi_hop_Answer": 1588
+    "Multi_hop_Answer": "1588"
   },
   {
     "date": "2010-11-20",
@@ -14663,9 +14663,9 @@
     "QA_Pair_3_Question": "Who founded Saint Petersburg?",
     "QA_Pair_3_Answer": "Tsar Peter the Great",
     "QA_Pair_4_Question": "In which year did Tsar Peter the Great die?",
-    "QA_Pair_4_Answer": 1725,
+    "QA_Pair_4_Answer": "1725",
     "Multi_hop_Question": "In which year did the founder of the city where the bridge shown in the video is located die?",
-    "Multi_hop_Answer": 1725
+    "Multi_hop_Answer": "1725"
   },
   {
     "date": "2011-12-04",
@@ -14676,9 +14676,9 @@
     "QA_Pair_3_Question": "Who founded Rockwell International?",
     "QA_Pair_3_Answer": "Willard Rockwell",
     "QA_Pair_4_Question": "In which year was Willard Rockwell born?",
-    "QA_Pair_4_Answer": 1888,
+    "QA_Pair_4_Answer": "1888",
     "Multi_hop_Question": "In which year was the founder of the manufacturer of the airplane model in the video born?",
-    "Multi_hop_Answer": 1888
+    "Multi_hop_Answer": "1888"
   },
   {
     "date": "2011-12-17",
@@ -14713,7 +14713,7 @@
     "QA_Pair_2_Question": "After which French mathematician is the Julia set named?",
     "QA_Pair_2_Answer": "Gaston Julia",
     "QA_Pair_3_Question": "In which year was Gaston Julia born?",
-    "QA_Pair_3_Answer": 1893,
+    "QA_Pair_3_Answer": "1893",
     "QA_Pair_4_Question": "Which Chinese dynasty was in power in 1893?",
     "QA_Pair_4_Answer": "Qing Dynasty",
     "Multi_hop_Question": "Which Chinese dynasty was in power in the year the French mathematician, after whom the mathematical object illustrated in the video is named, was born?",
@@ -14726,7 +14726,7 @@
     "QA_Pair_2_Question": "What is the superphylum name of the Nematomorpha?",
     "QA_Pair_2_Answer": "Ecdysozoa",
     "QA_Pair_3_Question": "In which year was Ecdysozoa formally named?",
-    "QA_Pair_3_Answer": 1997,
+    "QA_Pair_3_Answer": "1997",
     "QA_Pair_4_Question": "Which Special Administrative Region returned to China in 1997?",
     "QA_Pair_4_Answer": "Hong Kong",
     "Multi_hop_Question": "Which Special Administrative Region returned to China in the year the superphylum name of the creature shown in the video was formally named?",
@@ -14830,7 +14830,7 @@
     "QA_Pair_2_Question": "Which state does Koblenz belong to?",
     "QA_Pair_2_Answer": "Rhineland-Palatinate",
     "QA_Pair_3_Question": "In which year did Rhineland-Palatinate become a part of the Federal Republic of Germany?",
-    "QA_Pair_3_Answer": 1949,
+    "QA_Pair_3_Answer": "1949",
     "QA_Pair_4_Question": "Who became the president of Israel in 1949?",
     "QA_Pair_4_Answer": "Chaim Weizmann",
     "Multi_hop_Question": "Who became the President of Israel in the year when the state containing the city seen in the video became part of the Federal Republic of Germany?",
